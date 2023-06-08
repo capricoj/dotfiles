@@ -1,0 +1,20 @@
+{
+   "addToBlacklist": {
+      "message": "Add to blacklist"
+   },
+   "disable": {
+      "message": "Disable"
+   },
+   "enable": {
+      "message": "Enable"
+   },
+   "extName": {
+      "message": "Awesome 护眼模式"
+   },
+   "extShortDesc": {
+      "message": "Curated 护眼模式 for the most popular sites"
+   },
+   "removeFromBlacklist": {
+      "message": "Remove from blacklist"
+   }
+}

@@ -1,0 +1,17 @@
+remote_id = ''
+kb_layout_type = ''
+size = [
+    2589,
+    485,
+    800,
+    600,
+]
+fav = []
+
+[options]
+
+[ui_flutter]
+wm_Main = '{"width":800.0,"height":600.0,"offsetWidth":560.0,"offsetHeight":254.0,"isMaximized":false}'
+peer-sorting = 'Remote ID'
+peer-card-ui-type = '1'
+peer-tab-index = '0'

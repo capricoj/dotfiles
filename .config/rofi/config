@@ -1,0 +1,4 @@
+configuration {
+    modi: "drun,window,combi";
+    font: "PingFang SC 15";
+}

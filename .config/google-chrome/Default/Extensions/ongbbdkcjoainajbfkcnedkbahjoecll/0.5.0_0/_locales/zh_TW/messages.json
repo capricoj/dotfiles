@@ -1,0 +1,20 @@
+{
+   "addToBlacklist": {
+      "message": "Add to blacklist"
+   },
+   "disable": {
+      "message": "Disable"
+   },
+   "enable": {
+      "message": "Enable"
+   },
+   "extName": {
+      "message": "Awesome 任何网站上的黑暗模式"
+   },
+   "extShortDesc": {
+      "message": "Curated 任何网站上的黑暗模式 for the most popular sites"
+   },
+   "removeFromBlacklist": {
+      "message": "Remove from blacklist"
+   }
+}

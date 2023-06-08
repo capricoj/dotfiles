@@ -1,0 +1,46 @@
+16:39:42 INF [API] listening addr=127.0.0.1:39703
+16:39:42 INF [Inbound] Mixed(http+socks) listening addr=[::]:7890
+16:39:42 INF [Config] initial compatible provider name=苹果服务
+16:39:42 INF [Config] initial compatible provider name=直接连接
+16:39:42 INF [Config] initial compatible provider name=国外流量
+16:39:42 INF [Config] initial compatible provider name=Telegram
+16:39:42 INF [Config] initial compatible provider name=其他流量
+16:39:42 INF [Config] initial compatible provider name=Youtube
+16:39:42 INF [Config] initial compatible provider name=Netflix
+16:39:42 INF [Config] initial compatible provider name=哔哩哔哩
+16:39:42 INF [Config] initial compatible provider name=国外媒体
+16:39:42 ERR [Inbound] start failed error=operation not permitted type=TUN stackType=gvisor inet=198.18.0.1/16
+16:40:55 INF [TCP] connected lAddr=127.0.0.1:45680 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=其他流量[Singapore-01]
+16:40:56 INF [TCP] connected lAddr=127.0.0.1:45688 rAddr=content-signature-2.cdn.mozilla.net:443 mode=rule rule=Match() proxy=其他流量[Singapore-01]
+16:40:56 INF [TCP] connected lAddr=127.0.0.1:45700 rAddr=incoming.telemetry.mozilla.org:443 mode=rule rule=Match() proxy=其他流量[Singapore-01]
+16:40:56 INF [TCP] connected lAddr=127.0.0.1:45712 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=其他流量[Singapore-01]
+16:40:56 INF [TCP] connected lAddr=127.0.0.1:45726 rAddr=aus5.mozilla.org:443 mode=rule rule=Match() proxy=其他流量[Singapore-01]
+16:40:56 INF [TCP] connected lAddr=127.0.0.1:45736 rAddr=incoming.telemetry.mozilla.org:443 mode=rule rule=Match() proxy=其他流量[Singapore-01]
+16:40:56 INF [TCP] connected lAddr=127.0.0.1:45752 rAddr=accounts.firefox.com.cn:443 mode=rule rule=DomainSuffix(cn) proxy=直接连接[DIRECT]
+16:40:56 INF [TCP] connected lAddr=127.0.0.1:45762 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=其他流量[Singapore-01]
+16:40:56 INF [TCP] connected lAddr=127.0.0.1:45770 rAddr=34.117.65.55:443 mode=rule rule=Match() proxy=其他流量[Singapore-01]
+16:40:56 INF [TCP] connected lAddr=127.0.0.1:45764 rAddr=firefox.settings.services.mozilla.com:443 mode=rule rule=Match() proxy=其他流量[Singapore-01]
+16:40:56 INF [TCP] connected lAddr=127.0.0.1:45782 rAddr=p.panban.top:80 mode=rule rule=Match() proxy=其他流量[Singapore-01]
+16:40:56 INF [TCP] connected lAddr=127.0.0.1:45790 rAddr=r3.o.lencr.org:80 mode=rule rule=Match() proxy=其他流量[Singapore-01]
+16:40:57 INF [TCP] connected lAddr=127.0.0.1:45794 rAddr=r3.o.lencr.org:80 mode=rule rule=Match() proxy=其他流量[Singapore-01]
+16:40:57 INF [TCP] connected lAddr=127.0.0.1:45800 rAddr=self.adblockultimate.net:443 mode=rule rule=Match() proxy=其他流量[Singapore-01]
+16:40:57 INF [TCP] connected lAddr=127.0.0.1:45806 rAddr=darkreader.org:443 mode=rule rule=Match() proxy=其他流量[Singapore-01]
+16:40:57 INF [TCP] connected lAddr=127.0.0.1:45818 rAddr=identity.bitwarden.com:443 mode=rule rule=Match() proxy=其他流量[Singapore-01]
+16:40:57 INF [TCP] connected lAddr=127.0.0.1:45826 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=其他流量[Singapore-01]
+16:40:57 INF [TCP] connected lAddr=127.0.0.1:45830 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=其他流量[Singapore-01]
+16:40:57 INF [TCP] connected lAddr=127.0.0.1:45852 rAddr=r3.o.lencr.org:80 mode=rule rule=Match() proxy=其他流量[Singapore-01]
+16:40:57 INF [TCP] connected lAddr=127.0.0.1:45842 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=其他流量[Singapore-01]
+16:40:58 INF [TCP] connected lAddr=127.0.0.1:43752 rAddr=api.bitwarden.com:443 mode=rule rule=Match() proxy=其他流量[Singapore-01]
+16:40:58 INF [TCP] connected lAddr=127.0.0.1:43758 rAddr=34.117.65.55:443 mode=rule rule=Match() proxy=其他流量[Singapore-01]
+16:40:58 INF [TCP] connected lAddr=127.0.0.1:43774 rAddr=r3.o.lencr.org:80 mode=rule rule=Match() proxy=其他流量[Singapore-01]
+16:40:59 INF [TCP] connected lAddr=127.0.0.1:43778 rAddr=104.18.13.33:443 mode=rule rule=Match() proxy=其他流量[Singapore-01]
+16:40:59 INF [TCP] connected lAddr=127.0.0.1:43782 rAddr=104.18.13.33:443 mode=rule rule=Match() proxy=其他流量[Singapore-01]
+16:41:00 INF [TCP] connected lAddr=127.0.0.1:43786 rAddr=adu.g-fox.cn:80 mode=rule rule=DomainSuffix(cn) proxy=直接连接[DIRECT]
+16:41:55 INF [TCP] connected lAddr=127.0.0.1:57374 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=其他流量[Singapore-01]
+16:41:57 INF [TCP] connected lAddr=127.0.0.1:41074 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=其他流量[Singapore-01]
+16:41:57 INF [TCP] connected lAddr=127.0.0.1:41090 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=其他流量[Singapore-01]
+16:42:05 INF [TCP] connected lAddr=127.0.0.1:41096 rAddr=34.117.65.55:443 mode=rule rule=Match() proxy=其他流量[Singapore-01]
+16:43:12 INF [TCP] connected lAddr=127.0.0.1:60784 rAddr=34.117.65.55:443 mode=rule rule=Match() proxy=其他流量[Singapore-01]
+16:44:17 INF [TCP] connected lAddr=127.0.0.1:46048 rAddr=34.117.65.55:443 mode=rule rule=Match() proxy=其他流量[Singapore-01]
+16:44:19 INF [TCP] connected lAddr=127.0.0.1:46062 rAddr=34.117.65.55:443 mode=rule rule=Match() proxy=其他流量[Singapore-01]
+16:45:24 INF [TCP] connected lAddr=127.0.0.1:37848 rAddr=34.117.65.55:443 mode=rule rule=Match() proxy=其他流量[Singapore-01]

@@ -1,0 +1,20 @@
+{
+   "addToBlacklist": {
+      "message": "Add to blacklist"
+   },
+   "disable": {
+      "message": "Disable"
+   },
+   "enable": {
+      "message": "Enable"
+   },
+   "extName": {
+      "message": "Awesome Dark Pdf"
+   },
+   "extShortDesc": {
+      "message": "Curated dark pdf for the most popular sites"
+   },
+   "removeFromBlacklist": {
+      "message": "Remove from blacklist"
+   }
+}

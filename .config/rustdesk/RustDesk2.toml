@@ -1,0 +1,9 @@
+rendezvous_server = '43.142.49.118:21116'
+nat_type = 1
+serial = 0
+
+[options]
+key = 'CulxL9oAzCZJT+oJdFQijgj+jti4Z0qJeBnvVFBwvjg='
+local-ip-addr = '10.0.0.7'
+relay-server = '43.142.49.118:21117'
+custom-rendezvous-server = '43.142.49.118:21116'

@@ -1,0 +1,31 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="1" l="1685525526679" />
+    </e>
+    <e n="EditorDuplicate">
+      <i c="1" l="1685525525274" />
+    </e>
+    <e n="EditorPaste">
+      <i c="2" l="1681368278578" />
+    </e>
+    <e n="Exit">
+      <i c="1" l="1685525531672" />
+    </e>
+    <e n="ShowSettings">
+      <i c="2" l="1685685588262" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$4">
+      <i c="1" l="1685525533303" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
+      <i c="1" l="1681368285746" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="1" l="1681368306079" />
+    </e>
+    <e n="com.jetbrains.python.sdk.AddLocalInterpreterAction">
+      <i c="1" l="1685685094297" />
+    </e>
+  </component>
+</application>

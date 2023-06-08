@@ -1,0 +1,19 @@
+showNewVersionIcon: true
+hideAfterStartup: false
+randomControllerPort: true
+runTimeFormat: "hh : mm : ss"
+trayOrders:
+  - - icon
+  - - status
+    - traffic
+    - text
+hideTrayIcon: false
+connShowProcess: true
+showTrayProxyDelayIndicator: true
+theme: 1
+systemTheme: false
+proxyMiniListWidth: "150"
+editor: 1
+useSystemEmoji: true
+editProfileWithCFWEditor: false
+randomMixedPort: false

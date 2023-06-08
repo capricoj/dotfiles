@@ -1,0 +1,12 @@
+08:02:18 INF [Inbound] Mixed(http+socks) listening addr=[::]:7890
+08:02:18 INF [API] listening addr=127.0.0.1:42513
+08:02:18 INF [Config] initial compatible provider name=直接连接
+08:02:18 INF [Config] initial compatible provider name=哔哩哔哩
+08:02:18 INF [Config] initial compatible provider name=国外媒体
+08:02:18 INF [Config] initial compatible provider name=国外流量
+08:02:18 INF [Config] initial compatible provider name=Netflix
+08:02:18 INF [Config] initial compatible provider name=Telegram
+08:02:18 INF [Config] initial compatible provider name=Youtube
+08:02:18 INF [Config] initial compatible provider name=苹果服务
+08:02:18 INF [Config] initial compatible provider name=其他流量
+08:02:18 ERR [Inbound] start failed error=operation not permitted type=TUN stackType=gvisor inet=198.18.0.1/16

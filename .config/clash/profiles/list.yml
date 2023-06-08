@@ -1,0 +1,46 @@
+files:
+  - url: ""
+    time: 1680931516322.yml
+    name: config.yaml
+    selected: []
+  - time: 1680931523114.yml
+    name: MESL
+    url: https://in.mesl.cloud/api/v1/client/subscribe?token=06ef8e2a55041d442edd814673cb3d12
+    selected: []
+    interval: 24
+    subInfo: {}
+    homeWeb: ""
+    mode: direct
+  - time: 1680937627037.yml
+    name: FlyingBird_1680937624.yaml
+    url: https://apiv1.v27qae.com/flydsubal/hlxsmibea1vviv6y?clash=1&extend=1
+    selected:
+      - name: GLOBAL
+        now: DIRECT
+      - name: Netflix
+        now: 国外流量
+      - name: Telegram
+        now: 国外流量
+      - name: Youtube
+        now: 国外流量
+      - name: 其他流量
+        now: 国外流量
+      - name: 哔哩哔哩
+        now: 直接连接
+      - name: 国外媒体
+        now: 国外流量
+      - name: 国外流量
+        now: Singapore-01
+      - name: 直接连接
+        now: DIRECT
+      - name: 苹果服务
+        now: 直接连接
+    interval: 0
+    subInfo:
+      upload: 0
+      download: 0
+      total: 107374182400
+      expire: 1688718628
+    homeWeb: ""
+    mode: rule
+index: -1

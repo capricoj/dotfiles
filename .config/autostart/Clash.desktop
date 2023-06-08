@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=clash
+Exec=/opt/Clash/cfw
+Icon=/opt/Clash/clash.png
+Terminal=false
+Type=Application
+Categories=Applicaion;
+Encoding=UTF-8
+StartupNotify=true
+
