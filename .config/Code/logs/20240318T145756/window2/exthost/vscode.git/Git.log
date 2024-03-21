@@ -1,0 +1,52 @@
+2024-03-18 15:05:38.564 [info] Log level: Info
+2024-03-18 15:05:38.564 [info] Validating found git in: "git"
+2024-03-18 15:05:38.564 [info] Using git "2.44.0" from "git"
+2024-03-18 15:05:38.564 [info] > git rev-parse --show-toplevel [1ms]
+2024-03-18 15:05:38.564 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-03-18 15:05:38.564 [info] > git rev-parse --show-toplevel [1ms]
+2024-03-18 15:05:38.564 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-03-18 15:05:38.576 [info] > git rev-parse --show-toplevel [10ms]
+2024-03-18 15:05:38.581 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-03-18 15:05:38.587 [info] Open repository: /home/mathis/Downloads/BigSur-dynamic
+2024-03-18 15:05:38.593 [info] > git rev-parse --show-toplevel [1ms]
+2024-03-18 15:05:38.593 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-03-18 15:05:38.593 [info] > git config --get commit.template [3ms]
+2024-03-18 15:05:38.598 [info] > git rev-parse --show-toplevel [3ms]
+2024-03-18 15:05:38.598 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-03-18 15:05:38.600 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-03-18 15:05:38.602 [warning] ENOENT: no such file or directory, open '/home/mathis/Downloads/BigSur-dynamic/.git/refs/remotes/origin/main'
+2024-03-18 15:05:38.602 [info] > git rev-parse --show-toplevel [3ms]
+2024-03-18 15:05:38.602 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-03-18 15:05:38.604 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-03-18 15:05:38.606 [info] > git rev-parse --show-toplevel [2ms]
+2024-03-18 15:05:38.606 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-03-18 15:05:38.609 [info] > git rev-parse --show-toplevel [1ms]
+2024-03-18 15:05:38.611 [info] > git rev-parse --git-dir --git-common-dir [0ms]
+2024-03-18 15:05:38.613 [info] Open repository: /home/mathis/Downloads/snapd
+2024-03-18 15:05:38.619 [info] > git config --get commit.template [3ms]
+2024-03-18 15:05:38.619 [info] > git rev-parse --show-toplevel [1ms]
+2024-03-18 15:05:38.619 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-03-18 15:05:38.626 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-03-18 15:05:38.628 [warning] ENOENT: no such file or directory, open '/home/mathis/Downloads/snapd/.git/refs/remotes/origin/master'
+2024-03-18 15:05:38.631 [info] > git rev-parse refs/remotes/origin/master [3ms]
+2024-03-18 15:05:38.635 [info] > git status -z -uall [1ms]
+2024-03-18 15:05:38.641 [info] > git config --get commit.template [1ms]
+2024-03-18 15:05:38.644 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [0ms]
+2024-03-18 15:05:38.646 [warning] ENOENT: no such file or directory, open '/home/mathis/Downloads/snapd/.git/refs/remotes/origin/master'
+2024-03-18 15:05:38.646 [info] > git rev-parse refs/remotes/origin/master [0ms]
+2024-03-18 15:05:38.649 [info] > git status -z -uall [1ms]
+2024-03-18 15:05:38.849 [info] > git status -z -uall [243ms]
+2024-03-18 15:05:38.876 [info] > git config --get commit.template [22ms]
+2024-03-18 15:05:38.887 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2024-03-18 15:05:38.889 [warning] ENOENT: no such file or directory, open '/home/mathis/Downloads/BigSur-dynamic/.git/refs/remotes/origin/main'
+2024-03-18 15:05:38.889 [info] > git rev-parse refs/remotes/origin/main [0ms]
+2024-03-18 15:05:39.114 [info] > git status -z -uall [223ms]
+2024-03-18 15:05:39.125 [info] > git check-ignore -v -z --stdin [3ms]
+2024-03-18 15:05:39.125 [info] > git check-ignore -v -z --stdin [1ms]

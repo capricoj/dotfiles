@@ -1,0 +1,1232 @@
+09:20:43 INF inbound create success inbound=mixed addr=127.0.0.1:7890 network=tcp
+09:20:43 INF inbound create success inbound=mixed addr=127.0.0.1:7890 network=udp
+09:20:43 INF [API] listening addr=127.0.0.1:38805
+09:20:43 INF [Config] initial compatible provider name=US
+09:20:43 INF [Config] initial compatible provider name=Proxies
+09:20:43 INF [Config] initial compatible provider name=PayPal
+09:20:43 INF [Config] initial compatible provider name=Netflix
+09:20:43 INF [Config] initial compatible provider name=TW
+09:20:43 INF [Config] initial compatible provider name=YouTube
+09:20:43 INF [Config] initial compatible provider name=Final
+09:20:43 INF [Config] initial compatible provider name=OpenAI
+09:20:43 INF [Config] initial compatible provider name=Spotify
+09:20:43 INF [Config] initial compatible provider name=Disney
+09:20:43 INF [Config] initial compatible provider name=Steam
+09:20:43 INF [Config] initial compatible provider name=HK
+09:20:43 INF [Config] initial compatible provider name=Apple
+09:20:43 INF [Config] initial compatible provider name=Microsoft
+09:20:43 INF [Config] initial compatible provider name=Bahamut
+09:20:43 INF [Config] initial compatible provider name=Google
+09:20:43 INF [Config] initial compatible provider name=SG
+09:20:43 INF [Config] initial compatible provider name=JP
+09:20:43 INF [Config] initial compatible provider name=Bilibili
+09:20:43 INF [Config] initial compatible provider name=Telegram
+09:20:43 INF [DNS] server listening addr=127.0.0.1:8853
+09:20:43 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:44050 rAddr=content-signature-2.cdn.mozilla.net:443 proxy=DIRECT
+09:20:43 INF [TCP] connected lAddr=127.0.0.1:44118 rAddr=firefox.settings.services.mozilla.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:20:43 INF [TCP] connected lAddr=127.0.0.1:44092 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:20:43 INF [TCP] connected lAddr=127.0.0.1:44076 rAddr=incoming.telemetry.mozilla.org:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:20:43 INF [TCP] connected lAddr=127.0.0.1:44084 rAddr=services.addons.mozilla.org:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:20:43 INF [TCP] connected lAddr=127.0.0.1:44114 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:20:43 INF [TCP] connected lAddr=127.0.0.1:44108 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:20:43 INF [TCP] connected lAddr=127.0.0.1:44120 rAddr=r3.o.lencr.org:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:20:44 INF [TCP] connected lAddr=127.0.0.1:44150 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:20:44 INF [TCP] connected lAddr=127.0.0.1:44128 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:20:44 INF [TCP] connected lAddr=127.0.0.1:44142 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:20:44 INF [TCP] connected lAddr=127.0.0.1:44060 rAddr=safebrowsing.googleapis.com:443 mode=rule rule=Domain(safebrowsing.googleapis.com) proxy=DIRECT
+09:20:44 INF [TCP] connected lAddr=127.0.0.1:44162 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(pki.goog) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:20:44 INF [TCP] connected lAddr=127.0.0.1:44166 rAddr=api.bitwarden.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:20:44 INF [TCP] connected lAddr=127.0.0.1:44180 rAddr=identity.bitwarden.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:20:44 INF [TCP] connected lAddr=127.0.0.1:44194 rAddr=shavar.services.mozilla.com:443 mode=rule rule=IPCIDR(52.0.0.0/8) proxy=Netflix[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:20:45 INF [TCP] connected lAddr=127.0.0.1:44202 rAddr=status.rapidssl.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:20:45 INF [TCP] connected lAddr=127.0.0.1:44212 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:20:45 INF [TCP] connected lAddr=127.0.0.1:44226 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:20:45 INF [TCP] connected lAddr=127.0.0.1:44218 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:20:45 INF [TCP] connected lAddr=127.0.0.1:44258 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:20:45 INF [TCP] connected lAddr=127.0.0.1:44242 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:20:45 INF [TCP] connected lAddr=127.0.0.1:44274 rAddr=incoming.telemetry.mozilla.org:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:21:26 INF [TCP] connected lAddr=127.0.0.1:56600 rAddr=unix.stackexchange.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:21:26 INF [TCP] connected lAddr=127.0.0.1:56606 rAddr=cdn.cookielaw.org:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:21:27 INF [TCP] connected lAddr=127.0.0.1:56642 rAddr=cdn.sstatic.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:21:27 INF [TCP] connected lAddr=127.0.0.1:56662 rAddr=cdn.sstatic.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:21:27 INF [TCP] connected lAddr=127.0.0.1:56674 rAddr=cdn.sstatic.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:21:27 INF [TCP] connected lAddr=127.0.0.1:56714 rAddr=cdn.sstatic.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:21:27 INF [TCP] connected lAddr=127.0.0.1:56660 rAddr=cdn.sstatic.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:21:27 INF [TCP] connected lAddr=127.0.0.1:56726 rAddr=lh3.googleusercontent.com:443 mode=rule rule=DomainSuffix(googleusercontent.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:21:27 INF [TCP] connected lAddr=127.0.0.1:56628 rAddr=cdn.sstatic.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:21:27 INF [TCP] connected lAddr=127.0.0.1:56616 rAddr=cdn.sstatic.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:21:27 INF [TCP] connected lAddr=127.0.0.1:56654 rAddr=cdn.sstatic.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:21:27 INF [TCP] connected lAddr=127.0.0.1:56700 rAddr=www.gravatar.com:443 mode=rule rule=DomainSuffix(gravatar.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:21:27 INF [TCP] connected lAddr=127.0.0.1:56738 rAddr=www.gravatar.com:443 mode=rule rule=DomainSuffix(gravatar.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:21:27 INF [TCP] connected lAddr=127.0.0.1:56706 rAddr=www.gravatar.com:443 mode=rule rule=DomainSuffix(gravatar.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:21:27 INF [TCP] connected lAddr=127.0.0.1:56712 rAddr=www.gravatar.com:443 mode=rule rule=DomainSuffix(gravatar.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:21:27 INF [TCP] connected lAddr=127.0.0.1:56690 rAddr=www.gravatar.com:443 mode=rule rule=DomainSuffix(gravatar.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:21:27 INF [TCP] connected lAddr=127.0.0.1:56688 rAddr=www.gravatar.com:443 mode=rule rule=DomainSuffix(gravatar.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:21:27 INF [TCP] connected lAddr=127.0.0.1:56752 rAddr=cdn.sstatic.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:21:27 INF [TCP] connected lAddr=127.0.0.1:56768 rAddr=cdn.sstatic.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:21:27 INF [TCP] connected lAddr=127.0.0.1:56760 rAddr=cdn.cookielaw.org:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:21:27 INF [TCP] connected lAddr=127.0.0.1:56784 rAddr=cdn.sstatic.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:21:28 INF [TCP] connected lAddr=127.0.0.1:56800 rAddr=cdn.sstatic.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:21:28 INF [TCP] connected lAddr=127.0.0.1:56806 rAddr=unix.stackexchange.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:21:28 INF [TCP] connected lAddr=127.0.0.1:56812 rAddr=cdn.cookielaw.org:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:21:28 INF [TCP] connected lAddr=127.0.0.1:56824 rAddr=cdn.cookielaw.org:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:21:28 INF [TCP] connected lAddr=127.0.0.1:56834 rAddr=cdn.cookielaw.org:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:21:28 INF [TCP] connected lAddr=127.0.0.1:56828 rAddr=cdn.cookielaw.org:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:21:42 INF [TCP] connected lAddr=127.0.0.1:49838 rAddr=incoming.telemetry.mozilla.org:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:23:47 INF [TCP] connected lAddr=127.0.0.1:59968 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:23:47 INF [TCP] connected lAddr=127.0.0.1:59972 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:23:47 INF [TCP] connected lAddr=127.0.0.1:59988 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:23:47 INF [TCP] connected lAddr=127.0.0.1:60000 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:23:48 INF [TCP] connected lAddr=127.0.0.1:60010 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:23:48 INF [TCP] connected lAddr=127.0.0.1:60014 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(pki.goog) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:23:48 INF [TCP] connected lAddr=127.0.0.1:60024 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(pki.goog) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:23:48 INF [TCP] connected lAddr=127.0.0.1:60038 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(pki.goog) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:23:49 INF [TCP] connected lAddr=127.0.0.1:43986 rAddr=fonts.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:23:49 INF [TCP] connected lAddr=127.0.0.1:43974 rAddr=www.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:23:49 INF [TCP] connected lAddr=127.0.0.1:43978 rAddr=www.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:23:49 INF [TCP] connected lAddr=127.0.0.1:43996 rAddr=fonts.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:23:54 INF [TCP] connected lAddr=127.0.0.1:44010 rAddr=lh5.googleusercontent.com:443 mode=rule rule=DomainSuffix(googleusercontent.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:23:54 INF [TCP] connected lAddr=127.0.0.1:44018 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(pki.goog) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:23:54 INF [TCP] connected lAddr=127.0.0.1:44034 rAddr=encrypted-tbn0.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:23:55 INF [TCP] connected lAddr=127.0.0.1:44060 rAddr=encrypted-tbn0.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:23:55 INF [TCP] connected lAddr=127.0.0.1:44048 rAddr=encrypted-tbn0.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:23:55 INF [TCP] connected lAddr=127.0.0.1:44022 rAddr=encrypted-tbn0.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:23:55 INF [TCP] connected lAddr=127.0.0.1:44072 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(pki.goog) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:23:55 INF [TCP] connected lAddr=127.0.0.1:44102 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(pki.goog) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:23:55 INF [TCP] connected lAddr=127.0.0.1:44078 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(pki.goog) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:23:55 INF [TCP] connected lAddr=127.0.0.1:44094 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(pki.goog) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:25:11 INF [TCP] connected lAddr=127.0.0.1:56882 rAddr=juejin.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:25:11 INF [TCP] connected lAddr=127.0.0.1:56886 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:25:11 INF [TCP] connected lAddr=127.0.0.1:56908 rAddr=lf3-cdn-tos.bytescm.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:25:11 INF [TCP] connected lAddr=127.0.0.1:56892 rAddr=lf3-cdn-tos.bytescm.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:25:11 INF [TCP] connected lAddr=127.0.0.1:56918 rAddr=lf3-cdn-tos.bytescm.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:25:11 INF [TCP] connected lAddr=127.0.0.1:56924 rAddr=lf3-cdn-tos.bytescm.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:25:11 INF [TCP] connected lAddr=127.0.0.1:56912 rAddr=lf3-cdn-tos.bytescm.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:25:11 INF [TCP] connected lAddr=127.0.0.1:56938 rAddr=lf3-cdn-tos.bytescm.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:25:11 INF [TCP] connected lAddr=127.0.0.1:56944 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:25:11 INF [TCP] connected lAddr=127.0.0.1:56962 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:25:11 INF [TCP] connected lAddr=127.0.0.1:56976 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:25:11 INF [TCP] connected lAddr=127.0.0.1:56978 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:25:11 INF [TCP] connected lAddr=127.0.0.1:56948 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:25:12 INF [TCP] connected lAddr=127.0.0.1:56992 rAddr=p9-juejin.byteimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:25:12 INF [TCP] connected lAddr=127.0.0.1:57008 rAddr=p6-passport.byteacctimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:25:12 INF [TCP] connected lAddr=127.0.0.1:57020 rAddr=lf-headquarters-speed.yhgfb-cn-static.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:25:12 INF [TCP] connected lAddr=127.0.0.1:57048 rAddr=lf3-short.ibytedapm.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:25:12 INF [TCP] connected lAddr=127.0.0.1:57032 rAddr=lf-rc1.yhgfb-cn-static.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:25:12 INF [TCP] connected lAddr=127.0.0.1:57058 rAddr=ocsp.globalsign.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:25:12 INF [TCP] connected lAddr=127.0.0.1:57070 rAddr=status.rapidssl.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:25:12 INF [TCP] connected lAddr=127.0.0.1:57074 rAddr=status.rapidssl.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:25:12 INF [TCP] connected lAddr=127.0.0.1:57092 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:25:12 INF [TCP] connected lAddr=127.0.0.1:57080 rAddr=status.rapidssl.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:25:12 INF [TCP] connected lAddr=127.0.0.1:57100 rAddr=lf3-config.bytetcc.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:25:12 INF [TCP] connected lAddr=127.0.0.1:57108 rAddr=api.juejin.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:25:12 INF [TCP] connected lAddr=127.0.0.1:57112 rAddr=p6-passport.byteacctimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:25:12 INF [TCP] connected lAddr=127.0.0.1:57120 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:25:12 INF [TCP] connected lAddr=127.0.0.1:57122 rAddr=vcs.zijieapi.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:25:12 INF [TCP] connected lAddr=127.0.0.1:57128 rAddr=p1-juejin.byteimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:25:12 INF [TCP] connected lAddr=127.0.0.1:57142 rAddr=ocsp.globalsign.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:25:12 INF [TCP] connected lAddr=127.0.0.1:57148 rAddr=unpkg.byted-static.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:25:12 INF [TCP] connected lAddr=127.0.0.1:57164 rAddr=mcs.snssdk.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:25:12 INF [TCP] connected lAddr=127.0.0.1:57180 rAddr=mcs.snssdk.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:25:12 INF [TCP] connected lAddr=127.0.0.1:57194 rAddr=mcs.snssdk.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:25:12 INF [TCP] connected lAddr=127.0.0.1:57162 rAddr=mcs.snssdk.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:25:12 INF [TCP] connected lAddr=127.0.0.1:57206 rAddr=lf-rc1.yhgfb-cn-static.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:25:12 INF [TCP] connected lAddr=127.0.0.1:57204 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:25:13 INF [TCP] connected lAddr=127.0.0.1:57226 rAddr=p3-juejin.byteimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:25:13 INF [TCP] connected lAddr=127.0.0.1:57222 rAddr=p3-juejin.byteimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:25:13 INF [TCP] connected lAddr=127.0.0.1:57208 rAddr=p3-juejin.byteimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:25:13 INF [TCP] connected lAddr=127.0.0.1:57238 rAddr=abtestvm.bytedance.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:25:13 INF [TCP] connected lAddr=127.0.0.1:57244 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:25:15 INF [TCP] connected lAddr=127.0.0.1:57252 rAddr=mssdk.bytedance.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:25:44 INF [TCP] connected lAddr=127.0.0.1:49076 rAddr=contile.services.mozilla.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:25:44 INF [TCP] connected lAddr=127.0.0.1:49090 rAddr=r3.o.lencr.org:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:27:44 INF [TCP] connected lAddr=127.0.0.1:58066 rAddr=lf3-cdn-tos.bytescm.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:28:03 INF [TCP] connected lAddr=127.0.0.1:50182 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:28:23 INF [TCP] connected lAddr=127.0.0.1:57940 rAddr=zhidao.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:28:23 INF [TCP] connected lAddr=127.0.0.1:57948 rAddr=ocsp.globalsign.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:28:24 INF [TCP] connected lAddr=127.0.0.1:57984 rAddr=iknow-zhidao.bdimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:28:24 INF [TCP] connected lAddr=127.0.0.1:58000 rAddr=iknow-zhidao.bdimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:28:24 INF [TCP] connected lAddr=127.0.0.1:57968 rAddr=iknow-zhidao.bdimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:28:24 INF [TCP] connected lAddr=127.0.0.1:58002 rAddr=iknow-zhidao.bdimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:28:24 INF [TCP] connected lAddr=127.0.0.1:57980 rAddr=iknow-zhidao.bdimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:28:24 INF [TCP] connected lAddr=127.0.0.1:57960 rAddr=iknow-zhidao.bdimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:28:24 INF [TCP] connected lAddr=127.0.0.1:58008 rAddr=m.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:28:24 INF [TCP] connected lAddr=127.0.0.1:58032 rAddr=himg.bdimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:28:24 INF [TCP] connected lAddr=127.0.0.1:58018 rAddr=gss0.bdstatic.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:28:24 INF [TCP] connected lAddr=127.0.0.1:58048 rAddr=www.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:28:24 INF [TCP] connected lAddr=127.0.0.1:58042 rAddr=hm.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:28:24 INF [TCP] connected lAddr=127.0.0.1:58064 rAddr=zhidao.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:28:24 INF [TCP] connected lAddr=127.0.0.1:58078 rAddr=zhidao.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:28:24 INF [TCP] connected lAddr=127.0.0.1:58088 rAddr=zhidao.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:28:24 INF [TCP] connected lAddr=127.0.0.1:58086 rAddr=zhidao.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:28:24 INF [TCP] connected lAddr=127.0.0.1:58090 rAddr=zhidao.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:32:36 INF [TCP] connected lAddr=127.0.0.1:39922 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:32:37 INF [TCP] connected lAddr=127.0.0.1:39938 rAddr=encrypted-tbn0.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:32:37 INF [TCP] connected lAddr=127.0.0.1:39950 rAddr=lh5.googleusercontent.com:443 mode=rule rule=DomainSuffix(googleusercontent.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:32:40 INF [TCP] connected lAddr=127.0.0.1:44416 rAddr=i.ytimg.com:443 mode=rule rule=DomainSuffix(ytimg.com) proxy=YouTube[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:32:41 INF [TCP] connected lAddr=127.0.0.1:44424 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(pki.goog) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:32:41 INF [TCP] connected lAddr=127.0.0.1:44440 rAddr=www.youtube.com:443 mode=rule rule=DomainSuffix(youtube.com) proxy=YouTube[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:32:41 INF [TCP] connected lAddr=127.0.0.1:44442 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(pki.goog) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:32:42 INF [TCP] connected lAddr=127.0.0.1:44456 rAddr=fonts.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:32:42 INF [TCP] connected lAddr=127.0.0.1:44458 rAddr=jnn-pa.googleapis.com:443 mode=rule rule=DomainSuffix(googleapis.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:32:43 INF [TCP] connected lAddr=127.0.0.1:44468 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(pki.goog) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:33:24 INF [TCP] connected lAddr=127.0.0.1:34510 rAddr=mirrors.tuna.tsinghua.edu.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:33:25 INF [TCP] connected lAddr=127.0.0.1:34538 rAddr=218.159.243.120:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:33:25 INF [TCP] connected lAddr=127.0.0.1:34522 rAddr=218.159.243.120:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:33:25 INF [TCP] connected lAddr=127.0.0.1:34548 rAddr=218.159.243.120:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:33:43 INF [TCP] connected lAddr=127.0.0.1:40968 rAddr=mirrors.tuna.tsinghua.edu.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+09:33:43 INF [TCP] connected lAddr=127.0.0.1:40970 rAddr=218.159.243.120:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:33:43 INF [TCP] connected lAddr=127.0.0.1:40982 rAddr=218.159.243.120:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:33:43 INF [TCP] connected lAddr=127.0.0.1:40992 rAddr=218.159.243.120:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:33:47 INF [TCP] connected lAddr=127.0.0.1:40998 rAddr=218.159.243.120:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:33:47 INF [TCP] connected lAddr=127.0.0.1:41004 rAddr=218.159.243.120:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:35:57 INF [TCP] connected lAddr=127.0.0.1:58148 rAddr=encrypted-tbn2.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:35:58 INF [TCP] connected lAddr=127.0.0.1:58132 rAddr=encrypted-tbn3.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:35:58 INF [TCP] connected lAddr=127.0.0.1:58118 rAddr=encrypted-tbn1.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:35:58 INF [TCP] connected lAddr=127.0.0.1:58110 rAddr=encrypted-tbn2.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:37:02 INF [TCP] connected lAddr=127.0.0.1:50900 rAddr=www.reddit.com:443 mode=rule rule=DomainSuffix(reddit.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:37:04 INF [TCP] connected lAddr=127.0.0.1:50970 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:37:04 INF [TCP] connected lAddr=127.0.0.1:50956 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:37:04 INF [TCP] connected lAddr=127.0.0.1:50928 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:37:04 INF [TCP] connected lAddr=127.0.0.1:50954 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:37:04 INF [TCP] connected lAddr=127.0.0.1:50940 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:37:04 INF [TCP] connected lAddr=127.0.0.1:50968 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:37:04 INF [TCP] connected lAddr=127.0.0.1:50930 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:37:04 INF [TCP] connected lAddr=127.0.0.1:50914 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:37:05 INF [TCP] connected lAddr=127.0.0.1:50972 rAddr=www.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:37:05 INF [TCP] connected lAddr=127.0.0.1:50980 rAddr=www.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:37:05 INF [TCP] connected lAddr=127.0.0.1:51000 rAddr=fonts.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:37:05 INF [TCP] connected lAddr=127.0.0.1:51034 rAddr=b.thumbs.redditmedia.com:443 mode=rule rule=IPCIDR(184.72.0.0/16) proxy=Netflix[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:37:05 INF [TCP] connected lAddr=127.0.0.1:51038 rAddr=b.thumbs.redditmedia.com:443 mode=rule rule=IPCIDR(184.72.0.0/16) proxy=Netflix[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:37:05 INF [TCP] connected lAddr=127.0.0.1:51028 rAddr=styles.redditmedia.com:443 mode=rule rule=DomainSuffix(redditmedia.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:37:05 INF [TCP] connected lAddr=127.0.0.1:51024 rAddr=styles.redditmedia.com:443 mode=rule rule=DomainSuffix(redditmedia.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:37:05 INF [TCP] connected lAddr=127.0.0.1:51010 rAddr=styles.redditmedia.com:443 mode=rule rule=DomainSuffix(redditmedia.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:37:05 INF [TCP] connected lAddr=127.0.0.1:51026 rAddr=styles.redditmedia.com:443 mode=rule rule=DomainSuffix(redditmedia.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:37:06 INF [TCP] connected lAddr=127.0.0.1:51054 rAddr=accounts.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:38:33 INF [TCP] connected lAddr=127.0.0.1:48416 rAddr=i3wm.org:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:40:05 INF [TCP] connected lAddr=127.0.0.1:36870 rAddr=unix.stackexchange.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:40:05 INF [TCP] connected lAddr=127.0.0.1:36912 rAddr=cdn.sstatic.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:40:05 INF [TCP] connected lAddr=127.0.0.1:36896 rAddr=cdn.sstatic.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:40:05 INF [TCP] connected lAddr=127.0.0.1:36914 rAddr=unix.stackexchange.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:40:21 INF [TCP] connected lAddr=127.0.0.1:44246 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:40:22 INF [TCP] connected lAddr=127.0.0.1:44258 rAddr=lh5.googleusercontent.com:443 mode=rule rule=DomainSuffix(googleusercontent.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:40:22 INF [TCP] connected lAddr=127.0.0.1:44268 rAddr=i.ytimg.com:443 mode=rule rule=DomainSuffix(ytimg.com) proxy=YouTube[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:40:23 INF [TCP] connected lAddr=127.0.0.1:44274 rAddr=www.youtube.com:443 mode=rule rule=DomainSuffix(youtube.com) proxy=YouTube[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:40:24 INF [TCP] connected lAddr=127.0.0.1:44290 rAddr=maps.googleapis.com:443 mode=rule rule=DomainSuffix(googleapis.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:40:24 INF [TCP] connected lAddr=127.0.0.1:44296 rAddr=jnn-pa.googleapis.com:443 mode=rule rule=DomainSuffix(googleapis.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:40:25 INF [TCP] connected lAddr=127.0.0.1:44300 rAddr=maps.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:40:25 INF [TCP] connected lAddr=127.0.0.1:44326 rAddr=fonts.googleapis.com:443 mode=rule rule=DomainSuffix(googleapis.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:40:25 INF [TCP] connected lAddr=127.0.0.1:44314 rAddr=fonts.googleapis.com:443 mode=rule rule=DomainSuffix(googleapis.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:40:32 INF [TCP] connected lAddr=127.0.0.1:33578 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:40:32 INF [TCP] connected lAddr=127.0.0.1:33588 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:40:32 INF [TCP] connected lAddr=127.0.0.1:33594 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:40:32 INF [TCP] connected lAddr=127.0.0.1:33590 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:40:32 INF [TCP] connected lAddr=127.0.0.1:33604 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:40:32 INF [TCP] connected lAddr=127.0.0.1:33614 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:40:32 INF [TCP] connected lAddr=127.0.0.1:33620 rAddr=styles.redditmedia.com:443 mode=rule rule=DomainSuffix(redditmedia.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:40:32 INF [TCP] connected lAddr=127.0.0.1:33634 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:40:32 INF [TCP] connected lAddr=127.0.0.1:33642 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:40:32 INF [TCP] connected lAddr=127.0.0.1:33648 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:40:32 INF [TCP] connected lAddr=127.0.0.1:33696 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:40:32 INF [TCP] connected lAddr=127.0.0.1:33712 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:40:32 INF [TCP] connected lAddr=127.0.0.1:33718 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:40:32 INF [TCP] connected lAddr=127.0.0.1:33722 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:40:33 INF [TCP] connected lAddr=127.0.0.1:33730 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:40:33 INF [TCP] connected lAddr=127.0.0.1:33738 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:40:33 INF [TCP] connected lAddr=127.0.0.1:33750 rAddr=accounts.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:40:33 INF [TCP] connected lAddr=127.0.0.1:33758 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(pki.goog) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:40:33 INF [TCP] connected lAddr=127.0.0.1:33764 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:40:45 INF [TCP] connected lAddr=127.0.0.1:47954 rAddr=contile.services.mozilla.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:45:46 INF [TCP] connected lAddr=127.0.0.1:39766 rAddr=shavar.services.mozilla.com:443 mode=rule rule=IPCIDR(52.0.0.0/8) proxy=Netflix[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:45:47 INF [TCP] connected lAddr=127.0.0.1:39772 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:45:47 INF [TCP] connected lAddr=127.0.0.1:39796 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:45:47 INF [TCP] connected lAddr=127.0.0.1:39780 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:45:58 INF [TCP] connected lAddr=127.0.0.1:45234 rAddr=www.reddit.com:443 mode=rule rule=DomainSuffix(reddit.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:46:01 INF [TCP] connected lAddr=127.0.0.1:34652 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:46:01 INF [TCP] connected lAddr=127.0.0.1:34662 rAddr=encrypted-tbn0.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:46:19 INF [TCP] connected lAddr=127.0.0.1:33936 rAddr=ogs.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:46:19 INF [TCP] connected lAddr=127.0.0.1:33950 rAddr=www.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:46:19 INF [TCP] connected lAddr=127.0.0.1:33954 rAddr=www.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:46:19 INF [TCP] connected lAddr=127.0.0.1:33958 rAddr=www.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:46:21 INF [TCP] connected lAddr=127.0.0.1:33962 rAddr=ssl.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:48:29 INF [TCP] connected lAddr=127.0.0.1:46860 rAddr=lh5.googleusercontent.com:443 mode=rule rule=DomainSuffix(googleusercontent.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:48:40 INF [TCP] connected lAddr=127.0.0.1:36294 rAddr=sw.kovidgoyal.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:50:55 INF [TCP] connected lAddr=127.0.0.1:55702 rAddr=safebrowsing.googleapis.com:443 mode=rule rule=Domain(safebrowsing.googleapis.com) proxy=DIRECT
+09:51:45 INF [TCP] connected lAddr=127.0.0.1:54248 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:51:45 INF [TCP] connected lAddr=127.0.0.1:54270 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:51:48 INF [TCP] connected lAddr=127.0.0.1:46590 rAddr=encrypted-tbn0.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:52:28 INF [TCP] connected lAddr=127.0.0.1:53000 rAddr=encrypted-tbn1.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:52:28 INF [TCP] connected lAddr=127.0.0.1:53024 rAddr=encrypted-tbn2.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:52:46 WRN [TCP] dial failed error=dial tcp4 142.251.46.202:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:60632 rAddr=safebrowsing.googleapis.com:443 rule=Domain rulePayload=safebrowsing.googleapis.com
+09:55:46 INF [TCP] connected lAddr=127.0.0.1:43294 rAddr=contile.services.mozilla.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:58:25 INF [TCP] connected lAddr=127.0.0.1:43554 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:58:25 INF [TCP] connected lAddr=127.0.0.1:43562 rAddr=incoming.telemetry.mozilla.org:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:58:28 INF [TCP] connected lAddr=127.0.0.1:40522 rAddr=i.ytimg.com:443 mode=rule rule=DomainSuffix(ytimg.com) proxy=YouTube[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:58:29 INF [TCP] connected lAddr=127.0.0.1:40528 rAddr=encrypted-tbn0.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:58:29 INF [TCP] connected lAddr=127.0.0.1:40530 rAddr=www.youtube.com:443 mode=rule rule=DomainSuffix(youtube.com) proxy=YouTube[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:58:30 INF [TCP] connected lAddr=127.0.0.1:40546 rAddr=jnn-pa.googleapis.com:443 mode=rule rule=DomainSuffix(googleapis.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:58:31 INF [TCP] connected lAddr=127.0.0.1:40556 rAddr=lh5.googleusercontent.com:443 mode=rule rule=DomainSuffix(googleusercontent.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:58:47 INF [TCP] connected lAddr=127.0.0.1:46310 rAddr=www.reddit.com:443 mode=rule rule=DomainSuffix(reddit.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:58:48 INF [TCP] connected lAddr=127.0.0.1:48254 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:58:48 INF [TCP] connected lAddr=127.0.0.1:48234 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:58:48 INF [TCP] connected lAddr=127.0.0.1:48242 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:58:48 INF [TCP] connected lAddr=127.0.0.1:48230 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:58:48 INF [TCP] connected lAddr=127.0.0.1:48258 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:58:48 INF [TCP] connected lAddr=127.0.0.1:48266 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:58:48 INF [TCP] connected lAddr=127.0.0.1:48264 rAddr=styles.redditmedia.com:443 mode=rule rule=DomainSuffix(redditmedia.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:58:48 INF [TCP] connected lAddr=127.0.0.1:48282 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:58:48 INF [TCP] connected lAddr=127.0.0.1:48300 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:58:48 INF [TCP] connected lAddr=127.0.0.1:48290 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:58:48 INF [TCP] connected lAddr=127.0.0.1:48340 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:58:48 INF [TCP] connected lAddr=127.0.0.1:48356 rAddr=www.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:58:49 INF [TCP] connected lAddr=127.0.0.1:48384 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:58:50 INF [TCP] connected lAddr=127.0.0.1:48394 rAddr=styles.redditmedia.com:443 mode=rule rule=DomainSuffix(redditmedia.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:59:03 INF [TCP] connected lAddr=127.0.0.1:51176 rAddr=gist.github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:59:03 INF [TCP] connected lAddr=127.0.0.1:51188 rAddr=ocsp.sectigo.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:59:03 INF [TCP] connected lAddr=127.0.0.1:51204 rAddr=b.thumbs.redditmedia.com:443 mode=rule rule=IPCIDR(184.72.0.0/16) proxy=Netflix[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:59:04 INF [TCP] connected lAddr=127.0.0.1:51210 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:59:05 INF [TCP] connected lAddr=127.0.0.1:51222 rAddr=ocsp.sectigo.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:59:07 INF [TCP] connected lAddr=127.0.0.1:51224 rAddr=avatars.githubusercontent.com:443 mode=rule rule=DomainSuffix(githubusercontent.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:59:07 INF [TCP] connected lAddr=127.0.0.1:51234 rAddr=avatars.githubusercontent.com:443 mode=rule rule=DomainSuffix(githubusercontent.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:59:07 INF [TCP] connected lAddr=127.0.0.1:51250 rAddr=avatars.githubusercontent.com:443 mode=rule rule=DomainSuffix(githubusercontent.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:59:07 INF [TCP] connected lAddr=127.0.0.1:51292 rAddr=github.githubassets.com:443 mode=rule rule=DomainSuffix(githubassets.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:59:07 INF [TCP] connected lAddr=127.0.0.1:51298 rAddr=github.githubassets.com:443 mode=rule rule=DomainSuffix(githubassets.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:59:07 INF [TCP] connected lAddr=127.0.0.1:51280 rAddr=github.githubassets.com:443 mode=rule rule=DomainSuffix(githubassets.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:59:07 INF [TCP] connected lAddr=127.0.0.1:51304 rAddr=github.githubassets.com:443 mode=rule rule=DomainSuffix(githubassets.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:59:07 INF [TCP] connected lAddr=127.0.0.1:51302 rAddr=github.githubassets.com:443 mode=rule rule=DomainSuffix(githubassets.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:59:07 INF [TCP] connected lAddr=127.0.0.1:51266 rAddr=github.githubassets.com:443 mode=rule rule=DomainSuffix(githubassets.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:59:10 INF [TCP] connected lAddr=127.0.0.1:38292 rAddr=edge.microsoft.com:443 mode=rule rule=DomainSuffix(microsoft.com) proxy=Microsoft[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:59:11 INF [TCP] connected lAddr=127.0.0.1:38308 rAddr=api-edge.cognitive.microsofttranslator.com:443 mode=rule rule=DomainSuffix(microsofttranslator.com) proxy=Microsoft[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:59:11 INF [TCP] connected lAddr=127.0.0.1:38322 rAddr=api-edge.cognitive.microsofttranslator.com:443 mode=rule rule=DomainSuffix(microsofttranslator.com) proxy=Microsoft[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:59:11 INF [TCP] connected lAddr=127.0.0.1:38318 rAddr=api-edge.cognitive.microsofttranslator.com:443 mode=rule rule=DomainSuffix(microsofttranslator.com) proxy=Microsoft[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:59:11 INF [TCP] connected lAddr=127.0.0.1:38332 rAddr=api-edge.cognitive.microsofttranslator.com:443 mode=rule rule=DomainSuffix(microsofttranslator.com) proxy=Microsoft[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:59:11 INF [TCP] connected lAddr=127.0.0.1:38334 rAddr=api-edge.cognitive.microsofttranslator.com:443 mode=rule rule=DomainSuffix(microsofttranslator.com) proxy=Microsoft[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:59:11 INF [TCP] connected lAddr=127.0.0.1:38348 rAddr=api-edge.cognitive.microsofttranslator.com:443 mode=rule rule=DomainSuffix(microsofttranslator.com) proxy=Microsoft[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:59:41 INF [TCP] connected lAddr=127.0.0.1:48932 rAddr=api-edge.cognitive.microsofttranslator.com:443 mode=rule rule=DomainSuffix(microsofttranslator.com) proxy=Microsoft[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:59:41 INF [TCP] connected lAddr=127.0.0.1:48950 rAddr=api-edge.cognitive.microsofttranslator.com:443 mode=rule rule=DomainSuffix(microsofttranslator.com) proxy=Microsoft[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:59:41 INF [TCP] connected lAddr=127.0.0.1:48930 rAddr=api-edge.cognitive.microsofttranslator.com:443 mode=rule rule=DomainSuffix(microsofttranslator.com) proxy=Microsoft[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:59:41 INF [TCP] connected lAddr=127.0.0.1:48962 rAddr=api-edge.cognitive.microsofttranslator.com:443 mode=rule rule=DomainSuffix(microsofttranslator.com) proxy=Microsoft[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:59:41 INF [TCP] connected lAddr=127.0.0.1:48914 rAddr=api-edge.cognitive.microsofttranslator.com:443 mode=rule rule=DomainSuffix(microsofttranslator.com) proxy=Microsoft[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:59:41 INF [TCP] connected lAddr=127.0.0.1:48936 rAddr=api-edge.cognitive.microsofttranslator.com:443 mode=rule rule=DomainSuffix(microsofttranslator.com) proxy=Microsoft[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:00:09 INF [TCP] connected lAddr=127.0.0.1:53936 rAddr=www.reddit.com:443 mode=rule rule=DomainSuffix(reddit.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:00:11 INF [TCP] connected lAddr=127.0.0.1:53940 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:00:11 INF [TCP] connected lAddr=127.0.0.1:53942 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:00:11 INF [TCP] connected lAddr=127.0.0.1:53956 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:00:14 INF [TCP] connected lAddr=127.0.0.1:53960 rAddr=www.reddit.com:443 mode=rule rule=DomainSuffix(reddit.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:00:14 INF [TCP] connected lAddr=127.0.0.1:53970 rAddr=gist.github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:00:15 INF [TCP] connected lAddr=127.0.0.1:53992 rAddr=api-edge.cognitive.microsofttranslator.com:443 mode=rule rule=DomainSuffix(microsofttranslator.com) proxy=Microsoft[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:00:15 INF [TCP] connected lAddr=127.0.0.1:54024 rAddr=api-edge.cognitive.microsofttranslator.com:443 mode=rule rule=DomainSuffix(microsofttranslator.com) proxy=Microsoft[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:00:15 INF [TCP] connected lAddr=127.0.0.1:54004 rAddr=api-edge.cognitive.microsofttranslator.com:443 mode=rule rule=DomainSuffix(microsofttranslator.com) proxy=Microsoft[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:00:15 INF [TCP] connected lAddr=127.0.0.1:53984 rAddr=api-edge.cognitive.microsofttranslator.com:443 mode=rule rule=DomainSuffix(microsofttranslator.com) proxy=Microsoft[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:00:15 INF [TCP] connected lAddr=127.0.0.1:54008 rAddr=api-edge.cognitive.microsofttranslator.com:443 mode=rule rule=DomainSuffix(microsofttranslator.com) proxy=Microsoft[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:00:15 INF [TCP] connected lAddr=127.0.0.1:54038 rAddr=api-edge.cognitive.microsofttranslator.com:443 mode=rule rule=DomainSuffix(microsofttranslator.com) proxy=Microsoft[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:00:29 INF [TCP] connected lAddr=127.0.0.1:55874 rAddr=www.reddit.com:443 mode=rule rule=DomainSuffix(reddit.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:00:51 INF [TCP] connected lAddr=127.0.0.1:56332 rAddr=api-edge.cognitive.microsofttranslator.com:443 mode=rule rule=DomainSuffix(microsofttranslator.com) proxy=Microsoft[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:00:57 INF [TCP] connected lAddr=127.0.0.1:56338 rAddr=www.reddit.com:443 mode=rule rule=DomainSuffix(reddit.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:01:01 INF [TCP] connected lAddr=127.0.0.1:41148 rAddr=www.reddit.com:443 mode=rule rule=DomainSuffix(reddit.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:01:35 INF [TCP] connected lAddr=127.0.0.1:53348 rAddr=www.reddit.com:443 mode=rule rule=DomainSuffix(reddit.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:01:35 INF [TCP] connected lAddr=127.0.0.1:53350 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:01:36 INF [TCP] connected lAddr=127.0.0.1:53358 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:01:36 INF [TCP] connected lAddr=127.0.0.1:53352 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:01:47 INF [TCP] connected lAddr=127.0.0.1:52330 rAddr=www.reddit.com:443 mode=rule rule=DomainSuffix(reddit.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:01:49 INF [TCP] connected lAddr=127.0.0.1:59912 rAddr=gist.github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:02:02 INF [TCP] connected lAddr=127.0.0.1:34382 rAddr=api.huacloud.xyz:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:02:02 INF [Config] initial compatible provider name=TW
+10:02:02 INF [Config] initial compatible provider name=Proxies
+10:02:02 INF [Config] initial compatible provider name=Bilibili
+10:02:02 INF [Config] initial compatible provider name=Spotify
+10:02:02 INF [Config] initial compatible provider name=OpenAI
+10:02:02 INF [Config] initial compatible provider name=Google
+10:02:02 INF [Config] initial compatible provider name=SG
+10:02:02 INF [Config] initial compatible provider name=HK
+10:02:02 INF [Config] initial compatible provider name=Netflix
+10:02:02 INF [Config] initial compatible provider name=Telegram
+10:02:02 INF [Config] initial compatible provider name=YouTube
+10:02:02 INF [Config] initial compatible provider name=Final
+10:02:02 INF [Config] initial compatible provider name=Apple
+10:02:02 INF [Config] initial compatible provider name=Bahamut
+10:02:02 INF [Config] initial compatible provider name=Microsoft
+10:02:02 INF [Config] initial compatible provider name=US
+10:02:02 INF [Config] initial compatible provider name=JP
+10:02:02 INF [Config] initial compatible provider name=PayPal
+10:02:02 INF [Config] initial compatible provider name=Disney
+10:02:02 INF [Config] initial compatible provider name=Steam
+10:02:11 INF [Config] initial compatible provider name=Google
+10:02:11 INF [Config] initial compatible provider name=Bahamut
+10:02:11 INF [Config] initial compatible provider name=Apple
+10:02:11 INF [Config] initial compatible provider name=Bilibili
+10:02:11 INF [Config] initial compatible provider name=US
+10:02:11 INF [Config] initial compatible provider name=SG
+10:02:11 INF [Config] initial compatible provider name=JP
+10:02:11 INF [Config] initial compatible provider name=HK
+10:02:11 INF [Config] initial compatible provider name=Spotify
+10:02:11 INF [Config] initial compatible provider name=Microsoft
+10:02:11 INF [Config] initial compatible provider name=Steam
+10:02:11 INF [Config] initial compatible provider name=TW
+10:02:11 INF [Config] initial compatible provider name=Final
+10:02:11 INF [Config] initial compatible provider name=Disney
+10:02:11 INF [Config] initial compatible provider name=Proxies
+10:02:11 INF [Config] initial compatible provider name=YouTube
+10:02:11 INF [Config] initial compatible provider name=Netflix
+10:02:11 INF [Config] initial compatible provider name=PayPal
+10:02:11 INF [Config] initial compatible provider name=OpenAI
+10:02:11 INF [Config] initial compatible provider name=Telegram
+10:02:14 INF [TCP] connected lAddr=127.0.0.1:41750 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:02:14 INF [TCP] connected lAddr=127.0.0.1:41756 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:02:14 INF [TCP] connected lAddr=127.0.0.1:41760 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:02:43 INF [TCP] connected lAddr=127.0.0.1:58352 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:03:24 INF [TCP] connected lAddr=127.0.0.1:41216 rAddr=gist.github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:05:00 INF [TCP] connected lAddr=127.0.0.1:36944 rAddr=gist.github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:06:37 INF [TCP] connected lAddr=127.0.0.1:36132 rAddr=gist.github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:08:13 INF [TCP] connected lAddr=127.0.0.1:41820 rAddr=gist.github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:09:40 INF [TCP] connected lAddr=127.0.0.1:33738 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:09:41 INF [TCP] connected lAddr=127.0.0.1:33758 rAddr=fonts.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:10:47 INF [TCP] connected lAddr=127.0.0.1:37796 rAddr=contile.services.mozilla.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:15:26 INF [TCP] connected lAddr=127.0.0.1:51690 rAddr=mirrors.tuna.tsinghua.edu.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:15:27 INF [TCP] connected lAddr=127.0.0.1:51704 rAddr=218.159.243.120:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:15:27 INF [TCP] connected lAddr=127.0.0.1:51722 rAddr=218.159.243.120:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:15:27 INF [TCP] connected lAddr=127.0.0.1:51716 rAddr=218.159.243.120:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:17:38 INF [TCP] connected lAddr=127.0.0.1:38932 rAddr=identity.bitwarden.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:18:54 INF [TCP] connected lAddr=127.0.0.1:41808 rAddr=ssl.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:18:54 INF [TCP] connected lAddr=127.0.0.1:41820 rAddr=www.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:18:55 INF [TCP] connected lAddr=127.0.0.1:41830 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:19:01 INF [TCP] connected lAddr=127.0.0.1:53396 rAddr=avatars.githubusercontent.com:443 mode=rule rule=DomainSuffix(githubusercontent.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:19:01 INF [TCP] connected lAddr=127.0.0.1:53390 rAddr=avatars.githubusercontent.com:443 mode=rule rule=DomainSuffix(githubusercontent.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:19:01 INF [TCP] connected lAddr=127.0.0.1:53458 rAddr=github.githubassets.com:443 mode=rule rule=DomainSuffix(githubassets.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:19:01 INF [TCP] connected lAddr=127.0.0.1:53436 rAddr=github.githubassets.com:443 mode=rule rule=DomainSuffix(githubassets.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:19:01 INF [TCP] connected lAddr=127.0.0.1:53470 rAddr=github.githubassets.com:443 mode=rule rule=DomainSuffix(githubassets.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:19:01 INF [TCP] connected lAddr=127.0.0.1:53444 rAddr=github.githubassets.com:443 mode=rule rule=DomainSuffix(githubassets.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:19:01 INF [TCP] connected lAddr=127.0.0.1:53422 rAddr=github.githubassets.com:443 mode=rule rule=DomainSuffix(githubassets.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:19:01 INF [TCP] connected lAddr=127.0.0.1:53438 rAddr=github.githubassets.com:443 mode=rule rule=DomainSuffix(githubassets.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:19:01 INF [TCP] connected lAddr=127.0.0.1:53420 rAddr=github.githubassets.com:443 mode=rule rule=DomainSuffix(githubassets.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:19:02 INF [TCP] connected lAddr=127.0.0.1:53486 rAddr=github.githubassets.com:443 mode=rule rule=DomainSuffix(githubassets.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:19:02 INF [TCP] connected lAddr=127.0.0.1:53502 rAddr=github.githubassets.com:443 mode=rule rule=DomainSuffix(githubassets.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:19:02 INF [TCP] connected lAddr=127.0.0.1:53518 rAddr=github.githubassets.com:443 mode=rule rule=DomainSuffix(githubassets.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:19:02 INF [TCP] connected lAddr=127.0.0.1:53556 rAddr=github.githubassets.com:443 mode=rule rule=DomainSuffix(githubassets.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:19:02 INF [TCP] connected lAddr=127.0.0.1:53542 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:19:02 INF [TCP] connected lAddr=127.0.0.1:53572 rAddr=github.githubassets.com:443 mode=rule rule=DomainSuffix(githubassets.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:19:02 INF [TCP] connected lAddr=127.0.0.1:53588 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:19:02 INF [TCP] connected lAddr=127.0.0.1:53594 rAddr=github.githubassets.com:443 mode=rule rule=DomainSuffix(githubassets.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:19:09 INF [TCP] connected lAddr=127.0.0.1:44674 rAddr=github.githubassets.com:443 mode=rule rule=DomainSuffix(githubassets.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:19:09 INF [TCP] connected lAddr=127.0.0.1:44678 rAddr=github.githubassets.com:443 mode=rule rule=DomainSuffix(githubassets.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:19:09 INF [TCP] connected lAddr=127.0.0.1:44670 rAddr=github.githubassets.com:443 mode=rule rule=DomainSuffix(githubassets.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:19:09 INF [TCP] connected lAddr=127.0.0.1:44690 rAddr=github.githubassets.com:443 mode=rule rule=DomainSuffix(githubassets.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:19:09 INF [TCP] connected lAddr=127.0.0.1:44696 rAddr=github.githubassets.com:443 mode=rule rule=DomainSuffix(githubassets.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:19:12 INF [TCP] connected lAddr=127.0.0.1:44712 rAddr=avatars.githubusercontent.com:443 mode=rule rule=DomainSuffix(githubusercontent.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:20:23 INF [TCP] connected lAddr=127.0.0.1:46626 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:20:44 INF [TCP] connected lAddr=127.0.0.1:56860 rAddr=api.bitwarden.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:20:45 WRN [TCP] dial failed error=dial tcp4 142.250.188.10:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:56854 rAddr=safebrowsing.googleapis.com:443 rule=Domain rulePayload=safebrowsing.googleapis.com
+10:20:50 WRN [TCP] dial failed error=dial tcp4 142.250.188.10:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:56874 rAddr=safebrowsing.googleapis.com:443 rule=Domain rulePayload=safebrowsing.googleapis.com
+10:20:55 WRN [TCP] dial failed error=dial tcp4 142.250.188.10:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:53842 rAddr=safebrowsing.googleapis.com:443 rule=Domain rulePayload=safebrowsing.googleapis.com
+10:21:00 WRN [TCP] dial failed error=dial tcp4 142.250.188.10:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:53856 rAddr=safebrowsing.googleapis.com:443 rule=Domain rulePayload=safebrowsing.googleapis.com
+10:21:04 INF [TCP] connected lAddr=127.0.0.1:36384 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:21:05 WRN [TCP] dial failed error=dial tcp4 142.250.188.10:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:36374 rAddr=safebrowsing.googleapis.com:443 rule=Domain rulePayload=safebrowsing.googleapis.com
+10:21:10 WRN [TCP] dial failed error=dial tcp4 142.250.188.10:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:36390 rAddr=safebrowsing.googleapis.com:443 rule=Domain rulePayload=safebrowsing.googleapis.com
+10:21:15 WRN [TCP] dial failed error=dial tcp4 142.250.188.10:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:44704 rAddr=safebrowsing.googleapis.com:443 rule=Domain rulePayload=safebrowsing.googleapis.com
+10:21:43 INF [TCP] connected lAddr=127.0.0.1:37870 rAddr=incoming.telemetry.mozilla.org:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:22:12 INF [TCP] connected lAddr=127.0.0.1:60844 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:23:47 INF [TCP] connected lAddr=127.0.0.1:45692 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:25:24 INF [TCP] connected lAddr=127.0.0.1:51890 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:25:48 INF [TCP] connected lAddr=127.0.0.1:34234 rAddr=contile.services.mozilla.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:26:31 INF [TCP] connected lAddr=127.0.0.1:47796 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:26:31 INF [TCP] connected lAddr=127.0.0.1:47808 rAddr=encrypted-tbn0.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:26:36 INF [TCP] connected lAddr=127.0.0.1:47812 rAddr=firefox.settings.services.mozilla.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:26:36 INF [TCP] connected lAddr=127.0.0.1:47828 rAddr=r3.o.lencr.org:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:26:39 INF [TCP] connected lAddr=127.0.0.1:43704 rAddr=www.atlassian.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:26:40 INF [TCP] connected lAddr=127.0.0.1:43724 rAddr=wac-cdn.atlassian.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:26:40 INF [TCP] connected lAddr=127.0.0.1:43784 rAddr=wac-cdn.atlassian.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:26:40 INF [TCP] connected lAddr=127.0.0.1:43744 rAddr=wac-cdn.atlassian.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:26:40 INF [TCP] connected lAddr=127.0.0.1:43722 rAddr=wac-cdn.atlassian.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:26:40 INF [TCP] connected lAddr=127.0.0.1:43766 rAddr=wac-cdn.atlassian.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:26:40 INF [TCP] connected lAddr=127.0.0.1:43758 rAddr=wac-cdn.atlassian.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:26:40 INF [TCP] connected lAddr=127.0.0.1:43712 rAddr=wac-cdn.atlassian.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:26:40 INF [TCP] connected lAddr=127.0.0.1:43796 rAddr=wac-cdn.atlassian.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:26:40 INF [TCP] connected lAddr=127.0.0.1:43738 rAddr=wac-cdn.atlassian.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:26:40 INF [TCP] connected lAddr=127.0.0.1:43780 rAddr=wac-cdn.atlassian.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:26:40 INF [TCP] connected lAddr=127.0.0.1:43812 rAddr=metal.prod.atl-paas.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:26:41 INF [TCP] connected lAddr=127.0.0.1:43822 rAddr=atl-global.atlassian.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:26:41 INF [TCP] connected lAddr=127.0.0.1:43830 rAddr=www.youtube.com:443 mode=rule rule=DomainSuffix(youtube.com) proxy=YouTube[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:26:41 INF [TCP] connected lAddr=127.0.0.1:43840 rAddr=xxid.atl-paas.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:26:41 INF [TCP] connected lAddr=127.0.0.1:43854 rAddr=app.launchdarkly.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:26:41 INF [TCP] connected lAddr=127.0.0.1:43866 rAddr=app.launchdarkly.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:26:41 INF [TCP] connected lAddr=127.0.0.1:43890 rAddr=api.atlassian.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:26:41 INF [TCP] connected lAddr=127.0.0.1:43874 rAddr=api.atlassian.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:26:41 INF [TCP] connected lAddr=127.0.0.1:43908 rAddr=api.atlassian.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:26:41 INF [TCP] connected lAddr=127.0.0.1:43892 rAddr=api.atlassian.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:26:41 INF [TCP] connected lAddr=127.0.0.1:43888 rAddr=api.atlassian.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:26:42 INF [TCP] connected lAddr=127.0.0.1:43924 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:26:42 INF [TCP] connected lAddr=127.0.0.1:43950 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:26:42 INF [TCP] connected lAddr=127.0.0.1:43940 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:26:42 INF [TCP] connected lAddr=127.0.0.1:43942 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:26:42 INF [TCP] connected lAddr=127.0.0.1:43954 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:26:42 INF [TCP] connected lAddr=127.0.0.1:43966 rAddr=api.atlassian.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:26:42 INF [TCP] connected lAddr=127.0.0.1:43984 rAddr=api.atlassian.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:26:42 INF [TCP] connected lAddr=127.0.0.1:43970 rAddr=api.atlassian.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:26:42 INF [TCP] connected lAddr=127.0.0.1:43980 rAddr=api.atlassian.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:26:42 INF [TCP] connected lAddr=127.0.0.1:43992 rAddr=api.atlassian.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:27:00 INF [TCP] connected lAddr=127.0.0.1:52940 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:27:04 INF [TCP] connected lAddr=127.0.0.1:52942 rAddr=www.runoob.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:27:04 INF [TCP] connected lAddr=127.0.0.1:52956 rAddr=www.runoob.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:27:04 INF [TCP] connected lAddr=127.0.0.1:52972 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:27:04 INF [TCP] connected lAddr=127.0.0.1:52994 rAddr=lf3-cdn-tos.bytecdntp.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:27:04 INF [TCP] connected lAddr=127.0.0.1:52988 rAddr=lf3-cdn-tos.bytecdntp.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:27:04 INF [TCP] connected lAddr=127.0.0.1:53000 rAddr=lf3-cdn-tos.bytecdntp.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:27:04 INF [TCP] connected lAddr=127.0.0.1:53018 rAddr=static.jyshare.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:27:04 INF [TCP] connected lAddr=127.0.0.1:53010 rAddr=static.jyshare.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:27:04 INF [TCP] connected lAddr=127.0.0.1:53036 rAddr=static.jyshare.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:27:04 INF [TCP] connected lAddr=127.0.0.1:53044 rAddr=static.jyshare.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:27:04 INF [TCP] connected lAddr=127.0.0.1:53046 rAddr=static.jyshare.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:27:04 INF [TCP] connected lAddr=127.0.0.1:53030 rAddr=static.jyshare.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:27:04 INF [TCP] connected lAddr=127.0.0.1:53054 rAddr=lf9-cdn-tos.bytecdntp.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:27:04 INF [TCP] connected lAddr=127.0.0.1:53066 rAddr=lf26-cdn-tos.bytecdntp.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:27:04 INF [TCP] connected lAddr=127.0.0.1:53080 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:27:04 INF [TCP] connected lAddr=127.0.0.1:53088 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:27:04 INF [TCP] connected lAddr=127.0.0.1:53100 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:27:04 INF [TCP] connected lAddr=127.0.0.1:53112 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:27:04 INF [TCP] connected lAddr=127.0.0.1:53118 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:27:04 INF [TCP] connected lAddr=127.0.0.1:53132 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:27:04 INF [TCP] connected lAddr=127.0.0.1:53146 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:27:04 INF [TCP] connected lAddr=127.0.0.1:53138 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:27:04 INF [TCP] connected lAddr=127.0.0.1:53162 rAddr=status.rapidssl.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:27:04 INF [TCP] connected lAddr=127.0.0.1:53152 rAddr=status.rapidssl.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:27:05 INF [TCP] connected lAddr=127.0.0.1:53166 rAddr=lf3-cdn-tos.bytecdntp.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:28:35 INF [TCP] connected lAddr=127.0.0.1:32782 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:30:00 INF [TCP] connected lAddr=127.0.0.1:50758 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:30:01 INF [TCP] connected lAddr=127.0.0.1:50764 rAddr=avatars.githubusercontent.com:443 mode=rule rule=DomainSuffix(githubusercontent.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:30:05 INF [TCP] connected lAddr=127.0.0.1:50778 rAddr=github.githubassets.com:443 mode=rule rule=DomainSuffix(githubassets.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:30:32 INF [TCP] connected lAddr=127.0.0.1:34442 rAddr=api.bitwarden.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:30:33 INF [TCP] connected lAddr=127.0.0.1:34448 rAddr=icons.bitwarden.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:31:49 INF [TCP] connected lAddr=127.0.0.1:33034 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:32:42 INF [TCP] connected lAddr=127.0.0.1:59226 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:32:42 INF [TCP] connected lAddr=127.0.0.1:59238 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(pki.goog) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:32:44 INF [TCP] connected lAddr=127.0.0.1:59254 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:32:44 INF [TCP] connected lAddr=127.0.0.1:59258 rAddr=incoming.telemetry.mozilla.org:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:32:45 INF [TCP] connected lAddr=127.0.0.1:59274 rAddr=www.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:32:45 INF [TCP] connected lAddr=127.0.0.1:59266 rAddr=fonts.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:32:50 INF [TCP] connected lAddr=127.0.0.1:58500 rAddr=stackoverflow.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:32:51 INF [TCP] connected lAddr=127.0.0.1:58518 rAddr=cdn.sstatic.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:32:51 INF [TCP] connected lAddr=127.0.0.1:58532 rAddr=cdn.sstatic.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:32:51 INF [TCP] connected lAddr=127.0.0.1:58628 rAddr=i.stack.imgur.com:443 mode=rule rule=DomainSuffix(imgur.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:32:51 INF [TCP] connected lAddr=127.0.0.1:58558 rAddr=i.stack.imgur.com:443 mode=rule rule=DomainSuffix(imgur.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:32:51 INF [TCP] connected lAddr=127.0.0.1:58570 rAddr=i.stack.imgur.com:443 mode=rule rule=DomainSuffix(imgur.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:32:51 INF [TCP] connected lAddr=127.0.0.1:58612 rAddr=i.stack.imgur.com:443 mode=rule rule=DomainSuffix(imgur.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:32:51 INF [TCP] connected lAddr=127.0.0.1:58540 rAddr=i.stack.imgur.com:443 mode=rule rule=DomainSuffix(imgur.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:32:51 INF [TCP] connected lAddr=127.0.0.1:58598 rAddr=i.stack.imgur.com:443 mode=rule rule=DomainSuffix(imgur.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:32:51 INF [TCP] connected lAddr=127.0.0.1:58582 rAddr=www.gravatar.com:443 mode=rule rule=DomainSuffix(gravatar.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:32:51 INF [TCP] connected lAddr=127.0.0.1:58512 rAddr=ajax.googleapis.com:443 mode=rule rule=DomainSuffix(googleapis.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:32:51 INF [TCP] connected lAddr=127.0.0.1:58634 rAddr=www.gravatar.com:443 mode=rule rule=DomainSuffix(gravatar.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:32:51 INF [TCP] connected lAddr=127.0.0.1:58636 rAddr=lh3.googleusercontent.com:443 mode=rule rule=DomainSuffix(googleusercontent.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:32:51 INF [TCP] connected lAddr=127.0.0.1:58534 rAddr=accounts.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:32:51 INF [TCP] connected lAddr=127.0.0.1:58548 rAddr=www.gravatar.com:443 mode=rule rule=DomainSuffix(gravatar.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:32:51 INF [TCP] connected lAddr=127.0.0.1:58544 rAddr=www.gravatar.com:443 mode=rule rule=DomainSuffix(gravatar.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:32:51 INF [TCP] connected lAddr=127.0.0.1:58646 rAddr=cdn.cookielaw.org:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:32:51 INF [TCP] connected lAddr=127.0.0.1:58656 rAddr=cdn.cookielaw.org:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:32:51 INF [TCP] connected lAddr=127.0.0.1:58660 rAddr=cdn.sstatic.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:32:52 INF [TCP] connected lAddr=127.0.0.1:58674 rAddr=cdn.sstatic.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:32:52 INF [TCP] connected lAddr=127.0.0.1:58688 rAddr=geolocation.onetrust.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:32:52 INF [TCP] connected lAddr=127.0.0.1:58702 rAddr=cdn.sstatic.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:32:52 INF [TCP] connected lAddr=127.0.0.1:58704 rAddr=cdn.sstatic.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:32:53 INF [TCP] connected lAddr=127.0.0.1:58718 rAddr=fonts.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:32:53 INF [TCP] connected lAddr=127.0.0.1:58732 rAddr=fonts.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:33:25 INF [TCP] connected lAddr=127.0.0.1:48150 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:34:43 INF [TCP] connected lAddr=127.0.0.1:45802 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:35:15 INF [TCP] connected lAddr=127.0.0.1:34966 rAddr=avatars.githubusercontent.com:443 mode=rule rule=DomainSuffix(githubusercontent.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:35:47 INF [TCP] connected lAddr=127.0.0.1:40418 rAddr=shavar.services.mozilla.com:443 mode=rule rule=IPCIDR(52.0.0.0/8) proxy=Netflix[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:35:48 INF [TCP] connected lAddr=127.0.0.1:40422 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:35:48 INF [TCP] connected lAddr=127.0.0.1:40432 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:35:48 INF [TCP] connected lAddr=127.0.0.1:40438 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:36:55 INF [TCP] connected lAddr=127.0.0.1:49364 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:37:13 INF [TCP] connected lAddr=127.0.0.1:56376 rAddr=incoming.telemetry.mozilla.org:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:38:55 INF [TCP] connected lAddr=127.0.0.1:40298 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:38:55 INF [TCP] connected lAddr=127.0.0.1:40300 rAddr=github.githubassets.com:443 mode=rule rule=DomainSuffix(githubassets.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:40:10 INF [TCP] connected lAddr=127.0.0.1:46012 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:40:33 INF [TCP] connected lAddr=127.0.0.1:54044 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:40:45 INF [TCP] connected lAddr=127.0.0.1:36772 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:40:45 INF [TCP] connected lAddr=127.0.0.1:36788 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:40:49 INF [TCP] connected lAddr=127.0.0.1:59602 rAddr=contile.services.mozilla.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:41:06 INF [TCP] connected lAddr=127.0.0.1:37830 rAddr=zhuanlan.zhihu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:07 INF [TCP] connected lAddr=127.0.0.1:37840 rAddr=pic1.zhimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:07 INF [TCP] connected lAddr=127.0.0.1:37842 rAddr=ocsp.dcocsp.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:07 INF [TCP] connected lAddr=127.0.0.1:37866 rAddr=static.zhihu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:07 INF [TCP] connected lAddr=127.0.0.1:37862 rAddr=static.zhihu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:07 INF [TCP] connected lAddr=127.0.0.1:37858 rAddr=static.zhihu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:07 INF [TCP] connected lAddr=127.0.0.1:37870 rAddr=static.zhihu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:07 INF [TCP] connected lAddr=127.0.0.1:37888 rAddr=static.zhihu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:07 INF [TCP] connected lAddr=127.0.0.1:37900 rAddr=www.zhihu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:07 INF [TCP] connected lAddr=127.0.0.1:37916 rAddr=118.89.204.198:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:07 INF [TCP] connected lAddr=127.0.0.1:37906 rAddr=pic2.zhimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:07 INF [TCP] connected lAddr=127.0.0.1:37924 rAddr=ocsp.trust-provider.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:07 INF [TCP] connected lAddr=127.0.0.1:37934 rAddr=picx.zhimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:07 INF [TCP] connected lAddr=127.0.0.1:37944 rAddr=picx.zhimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:07 INF [TCP] connected lAddr=127.0.0.1:37946 rAddr=cstaticdun.126.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:07 INF [TCP] connected lAddr=127.0.0.1:37956 rAddr=ocsp.trust-provider.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:07 INF [TCP] connected lAddr=127.0.0.1:37968 rAddr=picx.zhimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:07 INF [TCP] connected lAddr=127.0.0.1:37976 rAddr=picx.zhimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:07 INF [TCP] connected lAddr=127.0.0.1:37982 rAddr=picx.zhimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:07 INF [TCP] connected lAddr=127.0.0.1:37974 rAddr=picx.zhimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:07 INF [TCP] connected lAddr=127.0.0.1:37988 rAddr=captcha.zhihu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:08 INF [TCP] connected lAddr=127.0.0.1:37998 rAddr=c.dun.163.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:08 INF [TCP] connected lAddr=127.0.0.1:38006 rAddr=ocsp.digicert.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:08 INF [TCP] connected lAddr=127.0.0.1:38022 rAddr=cstaticdun.126.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:08 INF [TCP] connected lAddr=127.0.0.1:38036 rAddr=cstaticdun.126.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:08 INF [TCP] connected lAddr=127.0.0.1:41120 rAddr=ac.dun.163.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:17 INF [TCP] connected lAddr=127.0.0.1:41124 rAddr=pic4.zhimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:27 INF [TCP] connected lAddr=127.0.0.1:45164 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:27 INF [TCP] connected lAddr=127.0.0.1:45180 rAddr=ocsp.dcocsp.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:28 INF [TCP] connected lAddr=127.0.0.1:45194 rAddr=csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:28 INF [TCP] connected lAddr=127.0.0.1:45182 rAddr=csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:28 INF [TCP] connected lAddr=127.0.0.1:45208 rAddr=g.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:28 INF [TCP] connected lAddr=127.0.0.1:45224 rAddr=g.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:28 INF [TCP] connected lAddr=127.0.0.1:45232 rAddr=g.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:28 INF [TCP] connected lAddr=127.0.0.1:45218 rAddr=g.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:28 INF [TCP] connected lAddr=127.0.0.1:45228 rAddr=g.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:28 INF [TCP] connected lAddr=127.0.0.1:45252 rAddr=g.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:28 INF [TCP] connected lAddr=127.0.0.1:45230 rAddr=g.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:28 INF [TCP] connected lAddr=127.0.0.1:45236 rAddr=g.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:28 INF [TCP] connected lAddr=127.0.0.1:45264 rAddr=s3a.pstatp.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:28 INF [TCP] connected lAddr=127.0.0.1:45278 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:41:28 INF [TCP] connected lAddr=127.0.0.1:45310 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:41:28 INF [TCP] connected lAddr=127.0.0.1:45294 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:41:28 INF [TCP] connected lAddr=127.0.0.1:45318 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:41:28 INF [TCP] connected lAddr=127.0.0.1:45334 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:41:28 INF [TCP] connected lAddr=127.0.0.1:45348 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:28 INF [TCP] connected lAddr=127.0.0.1:45352 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:41:28 INF [TCP] connected lAddr=127.0.0.1:45370 rAddr=img-blog.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:28 INF [TCP] connected lAddr=127.0.0.1:45356 rAddr=profile-avatar.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:28 INF [TCP] connected lAddr=127.0.0.1:48286 rAddr=eva2.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:28 INF [TCP] connected lAddr=127.0.0.1:48288 rAddr=img-home.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:28 INF [TCP] connected lAddr=127.0.0.1:48298 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:28 INF [TCP] connected lAddr=127.0.0.1:48306 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:28 INF [TCP] connected lAddr=127.0.0.1:48320 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:28 INF [TCP] connected lAddr=127.0.0.1:48302 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:41:28 INF [TCP] connected lAddr=127.0.0.1:48336 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:28 INF [TCP] connected lAddr=127.0.0.1:48346 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:28 INF [TCP] connected lAddr=127.0.0.1:48354 rAddr=statistic.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:28 INF [TCP] connected lAddr=127.0.0.1:48374 rAddr=silkroad.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:28 INF [TCP] connected lAddr=127.0.0.1:48360 rAddr=devpress-api.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:28 INF [TCP] connected lAddr=127.0.0.1:48384 rAddr=kunpeng.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:28 INF [TCP] connected lAddr=127.0.0.1:48408 rAddr=mp-activity.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:28 INF [TCP] connected lAddr=127.0.0.1:48390 rAddr=kunpeng.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:28 INF [TCP] connected lAddr=127.0.0.1:48406 rAddr=msg.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:29 INF [TCP] connected lAddr=127.0.0.1:48410 rAddr=mp-activity.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:29 INF [TCP] connected lAddr=127.0.0.1:48414 rAddr=msg.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:29 INF [TCP] connected lAddr=127.0.0.1:48422 rAddr=gsp0.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:29 INF [TCP] connected lAddr=127.0.0.1:48426 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:29 INF [TCP] connected lAddr=127.0.0.1:48428 rAddr=kunyu.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:31 INF [TCP] connected lAddr=127.0.0.1:48438 rAddr=zhannei-dm.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:58 INF [TCP] connected lAddr=127.0.0.1:55028 rAddr=developer.aliyun.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:58 INF [TCP] connected lAddr=127.0.0.1:55030 rAddr=ocsp2.globalsign.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:58 INF [TCP] connected lAddr=127.0.0.1:55046 rAddr=g.alicdn.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:58 INF [TCP] connected lAddr=127.0.0.1:55054 rAddr=g.alicdn.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:58 INF [TCP] connected lAddr=127.0.0.1:55036 rAddr=g.alicdn.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:58 INF [TCP] connected lAddr=127.0.0.1:55050 rAddr=g.alicdn.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:58 INF [TCP] connected lAddr=127.0.0.1:55072 rAddr=g.alicdn.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:58 INF [TCP] connected lAddr=127.0.0.1:55066 rAddr=g.alicdn.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:58 INF [TCP] connected lAddr=127.0.0.1:55122 rAddr=cloud-assets.alicdn.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:58 INF [TCP] connected lAddr=127.0.0.1:55142 rAddr=oneconsole.alicdn.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:58 INF [TCP] connected lAddr=127.0.0.1:55128 rAddr=ucc.aliyun.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:58 INF [TCP] connected lAddr=127.0.0.1:55092 rAddr=gw.alipayobjects.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:58 INF [TCP] connected lAddr=127.0.0.1:55088 rAddr=gw.alipayobjects.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:58 INF [TCP] connected lAddr=127.0.0.1:55106 rAddr=gw.alipayobjects.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:58 INF [TCP] connected lAddr=127.0.0.1:55090 rAddr=gw.alipayobjects.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:58 INF [TCP] connected lAddr=127.0.0.1:55104 rAddr=gw.alipayobjects.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:58 INF [TCP] connected lAddr=127.0.0.1:55162 rAddr=ocsp2.globalsign.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:58 INF [TCP] connected lAddr=127.0.0.1:55150 rAddr=ocsp2.globalsign.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:58 INF [TCP] connected lAddr=127.0.0.1:55168 rAddr=ocsp2.globalsign.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:58 INF [TCP] connected lAddr=127.0.0.1:55176 rAddr=ocsp2.globalsign.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:58 INF [TCP] connected lAddr=127.0.0.1:55186 rAddr=ocsp2.globalsign.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:58 INF [TCP] connected lAddr=127.0.0.1:41040 rAddr=ocsp.dcocsp.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:58 INF [TCP] connected lAddr=127.0.0.1:41058 rAddr=ocsp.dcocsp.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:58 INF [TCP] connected lAddr=127.0.0.1:41048 rAddr=ocsp.dcocsp.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:58 INF [TCP] connected lAddr=127.0.0.1:41064 rAddr=ocsp.dcocsp.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:58 INF [TCP] connected lAddr=127.0.0.1:41080 rAddr=ocsp.dcocsp.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:58 INF [TCP] connected lAddr=127.0.0.1:41092 rAddr=i.alicdn.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:58 INF [TCP] connected lAddr=127.0.0.1:41098 rAddr=d.alicdn.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:59 INF [TCP] connected lAddr=127.0.0.1:41106 rAddr=retcode.alicdn.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:59 INF [TCP] connected lAddr=127.0.0.1:41150 rAddr=at.alicdn.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:59 INF [TCP] connected lAddr=127.0.0.1:41134 rAddr=at.alicdn.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:59 INF [TCP] connected lAddr=127.0.0.1:41118 rAddr=at.alicdn.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:59 INF [TCP] connected lAddr=127.0.0.1:41138 rAddr=at.alicdn.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:59 INF [TCP] connected lAddr=127.0.0.1:41198 rAddr=img.alicdn.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:59 INF [TCP] connected lAddr=127.0.0.1:41186 rAddr=img.alicdn.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:59 INF [TCP] connected lAddr=127.0.0.1:41168 rAddr=img.alicdn.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:59 INF [TCP] connected lAddr=127.0.0.1:41174 rAddr=ucc.alicdn.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:59 INF [TCP] connected lAddr=127.0.0.1:41160 rAddr=img.alicdn.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:59 INF [TCP] connected lAddr=127.0.0.1:41200 rAddr=account.aliyun.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:59 INF [TCP] connected lAddr=127.0.0.1:41220 rAddr=www.aliyun.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:59 INF [TCP] connected lAddr=127.0.0.1:41214 rAddr=query.aliyun.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:59 INF [TCP] connected lAddr=127.0.0.1:41222 rAddr=ocsp2.globalsign.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:59 INF [TCP] connected lAddr=127.0.0.1:41246 rAddr=query.aliyun.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:59 INF [TCP] connected lAddr=127.0.0.1:41234 rAddr=ocsp2.globalsign.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:59 INF [TCP] connected lAddr=127.0.0.1:41254 rAddr=one-second-campaign.cn-hangzhou.log.aliyuncs.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:59 INF [TCP] connected lAddr=127.0.0.1:41268 rAddr=ocsp2.globalsign.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:59 INF [TCP] connected lAddr=127.0.0.1:41274 rAddr=ocsp2.globalsign.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:59 INF [TCP] connected lAddr=127.0.0.1:41290 rAddr=cloud-assets.alicdn.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:59 INF [TCP] connected lAddr=127.0.0.1:41292 rAddr=fecs.console.aliyun.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:59 INF [TCP] connected lAddr=127.0.0.1:41300 rAddr=page.aliyun.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:59 INF [TCP] connected lAddr=127.0.0.1:41310 rAddr=bridge.aliyun.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:59 INF [TCP] connected lAddr=127.0.0.1:41324 rAddr=page.aliyun.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:59 INF [TCP] connected lAddr=127.0.0.1:41334 rAddr=page.aliyun.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:59 INF [TCP] connected lAddr=127.0.0.1:41346 rAddr=aliyun-web-tracker.cn-zhangjiakou.log.aliyuncs.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:59 INF [TCP] connected lAddr=127.0.0.1:41362 rAddr=t.aliyun.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:41:59 INF [TCP] connected lAddr=127.0.0.1:41350 rAddr=t.aliyun.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:42:00 INF [TCP] connected lAddr=127.0.0.1:41364 rAddr=aliyun-page.cn-hangzhou.log.aliyuncs.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:42:16 INF [TCP] connected lAddr=127.0.0.1:55600 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:42:48 INF [TCP] connected lAddr=127.0.0.1:59848 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:43:53 INF [TCP] connected lAddr=127.0.0.1:43466 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:43:58 INF [TCP] connected lAddr=127.0.0.1:43482 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:43:58 INF [TCP] connected lAddr=127.0.0.1:49624 rAddr=s3a.pstatp.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:43:58 INF [TCP] connected lAddr=127.0.0.1:49634 rAddr=img-blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:43:58 INF [TCP] connected lAddr=127.0.0.1:49630 rAddr=img-blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:43:58 INF [TCP] connected lAddr=127.0.0.1:49642 rAddr=eva2.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:43:58 INF [TCP] connected lAddr=127.0.0.1:49658 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:43:58 INF [TCP] connected lAddr=127.0.0.1:49668 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:43:58 INF [TCP] connected lAddr=127.0.0.1:49650 rAddr=mp-activity.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:43:58 INF [TCP] connected lAddr=127.0.0.1:49682 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:43:58 INF [TCP] connected lAddr=127.0.0.1:49696 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:43:58 INF [TCP] connected lAddr=127.0.0.1:49710 rAddr=devpress.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:43:59 INF [TCP] connected lAddr=127.0.0.1:49722 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:43:59 INF [TCP] connected lAddr=127.0.0.1:49736 rAddr=gsp0.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:43:59 INF [TCP] connected lAddr=127.0.0.1:49746 rAddr=redisdatarecall.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:44:00 INF [TCP] connected lAddr=127.0.0.1:49756 rAddr=g-api.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:44:00 INF [TCP] connected lAddr=127.0.0.1:49758 rAddr=g-api.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:44:01 INF [TCP] connected lAddr=127.0.0.1:49768 rAddr=mall.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:44:28 INF [TCP] connected lAddr=127.0.0.1:37526 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:44:29 INF [TCP] connected lAddr=127.0.0.1:37532 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:44:30 INF [TCP] connected lAddr=127.0.0.1:37542 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:44:30 INF [TCP] connected lAddr=127.0.0.1:37554 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:44:30 INF [TCP] connected lAddr=127.0.0.1:37566 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:44:30 INF [TCP] connected lAddr=127.0.0.1:37578 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:44:30 INF [TCP] connected lAddr=127.0.0.1:37580 rAddr=gsp0.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:44:30 INF [TCP] connected lAddr=127.0.0.1:37592 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:45:00 INF [TCP] connected lAddr=127.0.0.1:35670 rAddr=bizapi.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:45:00 INF [TCP] connected lAddr=127.0.0.1:35682 rAddr=bizapi.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:45:30 INF [TCP] connected lAddr=127.0.0.1:45154 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:45:44 INF [TCP] connected lAddr=127.0.0.1:41516 rAddr=eva2.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:47:06 INF [TCP] connected lAddr=127.0.0.1:36486 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:47:32 INF [TCP] connected lAddr=127.0.0.1:42534 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:47:38 INF [TCP] connected lAddr=127.0.0.1:42548 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:47:38 INF [TCP] connected lAddr=127.0.0.1:47516 rAddr=profile-avatar.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:47:38 INF [TCP] connected lAddr=127.0.0.1:47528 rAddr=g.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:47:38 INF [TCP] connected lAddr=127.0.0.1:47532 rAddr=csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:47:38 INF [TCP] connected lAddr=127.0.0.1:47534 rAddr=s3a.pstatp.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:47:38 INF [TCP] connected lAddr=127.0.0.1:47536 rAddr=csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:47:38 INF [TCP] connected lAddr=127.0.0.1:47540 rAddr=eva2.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:47:38 INF [TCP] connected lAddr=127.0.0.1:47562 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:47:38 INF [TCP] connected lAddr=127.0.0.1:47568 rAddr=devpress-api.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:47:38 INF [TCP] connected lAddr=127.0.0.1:47598 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:47:38 INF [TCP] connected lAddr=127.0.0.1:47614 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:47:38 INF [TCP] connected lAddr=127.0.0.1:47578 rAddr=img-home.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:47:38 INF [TCP] connected lAddr=127.0.0.1:47572 rAddr=mp-activity.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:47:38 INF [TCP] connected lAddr=127.0.0.1:47606 rAddr=msg.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:47:38 INF [TCP] connected lAddr=127.0.0.1:47584 rAddr=kunpeng.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:47:38 INF [TCP] connected lAddr=127.0.0.1:47616 rAddr=silkroad.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:47:38 INF [TCP] connected lAddr=127.0.0.1:47622 rAddr=statistic.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:47:38 INF [TCP] connected lAddr=127.0.0.1:47624 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:47:38 INF [TCP] connected lAddr=127.0.0.1:47626 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:47:39 INF [TCP] connected lAddr=127.0.0.1:47642 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:47:39 INF [TCP] connected lAddr=127.0.0.1:47658 rAddr=gsp0.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:47:39 INF [TCP] connected lAddr=127.0.0.1:47662 rAddr=zhannei-dm.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:47:40 INF [TCP] connected lAddr=127.0.0.1:47676 rAddr=csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:48:08 INF [TCP] connected lAddr=127.0.0.1:47700 rAddr=bizapi.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:48:34 WRN [TCP] dial failed error=dial tcp4 142.250.188.10:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:53070 rAddr=safebrowsing.googleapis.com:443 rule=Domain rulePayload=safebrowsing.googleapis.com
+10:48:39 WRN [TCP] dial failed error=dial tcp4 216.58.220.138:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:53084 rAddr=safebrowsing.googleapis.com:443 rule=Domain rulePayload=safebrowsing.googleapis.com
+10:48:42 INF [TCP] connected lAddr=127.0.0.1:43566 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:48:44 WRN [TCP] dial failed error=dial tcp4 216.58.220.138:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:43558 rAddr=safebrowsing.googleapis.com:443 rule=Domain rulePayload=safebrowsing.googleapis.com
+10:48:49 WRN [TCP] dial failed error=dial tcp4 216.58.220.138:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:43568 rAddr=safebrowsing.googleapis.com:443 rule=Domain rulePayload=safebrowsing.googleapis.com
+10:48:54 WRN [TCP] dial failed error=dial tcp4 216.58.220.138:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:47416 rAddr=safebrowsing.googleapis.com:443 rule=Domain rulePayload=safebrowsing.googleapis.com
+10:48:59 WRN [TCP] dial failed error=dial tcp4 216.58.220.138:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:47418 rAddr=safebrowsing.googleapis.com:443 rule=Domain rulePayload=safebrowsing.googleapis.com
+10:50:17 INF [TCP] connected lAddr=127.0.0.1:53238 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:50:40 INF [TCP] connected lAddr=127.0.0.1:36712 rAddr=eva2.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:51:53 INF [TCP] connected lAddr=127.0.0.1:49880 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:26 INF [TCP] connected lAddr=127.0.0.1:41550 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:26 INF [TCP] connected lAddr=127.0.0.1:41558 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:27 INF [TCP] connected lAddr=127.0.0.1:41570 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:27 INF [TCP] connected lAddr=127.0.0.1:41584 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:27 INF [TCP] connected lAddr=127.0.0.1:41588 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:27 INF [TCP] connected lAddr=127.0.0.1:41596 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:27 INF [TCP] connected lAddr=127.0.0.1:41610 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:27 INF [TCP] connected lAddr=127.0.0.1:41624 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:27 INF [TCP] connected lAddr=127.0.0.1:41638 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:27 INF [TCP] connected lAddr=127.0.0.1:41646 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:27 INF [TCP] connected lAddr=127.0.0.1:41650 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:27 INF [TCP] connected lAddr=127.0.0.1:41654 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:27 INF [TCP] connected lAddr=127.0.0.1:41662 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:27 INF [TCP] connected lAddr=127.0.0.1:41666 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:27 INF [TCP] connected lAddr=127.0.0.1:41668 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:27 INF [TCP] connected lAddr=127.0.0.1:41684 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:27 INF [TCP] connected lAddr=127.0.0.1:41700 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:27 INF [TCP] connected lAddr=127.0.0.1:41704 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:27 INF [TCP] connected lAddr=127.0.0.1:41714 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:27 INF [TCP] connected lAddr=127.0.0.1:41720 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:27 INF [TCP] connected lAddr=127.0.0.1:41728 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:27 INF [TCP] connected lAddr=127.0.0.1:41738 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:27 INF [TCP] connected lAddr=127.0.0.1:41742 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:27 INF [TCP] connected lAddr=127.0.0.1:41746 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:27 INF [TCP] connected lAddr=127.0.0.1:41758 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:27 INF [TCP] connected lAddr=127.0.0.1:41772 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:27 INF [TCP] connected lAddr=127.0.0.1:41780 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:28 INF [TCP] connected lAddr=127.0.0.1:41794 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:28 INF [TCP] connected lAddr=127.0.0.1:41810 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:28 INF [TCP] connected lAddr=127.0.0.1:41818 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:28 INF [TCP] connected lAddr=127.0.0.1:41830 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:28 INF [TCP] connected lAddr=127.0.0.1:41836 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:28 INF [TCP] connected lAddr=127.0.0.1:41842 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:28 INF [TCP] connected lAddr=127.0.0.1:41846 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:28 INF [TCP] connected lAddr=127.0.0.1:41862 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:28 INF [TCP] connected lAddr=127.0.0.1:41872 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:28 INF [TCP] connected lAddr=127.0.0.1:41876 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:28 INF [TCP] connected lAddr=127.0.0.1:41890 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:28 INF [TCP] connected lAddr=127.0.0.1:41896 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:28 INF [TCP] connected lAddr=127.0.0.1:41906 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:28 INF [TCP] connected lAddr=127.0.0.1:41916 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:28 INF [TCP] connected lAddr=127.0.0.1:59510 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:28 INF [TCP] connected lAddr=127.0.0.1:59526 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:28 INF [TCP] connected lAddr=127.0.0.1:59528 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:28 INF [TCP] connected lAddr=127.0.0.1:59538 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:28 INF [TCP] connected lAddr=127.0.0.1:59540 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:28 INF [TCP] connected lAddr=127.0.0.1:59556 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:28 INF [TCP] connected lAddr=127.0.0.1:59558 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:28 INF [TCP] connected lAddr=127.0.0.1:59570 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:28 INF [TCP] connected lAddr=127.0.0.1:59584 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:29 INF [TCP] connected lAddr=127.0.0.1:59594 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:29 INF [TCP] connected lAddr=127.0.0.1:59604 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:29 INF [TCP] connected lAddr=127.0.0.1:59618 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:29 INF [TCP] connected lAddr=127.0.0.1:59628 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:29 INF [TCP] connected lAddr=127.0.0.1:59636 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:29 INF [TCP] connected lAddr=127.0.0.1:59640 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:29 INF [TCP] connected lAddr=127.0.0.1:59654 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:42 INF [TCP] connected lAddr=127.0.0.1:47200 rAddr=i.ytimg.com:443 mode=rule rule=DomainSuffix(ytimg.com) proxy=YouTube[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:43 INF [TCP] connected lAddr=127.0.0.1:47212 rAddr=www.youtube.com:443 mode=rule rule=DomainSuffix(youtube.com) proxy=YouTube[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:43 INF [TCP] connected lAddr=127.0.0.1:47224 rAddr=encrypted-tbn0.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:44 INF [TCP] connected lAddr=127.0.0.1:47236 rAddr=jnn-pa.googleapis.com:443 mode=rule rule=DomainSuffix(googleapis.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:52:46 INF [TCP] connected lAddr=127.0.0.1:47240 rAddr=docs.github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:53:30 INF [TCP] connected lAddr=127.0.0.1:50862 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:55:08 INF [TCP] connected lAddr=127.0.0.1:52410 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:55:50 INF [TCP] connected lAddr=127.0.0.1:59542 rAddr=contile.services.mozilla.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:56:44 INF [TCP] connected lAddr=127.0.0.1:37842 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:57:59 INF [TCP] connected lAddr=127.0.0.1:44828 rAddr=stackoverflow.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:57:59 INF [TCP] connected lAddr=127.0.0.1:44838 rAddr=i.stack.imgur.com:443 mode=rule rule=DomainSuffix(imgur.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:57:59 INF [TCP] connected lAddr=127.0.0.1:44854 rAddr=www.gravatar.com:443 mode=rule rule=DomainSuffix(gravatar.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:57:59 INF [TCP] connected lAddr=127.0.0.1:44870 rAddr=lh5.googleusercontent.com:443 mode=rule rule=DomainSuffix(googleusercontent.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:57:59 INF [TCP] connected lAddr=127.0.0.1:44886 rAddr=lh3.googleusercontent.com:443 mode=rule rule=DomainSuffix(googleusercontent.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:58:00 INF [TCP] connected lAddr=127.0.0.1:44900 rAddr=lh6.googleusercontent.com:443 mode=rule rule=DomainSuffix(googleusercontent.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:58:00 INF [TCP] connected lAddr=127.0.0.1:44898 rAddr=lh6.googleusercontent.com:443 mode=rule rule=DomainSuffix(googleusercontent.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:58:00 INF [TCP] connected lAddr=127.0.0.1:44904 rAddr=geolocation.onetrust.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:58:01 INF [TCP] connected lAddr=127.0.0.1:44918 rAddr=accounts.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:58:19 INF [TCP] connected lAddr=127.0.0.1:52642 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+10:59:55 INF [TCP] connected lAddr=127.0.0.1:53132 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:01:33 INF [TCP] connected lAddr=127.0.0.1:58454 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:03:10 INF [TCP] connected lAddr=127.0.0.1:41756 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:04:18 INF [TCP] connected lAddr=127.0.0.1:46080 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:04:19 INF [TCP] connected lAddr=127.0.0.1:47218 rAddr=avatars.githubusercontent.com:443 mode=rule rule=DomainSuffix(githubusercontent.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:04:25 INF [TCP] connected lAddr=127.0.0.1:47232 rAddr=github.githubassets.com:443 mode=rule rule=DomainSuffix(githubassets.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:04:25 INF [TCP] connected lAddr=127.0.0.1:47238 rAddr=github.githubassets.com:443 mode=rule rule=DomainSuffix(githubassets.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:04:46 INF [TCP] connected lAddr=127.0.0.1:50552 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:04:55 INF [TCP] connected lAddr=127.0.0.1:54460 rAddr=normandy.cdn.mozilla.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:04:55 INF [TCP] connected lAddr=127.0.0.1:54470 rAddr=r3.o.lencr.org:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:04:55 INF [TCP] connected lAddr=127.0.0.1:54480 rAddr=classify-client.services.mozilla.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:04:56 INF [TCP] connected lAddr=127.0.0.1:54484 rAddr=r3.o.lencr.org:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:04:56 INF [TCP] connected lAddr=127.0.0.1:54498 rAddr=content-signature-2.cdn.mozilla.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:06:18 INF [TCP] connected lAddr=127.0.0.1:51440 rAddr=docs.github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:06:21 INF [TCP] connected lAddr=127.0.0.1:38090 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:07:54 INF [TCP] connected lAddr=127.0.0.1:47746 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:09:30 INF [TCP] connected lAddr=127.0.0.1:45144 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:10:55 INF [TCP] connected lAddr=127.0.0.1:38218 rAddr=contile.services.mozilla.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:11:05 INF [TCP] connected lAddr=127.0.0.1:59620 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:12:40 INF [TCP] connected lAddr=127.0.0.1:47676 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:13:18 INF [TCP] connected lAddr=127.0.0.1:36360 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:13:19 INF [TCP] connected lAddr=127.0.0.1:46324 rAddr=avatars.githubusercontent.com:443 mode=rule rule=DomainSuffix(githubusercontent.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:13:22 INF [TCP] connected lAddr=127.0.0.1:46326 rAddr=github.githubassets.com:443 mode=rule rule=DomainSuffix(githubassets.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:14:07 INF [TCP] connected lAddr=127.0.0.1:42612 rAddr=github.githubassets.com:443 mode=rule rule=DomainSuffix(githubassets.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:14:29 INF [TCP] connected lAddr=127.0.0.1:60284 rAddr=identity.bitwarden.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:14:48 INF [TCP] connected lAddr=127.0.0.1:53338 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:14:52 INF [TCP] connected lAddr=127.0.0.1:53346 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:14:53 INF [TCP] connected lAddr=127.0.0.1:53350 rAddr=incoming.telemetry.mozilla.org:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:14:57 INF [TCP] connected lAddr=127.0.0.1:53366 rAddr=stackoverflow.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:14:58 INF [TCP] connected lAddr=127.0.0.1:53368 rAddr=accounts.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:14:58 INF [TCP] connected lAddr=127.0.0.1:53384 rAddr=www.gravatar.com:443 mode=rule rule=DomainSuffix(gravatar.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:14:58 INF [TCP] connected lAddr=127.0.0.1:53412 rAddr=lh5.googleusercontent.com:443 mode=rule rule=DomainSuffix(googleusercontent.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:14:58 INF [TCP] connected lAddr=127.0.0.1:53400 rAddr=i.stack.imgur.com:443 mode=rule rule=DomainSuffix(imgur.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:14:58 INF [TCP] connected lAddr=127.0.0.1:53424 rAddr=lh3.googleusercontent.com:443 mode=rule rule=DomainSuffix(googleusercontent.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:14:58 INF [TCP] connected lAddr=127.0.0.1:53414 rAddr=lh6.googleusercontent.com:443 mode=rule rule=DomainSuffix(googleusercontent.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:14:58 INF [TCP] connected lAddr=127.0.0.1:53432 rAddr=geolocation.onetrust.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:14:59 INF [TCP] connected lAddr=127.0.0.1:38016 rAddr=graph.facebook.com:443 mode=rule rule=DomainKeyword(.facebook.) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:15:00 INF [TCP] connected lAddr=127.0.0.1:38032 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:15:00 INF [TCP] connected lAddr=127.0.0.1:38040 rAddr=scontent-xsp1-1.xx.fbcdn.net:443 mode=rule rule=DomainSuffix(fbcdn.net) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:15:03 WRN [TCP] dial failed error=dial tcp4 216.58.220.138:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:53396 rAddr=safebrowsing.googleapis.com:443 rule=Domain rulePayload=safebrowsing.googleapis.com
+11:15:08 WRN [TCP] dial failed error=dial tcp4 216.58.220.138:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:38050 rAddr=safebrowsing.googleapis.com:443 rule=Domain rulePayload=safebrowsing.googleapis.com
+11:15:12 INF [TCP] connected lAddr=127.0.0.1:42264 rAddr=cdn.cookielaw.org:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:15:49 INF [TCP] connected lAddr=127.0.0.1:49602 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:17:25 INF [TCP] connected lAddr=127.0.0.1:54926 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:18:59 INF [TCP] connected lAddr=127.0.0.1:52598 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:20:32 INF [TCP] connected lAddr=127.0.0.1:46638 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:20:34 INF [TCP] connected lAddr=127.0.0.1:46654 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:20:34 INF [TCP] connected lAddr=127.0.0.1:46670 rAddr=encrypted-tbn0.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:20:35 INF [TCP] connected lAddr=127.0.0.1:46676 rAddr=lh5.googleusercontent.com:443 mode=rule rule=DomainSuffix(googleusercontent.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:20:41 INF [TCP] connected lAddr=127.0.0.1:48244 rAddr=i.ytimg.com:443 mode=rule rule=DomainSuffix(ytimg.com) proxy=YouTube[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:20:41 INF [TCP] connected lAddr=127.0.0.1:48256 rAddr=www.youtube.com:443 mode=rule rule=DomainSuffix(youtube.com) proxy=YouTube[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:20:42 INF [TCP] connected lAddr=127.0.0.1:48268 rAddr=jnn-pa.googleapis.com:443 mode=rule rule=DomainSuffix(googleapis.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:20:44 INF [TCP] connected lAddr=127.0.0.1:48278 rAddr=api.bitwarden.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:20:44 INF [TCP] connected lAddr=127.0.0.1:48292 rAddr=stackoverflow.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:20:45 INF [TCP] connected lAddr=127.0.0.1:48322 rAddr=i.stack.imgur.com:443 mode=rule rule=DomainSuffix(imgur.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:20:45 INF [TCP] connected lAddr=127.0.0.1:48332 rAddr=www.gravatar.com:443 mode=rule rule=DomainSuffix(gravatar.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:20:45 INF [TCP] connected lAddr=127.0.0.1:48308 rAddr=cdn.sstatic.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:20:45 INF [TCP] connected lAddr=127.0.0.1:48350 rAddr=lh3.googleusercontent.com:443 mode=rule rule=DomainSuffix(googleusercontent.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:20:45 INF [TCP] connected lAddr=127.0.0.1:48366 rAddr=lh4.googleusercontent.com:443 mode=rule rule=DomainSuffix(googleusercontent.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:20:45 INF [TCP] connected lAddr=127.0.0.1:48388 rAddr=geolocation.onetrust.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:20:47 INF [TCP] connected lAddr=127.0.0.1:48402 rAddr=graph.facebook.com:443 mode=rule rule=DomainKeyword(.facebook.) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:20:47 INF [TCP] connected lAddr=127.0.0.1:48412 rAddr=platform-lookaside.fbsbx.com:443 mode=rule rule=DomainSuffix(fbsbx.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:20:48 INF [TCP] connected lAddr=127.0.0.1:48420 rAddr=accounts.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:21:43 INF [TCP] connected lAddr=127.0.0.1:49968 rAddr=incoming.telemetry.mozilla.org:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:22:08 INF [TCP] connected lAddr=127.0.0.1:43340 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:23:04 INF [TCP] connected lAddr=127.0.0.1:32948 rAddr=docs.github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:23:43 INF [TCP] connected lAddr=127.0.0.1:32864 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:25:19 INF [TCP] connected lAddr=127.0.0.1:58516 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:25:55 INF [TCP] connected lAddr=127.0.0.1:36174 rAddr=contile.services.mozilla.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:26:57 INF [TCP] connected lAddr=127.0.0.1:60716 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:28:33 INF [TCP] connected lAddr=127.0.0.1:56468 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:29:16 INF [TCP] connected lAddr=127.0.0.1:44734 rAddr=docs.github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:29:20 INF [TCP] connected lAddr=127.0.0.1:34082 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:29:29 INF [TCP] connected lAddr=127.0.0.1:42528 rAddr=avatars.githubusercontent.com:443 mode=rule rule=DomainSuffix(githubusercontent.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:29:30 INF [TCP] connected lAddr=127.0.0.1:42540 rAddr=firefox.settings.services.mozilla.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:31:44 INF [TCP] connected lAddr=127.0.0.1:49522 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:33:20 INF [TCP] connected lAddr=127.0.0.1:58962 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:33:52 INF [TCP] connected lAddr=127.0.0.1:37758 rAddr=incoming.telemetry.mozilla.org:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:34:55 INF [TCP] connected lAddr=127.0.0.1:58150 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:36:29 INF [TCP] connected lAddr=127.0.0.1:40728 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:36:37 INF [TCP] connected lAddr=127.0.0.1:40730 rAddr=www.reddit.com:443 mode=rule rule=DomainSuffix(reddit.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:37:42 INF [TCP] connected lAddr=127.0.0.1:40408 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:38:53 INF [TCP] connected lAddr=127.0.0.1:41202 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:39:42 INF [TCP] connected lAddr=127.0.0.1:41684 rAddr=docs.github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:40:03 INF [TCP] connected lAddr=127.0.0.1:53214 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:40:47 INF [TCP] connected lAddr=127.0.0.1:42208 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:40:48 INF [TCP] connected lAddr=127.0.0.1:42230 rAddr=github.githubassets.com:443 mode=rule rule=DomainSuffix(githubassets.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:40:57 INF [TCP] connected lAddr=127.0.0.1:58168 rAddr=contile.services.mozilla.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:41:54 INF [TCP] connected lAddr=127.0.0.1:50248 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:41:55 INF [TCP] connected lAddr=127.0.0.1:50260 rAddr=avatars.githubusercontent.com:443 mode=rule rule=DomainSuffix(githubusercontent.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:43:42 INF [TCP] connected lAddr=127.0.0.1:55172 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:43:43 WRN [TCP] dial failed error=dial tcp4 216.58.220.138:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:52024 rAddr=safebrowsing.googleapis.com:443 rule=Domain rulePayload=safebrowsing.googleapis.com
+11:43:43 INF [TCP] connected lAddr=127.0.0.1:55180 rAddr=safebrowsing.googleapis.com:443 mode=rule rule=Domain(safebrowsing.googleapis.com) proxy=DIRECT
+11:44:15 INF [TCP] connected lAddr=127.0.0.1:37538 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:44:18 INF [TCP] connected lAddr=127.0.0.1:47168 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:44:19 INF [TCP] connected lAddr=127.0.0.1:47178 rAddr=csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:44:19 INF [TCP] connected lAddr=127.0.0.1:47190 rAddr=g.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:44:19 INF [TCP] connected lAddr=127.0.0.1:47200 rAddr=csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:44:19 INF [TCP] connected lAddr=127.0.0.1:47208 rAddr=g.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:44:19 INF [TCP] connected lAddr=127.0.0.1:47224 rAddr=s3a.pstatp.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:44:19 INF [TCP] connected lAddr=127.0.0.1:47230 rAddr=profile-avatar.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:44:19 INF [TCP] connected lAddr=127.0.0.1:47242 rAddr=img-blog.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:44:19 INF [TCP] connected lAddr=127.0.0.1:47252 rAddr=eva2.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:44:19 INF [TCP] connected lAddr=127.0.0.1:47264 rAddr=img-home.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:44:19 INF [TCP] connected lAddr=127.0.0.1:47268 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:44:19 INF [TCP] connected lAddr=127.0.0.1:47272 rAddr=devpress-api.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:44:19 INF [TCP] connected lAddr=127.0.0.1:47288 rAddr=statistic.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:44:19 INF [TCP] connected lAddr=127.0.0.1:47306 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:44:19 INF [TCP] connected lAddr=127.0.0.1:47328 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:44:19 INF [TCP] connected lAddr=127.0.0.1:47290 rAddr=mp-activity.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:44:19 INF [TCP] connected lAddr=127.0.0.1:47332 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:44:19 INF [TCP] connected lAddr=127.0.0.1:47320 rAddr=silkroad.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:44:19 INF [TCP] connected lAddr=127.0.0.1:47298 rAddr=kunpeng.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:44:19 INF [TCP] connected lAddr=127.0.0.1:47324 rAddr=msg.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:44:19 INF [TCP] connected lAddr=127.0.0.1:47334 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:44:19 INF [TCP] connected lAddr=127.0.0.1:47348 rAddr=eva2.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:44:19 INF [TCP] connected lAddr=127.0.0.1:47352 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:44:19 INF [TCP] connected lAddr=127.0.0.1:47354 rAddr=gsp0.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:44:20 INF [TCP] connected lAddr=127.0.0.1:47368 rAddr=zhannei-dm.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:44:49 INF [TCP] connected lAddr=127.0.0.1:42562 rAddr=bizapi.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:44:54 INF [TCP] connected lAddr=127.0.0.1:42574 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:46:06 INF [TCP] connected lAddr=127.0.0.1:44192 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:47:17 INF [TCP] connected lAddr=127.0.0.1:52456 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:48:33 INF [TCP] connected lAddr=127.0.0.1:52112 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:49:46 INF [TCP] connected lAddr=127.0.0.1:38740 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:50:57 INF [TCP] connected lAddr=127.0.0.1:55914 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:51:35 INF [TCP] connected lAddr=127.0.0.1:54770 rAddr=eva2.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:52:08 INF [TCP] connected lAddr=127.0.0.1:55322 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:52:54 INF [TCP] connected lAddr=127.0.0.1:37096 rAddr=eva2.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:52:57 INF [TCP] connected lAddr=127.0.0.1:37102 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:52:58 INF [TCP] connected lAddr=127.0.0.1:37114 rAddr=incoming.telemetry.mozilla.org:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:52:58 INF [TCP] connected lAddr=127.0.0.1:37130 rAddr=www.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:53:00 INF [TCP] connected lAddr=127.0.0.1:59134 rAddr=encrypted-tbn0.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:53:07 INF [TCP] connected lAddr=127.0.0.1:59148 rAddr=fonts.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:53:09 INF [TCP] connected lAddr=127.0.0.1:52430 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:53:10 INF [TCP] connected lAddr=127.0.0.1:52442 rAddr=csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:53:10 INF [TCP] connected lAddr=127.0.0.1:52450 rAddr=g.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:53:10 INF [TCP] connected lAddr=127.0.0.1:52460 rAddr=g.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:53:10 INF [TCP] connected lAddr=127.0.0.1:52466 rAddr=g.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:53:10 INF [TCP] connected lAddr=127.0.0.1:52476 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:53:10 INF [TCP] connected lAddr=127.0.0.1:52486 rAddr=s3a.pstatp.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:53:10 INF [TCP] connected lAddr=127.0.0.1:52502 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:53:10 INF [TCP] connected lAddr=127.0.0.1:52528 rAddr=devpress-api.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:53:10 INF [TCP] connected lAddr=127.0.0.1:52578 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:53:10 INF [TCP] connected lAddr=127.0.0.1:52582 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:53:10 INF [TCP] connected lAddr=127.0.0.1:52544 rAddr=mp-activity.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:53:10 INF [TCP] connected lAddr=127.0.0.1:52556 rAddr=kunpeng.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:53:10 INF [TCP] connected lAddr=127.0.0.1:52566 rAddr=msg.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:53:10 INF [TCP] connected lAddr=127.0.0.1:52598 rAddr=silkroad.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:53:10 INF [TCP] connected lAddr=127.0.0.1:52602 rAddr=statistic.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:53:10 INF [TCP] connected lAddr=127.0.0.1:52610 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:53:10 INF [TCP] connected lAddr=127.0.0.1:52620 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:53:11 INF [TCP] connected lAddr=127.0.0.1:52624 rAddr=gsp0.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:53:11 INF [TCP] connected lAddr=127.0.0.1:52634 rAddr=profile-avatar.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:53:11 INF [TCP] connected lAddr=127.0.0.1:52642 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:53:12 INF [TCP] connected lAddr=127.0.0.1:52652 rAddr=zhannei-dm.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:53:15 INF [TCP] connected lAddr=127.0.0.1:52666 rAddr=devpress-api.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:53:21 INF [TCP] connected lAddr=127.0.0.1:42448 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:53:22 INF [TCP] connected lAddr=127.0.0.1:42464 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:53:40 INF [TCP] connected lAddr=127.0.0.1:36370 rAddr=bizapi.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:54:30 INF [TCP] connected lAddr=127.0.0.1:53340 rAddr=golang.0voice.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:54:30 INF [TCP] connected lAddr=127.0.0.1:53348 rAddr=r3.o.lencr.org:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:54:32 INF [TCP] connected lAddr=127.0.0.1:53376 rAddr=linuxcpp.0voice.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:54:32 INF [TCP] connected lAddr=127.0.0.1:53406 rAddr=linuxcpp.0voice.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:54:32 INF [TCP] connected lAddr=127.0.0.1:53368 rAddr=linuxcpp.0voice.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:54:32 INF [TCP] connected lAddr=127.0.0.1:53372 rAddr=linuxcpp.0voice.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:54:32 INF [TCP] connected lAddr=127.0.0.1:53392 rAddr=linuxcpp.0voice.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:54:32 INF [TCP] connected lAddr=127.0.0.1:53352 rAddr=linuxcpp.0voice.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:54:32 INF [TCP] connected lAddr=127.0.0.1:53420 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:54:32 INF [TCP] connected lAddr=127.0.0.1:53430 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:54:32 INF [TCP] connected lAddr=127.0.0.1:53444 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:54:33 INF [TCP] connected lAddr=127.0.0.1:53458 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:54:33 INF [TCP] connected lAddr=127.0.0.1:53464 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:54:37 INF [TCP] connected lAddr=127.0.0.1:53466 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:55:44 INF [TCP] connected lAddr=127.0.0.1:55468 rAddr=www.xiebruce.top:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:55:44 INF [TCP] connected lAddr=127.0.0.1:55470 rAddr=r3.o.lencr.org:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:55:47 INF [TCP] connected lAddr=127.0.0.1:55474 rAddr=msite.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:55:47 INF [TCP] connected lAddr=127.0.0.1:55490 rAddr=cdn.jsdelivr.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:55:47 INF [TCP] connected lAddr=127.0.0.1:55504 rAddr=cdn.jsdelivr.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:55:47 INF [TCP] connected lAddr=127.0.0.1:55508 rAddr=cdn.jsdelivr.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:55:47 INF [TCP] connected lAddr=127.0.0.1:55486 rAddr=cdn.jsdelivr.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:55:47 INF [TCP] connected lAddr=127.0.0.1:55484 rAddr=cdn.jsdelivr.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:55:47 INF [TCP] connected lAddr=127.0.0.1:55514 rAddr=cdn.jsdelivr.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:55:47 INF [TCP] connected lAddr=127.0.0.1:55516 rAddr=ae.bdstatic.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:55:48 INF [TCP] connected lAddr=127.0.0.1:55528 rAddr=static.myssl.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:55:48 INF [TCP] connected lAddr=127.0.0.1:55534 rAddr=secure.gravatar.com:443 mode=rule rule=DomainSuffix(gravatar.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:55:48 INF [TCP] connected lAddr=127.0.0.1:55550 rAddr=secure.gravatar.com:443 mode=rule rule=DomainSuffix(gravatar.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:55:48 INF [TCP] connected lAddr=127.0.0.1:55566 rAddr=img.xiebruce.top:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:55:48 INF [TCP] connected lAddr=127.0.0.1:55598 rAddr=ocsp.trust-provider.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:55:48 INF [TCP] connected lAddr=127.0.0.1:55570 rAddr=img.xiebruce.top:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:55:48 INF [TCP] connected lAddr=127.0.0.1:55552 rAddr=img.xiebruce.top:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:55:48 INF [TCP] connected lAddr=127.0.0.1:55582 rAddr=img.xiebruce.top:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:55:48 INF [TCP] connected lAddr=127.0.0.1:55604 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:55:48 INF [TCP] connected lAddr=127.0.0.1:51126 rAddr=www.imooc.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:55:48 INF [TCP] connected lAddr=127.0.0.1:51136 rAddr=ocsp.crlocsp.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:55:49 INF [TCP] connected lAddr=127.0.0.1:51140 rAddr=moco.imooc.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:55:49 INF [TCP] connected lAddr=127.0.0.1:51170 rAddr=moco.imooc.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:55:49 INF [TCP] connected lAddr=127.0.0.1:51154 rAddr=moco.imooc.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:55:49 INF [TCP] connected lAddr=127.0.0.1:51200 rAddr=static.mukewang.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:55:49 INF [TCP] connected lAddr=127.0.0.1:51186 rAddr=moco.imooc.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:55:49 INF [TCP] connected lAddr=127.0.0.1:51172 rAddr=moco.imooc.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:55:49 INF [TCP] connected lAddr=127.0.0.1:51202 rAddr=ocsp.crlocsp.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:55:50 INF [TCP] connected lAddr=127.0.0.1:51218 rAddr=pagead2.googlesyndication.com:443 mode=rule rule=DomainSuffix(googlesyndication.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:55:50 INF [TCP] connected lAddr=127.0.0.1:51224 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(pki.goog) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:55:51 INF [TCP] connected lAddr=127.0.0.1:51258 rAddr=img1.sycdn.imooc.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:55:51 INF [TCP] connected lAddr=127.0.0.1:51238 rAddr=img1.sycdn.imooc.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:55:51 INF [TCP] connected lAddr=127.0.0.1:51250 rAddr=img1.sycdn.imooc.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:55:51 INF [TCP] connected lAddr=127.0.0.1:51262 rAddr=ocsp.crlocsp.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:55:51 INF [TCP] connected lAddr=127.0.0.1:51288 rAddr=ocsp.crlocsp.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:55:51 INF [TCP] connected lAddr=127.0.0.1:51276 rAddr=ocsp.crlocsp.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:55:51 INF [TCP] connected lAddr=127.0.0.1:51302 rAddr=order.imooc.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:55:51 INF [TCP] connected lAddr=127.0.0.1:51316 rAddr=static.mukewang.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:55:51 INF [TCP] connected lAddr=127.0.0.1:51318 rAddr=img1.sycdn.imooc.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:55:51 INF [TCP] connected lAddr=127.0.0.1:51326 rAddr=img1.sycdn.imooc.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:55:51 INF [TCP] connected lAddr=127.0.0.1:51342 rAddr=img1.sycdn.imooc.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:55:53 INF [TCP] connected lAddr=127.0.0.1:51354 rAddr=class.imooc.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:56:35 INF [TCP] connected lAddr=127.0.0.1:51760 rAddr=contile.services.mozilla.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:56:59 INF [TCP] connected lAddr=127.0.0.1:34232 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:57:23 INF [TCP] connected lAddr=127.0.0.1:60106 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:57:24 INF [TCP] connected lAddr=127.0.0.1:60124 rAddr=lh5.googleusercontent.com:443 mode=rule rule=DomainSuffix(googleusercontent.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:57:24 INF [TCP] connected lAddr=127.0.0.1:60118 rAddr=encrypted-tbn0.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:57:37 INF [TCP] connected lAddr=127.0.0.1:58488 rAddr=blog.51cto.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:57:37 INF [TCP] connected lAddr=127.0.0.1:58502 rAddr=ocsp.dcocsp.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:57:37 INF [TCP] connected lAddr=127.0.0.1:58506 rAddr=blog.51cto.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:57:38 INF [TCP] connected lAddr=127.0.0.1:58510 rAddr=s2.51cto.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:57:38 INF [TCP] connected lAddr=127.0.0.1:58514 rAddr=aeu.alicdn.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:57:38 INF [TCP] connected lAddr=127.0.0.1:58530 rAddr=aeu.alicdn.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:57:38 INF [TCP] connected lAddr=127.0.0.1:58538 rAddr=ocsp.dcocsp.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:57:38 INF [TCP] connected lAddr=127.0.0.1:58600 rAddr=s4.51cto.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:57:38 INF [TCP] connected lAddr=127.0.0.1:58602 rAddr=s3.51cto.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:57:38 INF [TCP] connected lAddr=127.0.0.1:58608 rAddr=s9.51cto.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:57:38 INF [TCP] connected lAddr=127.0.0.1:58592 rAddr=s3.51cto.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:57:38 INF [TCP] connected lAddr=127.0.0.1:58644 rAddr=s5.51cto.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:57:38 INF [TCP] connected lAddr=127.0.0.1:58610 rAddr=s5.51cto.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:57:38 INF [TCP] connected lAddr=127.0.0.1:58572 rAddr=s4.51cto.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:57:38 INF [TCP] connected lAddr=127.0.0.1:58588 rAddr=s6.51cto.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:57:38 INF [TCP] connected lAddr=127.0.0.1:58558 rAddr=s5.51cto.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:57:38 INF [TCP] connected lAddr=127.0.0.1:58622 rAddr=s9.51cto.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:57:38 INF [TCP] connected lAddr=127.0.0.1:58554 rAddr=ucenter.51cto.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:57:38 INF [TCP] connected lAddr=127.0.0.1:58632 rAddr=s8.51cto.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:57:38 INF [TCP] connected lAddr=127.0.0.1:58634 rAddr=s9.51cto.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:57:38 INF [TCP] connected lAddr=127.0.0.1:58660 rAddr=g.alicdn.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:57:38 INF [TCP] connected lAddr=127.0.0.1:58672 rAddr=static2.51cto.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:57:38 INF [TCP] connected lAddr=127.0.0.1:46266 rAddr=static2.51cto.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:57:38 INF [TCP] connected lAddr=127.0.0.1:46256 rAddr=static2.51cto.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:57:38 INF [TCP] connected lAddr=127.0.0.1:46286 rAddr=static2.51cto.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:57:38 INF [TCP] connected lAddr=127.0.0.1:46254 rAddr=static2.51cto.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:57:38 INF [TCP] connected lAddr=127.0.0.1:46272 rAddr=static2.51cto.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:57:38 INF [TCP] connected lAddr=127.0.0.1:46284 rAddr=static2.51cto.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:57:38 INF [TCP] connected lAddr=127.0.0.1:46310 rAddr=cdn.51cto.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:57:38 INF [TCP] connected lAddr=127.0.0.1:46298 rAddr=cdn.51cto.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:57:38 INF [TCP] connected lAddr=127.0.0.1:46318 rAddr=cdn.51cto.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:57:38 INF [TCP] connected lAddr=127.0.0.1:46334 rAddr=blog.51cto.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:57:38 INF [TCP] connected lAddr=127.0.0.1:46324 rAddr=blog.51cto.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:57:38 INF [TCP] connected lAddr=127.0.0.1:46352 rAddr=blog.51cto.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:57:38 INF [TCP] connected lAddr=127.0.0.1:46344 rAddr=blog.51cto.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:57:38 INF [TCP] connected lAddr=127.0.0.1:46364 rAddr=blog.51cto.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+11:58:09 INF [TCP] connected lAddr=127.0.0.1:37874 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+11:59:20 INF [TCP] connected lAddr=127.0.0.1:60168 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:00:37 INF [TCP] connected lAddr=127.0.0.1:34524 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:01:48 INF [TCP] connected lAddr=127.0.0.1:47224 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:02:59 INF [TCP] connected lAddr=127.0.0.1:52252 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:04:07 INF [TCP] connected lAddr=127.0.0.1:50234 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:05:23 INF [TCP] connected lAddr=127.0.0.1:52088 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:06:35 INF [TCP] connected lAddr=127.0.0.1:52616 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:07:50 INF [TCP] connected lAddr=127.0.0.1:57866 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:09:02 INF [TCP] connected lAddr=127.0.0.1:52788 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:10:13 INF [TCP] connected lAddr=127.0.0.1:43854 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:11:26 INF [TCP] connected lAddr=127.0.0.1:53746 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:12:34 INF [TCP] connected lAddr=127.0.0.1:58916 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:13:45 INF [TCP] connected lAddr=127.0.0.1:36688 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:14:56 INF [TCP] connected lAddr=127.0.0.1:42296 rAddr=identity.bitwarden.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:14:56 INF [TCP] connected lAddr=127.0.0.1:42304 rAddr=contile.services.mozilla.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:15:03 INF [TCP] connected lAddr=127.0.0.1:34060 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:15:27 INF [TCP] connected lAddr=127.0.0.1:57136 rAddr=github.githubassets.com:443 mode=rule rule=DomainSuffix(githubassets.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:15:27 INF [TCP] connected lAddr=127.0.0.1:57152 rAddr=avatars.githubusercontent.com:443 mode=rule rule=DomainSuffix(githubusercontent.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:15:48 INF [TCP] connected lAddr=127.0.0.1:51106 rAddr=shavar.services.mozilla.com:443 mode=rule rule=IPCIDR(52.0.0.0/8) proxy=Netflix[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:15:49 INF [TCP] connected lAddr=127.0.0.1:51112 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:15:49 INF [TCP] connected lAddr=127.0.0.1:51128 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:15:49 INF [TCP] connected lAddr=127.0.0.1:51126 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:15:57 INF [TCP] connected lAddr=127.0.0.1:51138 rAddr=eva2.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+12:16:13 INF [TCP] connected lAddr=127.0.0.1:49048 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:16:22 INF [TCP] connected lAddr=127.0.0.1:35934 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:16:25 INF [TCP] connected lAddr=127.0.0.1:35950 rAddr=encrypted-tbn0.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:06 INF [TCP] connected lAddr=127.0.0.1:60692 rAddr=www.git-tower.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:07 INF [TCP] connected lAddr=127.0.0.1:60702 rAddr=ajax.googleapis.com:443 mode=rule rule=DomainSuffix(googleapis.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:07 INF [TCP] connected lAddr=127.0.0.1:60698 rAddr=app.usercentrics.eu:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:07 INF [TCP] connected lAddr=127.0.0.1:60704 rAddr=use.typekit.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:07 INF [TCP] connected lAddr=127.0.0.1:60716 rAddr=app.usercentrics.eu:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:07 INF [TCP] connected lAddr=127.0.0.1:60726 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(pki.goog) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:07 INF [TCP] connected lAddr=127.0.0.1:60734 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(pki.goog) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:07 INF [TCP] connected lAddr=127.0.0.1:60744 rAddr=use.typekit.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:07 INF [TCP] connected lAddr=127.0.0.1:60760 rAddr=use.typekit.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:07 INF [TCP] connected lAddr=127.0.0.1:60772 rAddr=use.typekit.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:07 INF [TCP] connected lAddr=127.0.0.1:60754 rAddr=use.typekit.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:07 INF [TCP] connected lAddr=127.0.0.1:60784 rAddr=app.usercentrics.eu:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:08 INF [TCP] connected lAddr=127.0.0.1:60786 rAddr=api.usercentrics.eu:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:08 INF [TCP] connected lAddr=127.0.0.1:60788 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(pki.goog) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:11 INF [TCP] connected lAddr=127.0.0.1:37130 rAddr=consent-api.service.consent.usercentrics.eu:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:11 INF [TCP] connected lAddr=127.0.0.1:37144 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(pki.goog) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:25 INF [TCP] connected lAddr=127.0.0.1:38686 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:31 INF [TCP] connected lAddr=127.0.0.1:47974 rAddr=stackoverflow.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:32 INF [TCP] connected lAddr=127.0.0.1:47978 rAddr=accounts.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:32 INF [TCP] connected lAddr=127.0.0.1:47982 rAddr=i.stack.imgur.com:443 mode=rule rule=DomainSuffix(imgur.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:32 INF [TCP] connected lAddr=127.0.0.1:48010 rAddr=lh3.googleusercontent.com:443 mode=rule rule=DomainSuffix(googleusercontent.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:32 INF [TCP] connected lAddr=127.0.0.1:47996 rAddr=www.gravatar.com:443 mode=rule rule=DomainSuffix(gravatar.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:33 INF [TCP] connected lAddr=127.0.0.1:48014 rAddr=geolocation.onetrust.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:34 INF [TCP] connected lAddr=127.0.0.1:48020 rAddr=cdn.cookielaw.org:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:51 INF [TCP] connected lAddr=127.0.0.1:36990 rAddr=www.gitkraken.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:52 INF [TCP] connected lAddr=127.0.0.1:37004 rAddr=use.fontawesome.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:52 INF [TCP] connected lAddr=127.0.0.1:37006 rAddr=use.fontawesome.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:52 INF [TCP] connected lAddr=127.0.0.1:37014 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:52 INF [TCP] connected lAddr=127.0.0.1:37024 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:52 INF [TCP] connected lAddr=127.0.0.1:37028 rAddr=player.vimeo.com:443 mode=rule rule=DomainSuffix(vimeo.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:52 INF [TCP] connected lAddr=127.0.0.1:37048 rAddr=player.vimeo.com:443 mode=rule rule=DomainSuffix(vimeo.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:52 INF [TCP] connected lAddr=127.0.0.1:37050 rAddr=player.vimeo.com:443 mode=rule rule=DomainSuffix(vimeo.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:52 INF [TCP] connected lAddr=127.0.0.1:37042 rAddr=player.vimeo.com:443 mode=rule rule=DomainSuffix(vimeo.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:53 INF [TCP] connected lAddr=127.0.0.1:37082 rAddr=f.vimeocdn.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:53 INF [TCP] connected lAddr=127.0.0.1:37078 rAddr=f.vimeocdn.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:53 INF [TCP] connected lAddr=127.0.0.1:37066 rAddr=f.vimeocdn.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:53 INF [TCP] connected lAddr=127.0.0.1:37110 rAddr=f.vimeocdn.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:53 INF [TCP] connected lAddr=127.0.0.1:37094 rAddr=f.vimeocdn.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:53 INF [TCP] connected lAddr=127.0.0.1:37112 rAddr=f.vimeocdn.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:53 INF [TCP] connected lAddr=127.0.0.1:37120 rAddr=f.vimeocdn.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:54 INF [TCP] connected lAddr=127.0.0.1:37122 rAddr=i.vimeocdn.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:54 INF [TCP] connected lAddr=127.0.0.1:37124 rAddr=i.vimeocdn.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:54 INF [TCP] connected lAddr=127.0.0.1:37126 rAddr=i.vimeocdn.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:54 INF [TCP] connected lAddr=127.0.0.1:37138 rAddr=i.vimeocdn.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:54 INF [TCP] connected lAddr=127.0.0.1:37152 rAddr=i.vimeocdn.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:54 INF [TCP] connected lAddr=127.0.0.1:37168 rAddr=i.vimeocdn.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:54 INF [TCP] connected lAddr=127.0.0.1:37176 rAddr=133vod-adaptive.akamaized.net:443 mode=rule rule=DomainSuffix(akamaized.net) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:54 INF [TCP] connected lAddr=127.0.0.1:37180 rAddr=134vod-adaptive.akamaized.net:443 mode=rule rule=IPCIDR(96.0.0.0/9) proxy=Netflix[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:54 INF [TCP] connected lAddr=127.0.0.1:37196 rAddr=131vod-adaptive.akamaized.net:443 mode=rule rule=DomainSuffix(akamaized.net) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:17:55 INF [TCP] connected lAddr=127.0.0.1:37206 rAddr=56vod-adaptive.akamaized.net:443 mode=rule rule=DomainSuffix(akamaized.net) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:18:42 INF [TCP] connected lAddr=127.0.0.1:55096 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:19:54 INF [TCP] connected lAddr=127.0.0.1:39076 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:20:44 INF [TCP] connected lAddr=127.0.0.1:41954 rAddr=api.bitwarden.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:21:08 INF [TCP] connected lAddr=127.0.0.1:56296 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:22:15 INF [TCP] connected lAddr=127.0.0.1:52854 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:22:29 INF [TCP] connected lAddr=127.0.0.1:44516 rAddr=ublockorigin.github.io:443 mode=rule rule=DomainSuffix(github.io) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:23:25 INF [TCP] connected lAddr=127.0.0.1:58274 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:24:34 INF [TCP] connected lAddr=127.0.0.1:46058 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:25:46 INF [TCP] connected lAddr=127.0.0.1:37466 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:26:56 INF [TCP] connected lAddr=127.0.0.1:37446 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:28:12 INF [TCP] connected lAddr=127.0.0.1:54236 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:29:22 INF [TCP] connected lAddr=127.0.0.1:45524 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:30:35 INF [TCP] connected lAddr=127.0.0.1:45050 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:31:46 INF [TCP] connected lAddr=127.0.0.1:58462 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:32:56 INF [TCP] connected lAddr=127.0.0.1:42184 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:34:10 INF [TCP] connected lAddr=127.0.0.1:38252 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:35:27 INF [TCP] connected lAddr=127.0.0.1:47444 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:36:34 INF [TCP] connected lAddr=127.0.0.1:43832 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:37:45 INF [TCP] connected lAddr=127.0.0.1:43710 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:38:57 INF [TCP] connected lAddr=127.0.0.1:35646 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:40:13 INF [TCP] connected lAddr=127.0.0.1:58476 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:41:24 INF [TCP] connected lAddr=127.0.0.1:40192 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:42:36 INF [TCP] connected lAddr=127.0.0.1:59898 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:43:49 INF [TCP] connected lAddr=127.0.0.1:46190 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:45:01 INF [TCP] connected lAddr=127.0.0.1:48526 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:46:15 INF [TCP] connected lAddr=127.0.0.1:59490 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:47:27 INF [TCP] connected lAddr=127.0.0.1:55692 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:48:43 INF [TCP] connected lAddr=127.0.0.1:35382 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:49:50 INF [TCP] connected lAddr=127.0.0.1:48714 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:51:01 INF [TCP] connected lAddr=127.0.0.1:38022 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:52:15 INF [TCP] connected lAddr=127.0.0.1:55542 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:53:25 INF [TCP] connected lAddr=127.0.0.1:48774 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:54:37 INF [TCP] connected lAddr=127.0.0.1:35010 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:55:52 INF [TCP] connected lAddr=127.0.0.1:39480 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:57:04 INF [TCP] connected lAddr=127.0.0.1:38934 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:58:21 INF [TCP] connected lAddr=127.0.0.1:50744 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:59:14 INF [TCP] connected lAddr=127.0.0.1:33396 rAddr=contile.services.mozilla.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:59:14 INF [TCP] connected lAddr=127.0.0.1:33388 rAddr=incoming.telemetry.mozilla.org:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:59:21 INF [TCP] connected lAddr=127.0.0.1:44532 rAddr=videoapi-sprites.vimeocdn.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+12:59:33 INF [TCP] connected lAddr=127.0.0.1:54778 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+13:00:39 INF [TCP] connected lAddr=127.0.0.1:55104 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+13:01:54 INF [TCP] connected lAddr=127.0.0.1:53470 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+13:02:24 INF [TCP] connected lAddr=127.0.0.1:37784 rAddr=firefox.settings.services.mozilla.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+13:02:27 INF [TCP] connected lAddr=127.0.0.1:37790 rAddr=eva2.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+13:02:38 INF [TCP] connected lAddr=127.0.0.1:39154 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+13:02:48 INF [TCP] connected lAddr=127.0.0.1:49342 rAddr=github.githubassets.com:443 mode=rule rule=DomainSuffix(githubassets.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+13:02:48 INF [TCP] connected lAddr=127.0.0.1:49352 rAddr=avatars.githubusercontent.com:443 mode=rule rule=DomainSuffix(githubusercontent.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+13:04:22 INF [TCP] connected lAddr=127.0.0.1:47064 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+13:05:29 INF [TCP] connected lAddr=127.0.0.1:34976 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+13:06:40 INF [TCP] connected lAddr=127.0.0.1:44922 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+13:07:53 INF [TCP] connected lAddr=127.0.0.1:39914 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+13:09:02 INF [TCP] connected lAddr=127.0.0.1:37460 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+13:09:16 INF [TCP] connected lAddr=127.0.0.1:55632 rAddr=eva2.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+13:09:17 INF [TCP] connected lAddr=127.0.0.1:55646 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+13:09:21 INF [TCP] connected lAddr=127.0.0.1:42434 rAddr=lh5.googleusercontent.com:443 mode=rule rule=DomainSuffix(googleusercontent.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+13:09:21 INF [TCP] connected lAddr=127.0.0.1:42448 rAddr=encrypted-tbn0.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+13:09:34 INF [TCP] connected lAddr=127.0.0.1:47124 rAddr=stackoverflow.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+13:09:35 INF [TCP] connected lAddr=127.0.0.1:47140 rAddr=safebrowsing.googleapis.com:443 mode=rule rule=Domain(safebrowsing.googleapis.com) proxy=DIRECT
+13:09:35 INF [TCP] connected lAddr=127.0.0.1:47126 rAddr=accounts.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+13:09:35 INF [TCP] connected lAddr=127.0.0.1:47158 rAddr=i.stack.imgur.com:443 mode=rule rule=DomainSuffix(imgur.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+13:09:35 INF [TCP] connected lAddr=127.0.0.1:47142 rAddr=www.gravatar.com:443 mode=rule rule=DomainSuffix(gravatar.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+13:09:35 INF [TCP] connected lAddr=127.0.0.1:47172 rAddr=geolocation.onetrust.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+13:10:14 INF [TCP] connected lAddr=127.0.0.1:37038 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+13:11:09 INF [TCP] connected lAddr=127.0.0.1:48604 rAddr=identity.bitwarden.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+13:11:28 INF [TCP] connected lAddr=127.0.0.1:40174 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+13:12:39 INF [TCP] connected lAddr=127.0.0.1:33024 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+13:13:50 INF [TCP] connected lAddr=127.0.0.1:41484 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+13:13:51 INF [TCP] connected lAddr=127.0.0.1:41488 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+13:13:58 INF [TCP] connected lAddr=127.0.0.1:41504 rAddr=avatars.githubusercontent.com:443 mode=rule rule=DomainSuffix(githubusercontent.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+13:14:15 INF [TCP] connected lAddr=127.0.0.1:33486 rAddr=contile.services.mozilla.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+13:14:27 INF [TCP] connected lAddr=127.0.0.1:59902 rAddr=user-images.githubusercontent.com:443 mode=rule rule=DomainSuffix(githubusercontent.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+13:15:02 INF [TCP] connected lAddr=127.0.0.1:41622 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+13:16:12 INF [TCP] connected lAddr=127.0.0.1:45090 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+13:16:49 INF [TCP] connected lAddr=127.0.0.1:37010 rAddr=player.vimeo.com:443 mode=rule rule=DomainSuffix(vimeo.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+13:16:50 INF [TCP] connected lAddr=127.0.0.1:37024 rAddr=player.vimeo.com:443 mode=rule rule=DomainSuffix(vimeo.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+13:16:50 INF [TCP] connected lAddr=127.0.0.1:37026 rAddr=56vod-adaptive.akamaized.net:443 mode=rule rule=DomainSuffix(akamaized.net) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+13:16:50 INF [TCP] connected lAddr=127.0.0.1:37028 rAddr=player.vimeo.com:443 mode=rule rule=DomainSuffix(vimeo.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+13:16:50 INF [TCP] connected lAddr=127.0.0.1:37032 rAddr=133vod-adaptive.akamaized.net:443 mode=rule rule=DomainSuffix(akamaized.net) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+13:16:51 INF [TCP] connected lAddr=127.0.0.1:37038 rAddr=134vod-adaptive.akamaized.net:443 mode=rule rule=IPCIDR(96.0.0.0/9) proxy=Netflix[🇸🇬 新加坡实验性 IEPL 中继 1]
+13:16:51 INF [TCP] connected lAddr=127.0.0.1:37054 rAddr=131vod-adaptive.akamaized.net:443 mode=rule rule=DomainSuffix(akamaized.net) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+13:17:27 INF [TCP] connected lAddr=127.0.0.1:34558 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]

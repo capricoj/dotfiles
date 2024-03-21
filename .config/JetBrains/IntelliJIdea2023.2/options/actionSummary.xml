@@ -1,0 +1,22 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditCustomVmOptions">
+      <i c="1" l="1710903446194" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="25" l="1710903539188" />
+    </e>
+    <e n="EditorCopy">
+      <i c="1" l="1710903552158" />
+    </e>
+    <e n="EditorPaste">
+      <i c="3" l="1710903607281" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1710917622435" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
+      <i c="4" l="1710914728674" />
+    </e>
+  </component>
+</application>

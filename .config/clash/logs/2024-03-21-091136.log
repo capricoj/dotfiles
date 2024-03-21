@@ -1,0 +1,126 @@
+09:11:36 INF inbound create success inbound=mixed addr=127.0.0.1:7890 network=tcp
+09:11:36 INF inbound create success inbound=mixed addr=127.0.0.1:7890 network=udp
+09:11:36 INF [API] listening addr=127.0.0.1:33551
+09:11:36 WRN [TCP] dial failed error=lookup services.addons.mozilla.org on 10.0.0.1:53: dial udp 10.0.0.1:53: connect: network is unreachable proxy=DIRECT lAddr=127.0.0.1:58214 rAddr=services.addons.mozilla.org:443
+09:11:36 WRN [TCP] dial failed error=lookup services.addons.mozilla.org on 10.0.0.1:53: dial udp 10.0.0.1:53: connect: network is unreachable proxy=DIRECT lAddr=127.0.0.1:58216 rAddr=services.addons.mozilla.org:443
+09:11:36 WRN [TCP] dial failed error=lookup services.addons.mozilla.org on 10.0.0.1:53: dial udp 10.0.0.1:53: connect: network is unreachable proxy=DIRECT lAddr=127.0.0.1:58218 rAddr=services.addons.mozilla.org:443
+09:11:36 WRN [TCP] dial failed error=lookup services.addons.mozilla.org on 10.0.0.1:53: dial udp 10.0.0.1:53: connect: network is unreachable proxy=DIRECT lAddr=127.0.0.1:58234 rAddr=services.addons.mozilla.org:443
+09:11:36 WRN [TCP] dial failed error=lookup services.addons.mozilla.org on 10.0.0.1:53: dial udp 10.0.0.1:53: connect: network is unreachable proxy=DIRECT lAddr=127.0.0.1:58238 rAddr=services.addons.mozilla.org:443
+09:11:36 WRN [TCP] dial failed error=lookup services.addons.mozilla.org on 10.0.0.1:53: dial udp 10.0.0.1:53: connect: network is unreachable proxy=DIRECT lAddr=127.0.0.1:58254 rAddr=services.addons.mozilla.org:443
+09:11:36 WRN [TCP] dial failed error=lookup services.addons.mozilla.org on 10.0.0.1:53: dial udp 10.0.0.1:53: connect: network is unreachable proxy=DIRECT lAddr=127.0.0.1:58268 rAddr=services.addons.mozilla.org:443
+09:11:36 WRN [TCP] dial failed error=lookup services.addons.mozilla.org on 10.0.0.1:53: dial udp 10.0.0.1:53: connect: network is unreachable proxy=DIRECT lAddr=127.0.0.1:58282 rAddr=services.addons.mozilla.org:443
+09:11:36 WRN [TCP] dial failed error=lookup services.addons.mozilla.org on 10.0.0.1:53: dial udp 10.0.0.1:53: connect: network is unreachable proxy=DIRECT lAddr=127.0.0.1:58296 rAddr=services.addons.mozilla.org:443
+09:11:36 WRN [TCP] dial failed error=lookup services.addons.mozilla.org on 10.0.0.1:53: dial udp 10.0.0.1:53: connect: network is unreachable proxy=DIRECT lAddr=127.0.0.1:58306 rAddr=services.addons.mozilla.org:443
+09:11:36 WRN [TCP] dial failed error=lookup safebrowsing.googleapis.com on 10.0.0.1:53: dial udp 10.0.0.1:53: connect: network is unreachable proxy=DIRECT lAddr=127.0.0.1:58310 rAddr=safebrowsing.googleapis.com:443
+09:11:36 WRN [TCP] dial failed error=lookup shavar.services.mozilla.com on 10.0.0.1:53: dial udp 10.0.0.1:53: connect: network is unreachable proxy=DIRECT lAddr=127.0.0.1:58324 rAddr=shavar.services.mozilla.com:443
+09:11:36 INF [Config] initial compatible provider name=Telegram
+09:11:36 INF [Config] initial compatible provider name=OpenAI
+09:11:36 INF [Config] initial compatible provider name=Netflix
+09:11:36 INF [Config] initial compatible provider name=PayPal
+09:11:36 INF [Config] initial compatible provider name=SG
+09:11:36 INF [Config] initial compatible provider name=Proxies
+09:11:36 INF [Config] initial compatible provider name=YouTube
+09:11:36 INF [Config] initial compatible provider name=Bahamut
+09:11:36 INF [Config] initial compatible provider name=Microsoft
+09:11:36 INF [Config] initial compatible provider name=Google
+09:11:36 INF [Config] initial compatible provider name=Spotify
+09:11:36 INF [Config] initial compatible provider name=TW
+09:11:36 INF [Config] initial compatible provider name=Steam
+09:11:36 INF [Config] initial compatible provider name=JP
+09:11:36 INF [Config] initial compatible provider name=HK
+09:11:36 INF [Config] initial compatible provider name=Bilibili
+09:11:36 INF [Config] initial compatible provider name=Final
+09:11:36 INF [Config] initial compatible provider name=Apple
+09:11:36 INF [Config] initial compatible provider name=Disney
+09:11:36 INF [Config] initial compatible provider name=US
+09:11:36 INF [DNS] server listening addr=127.0.0.1:8853
+09:11:36 WRN [TCP] dial failed error=gzdata1.fc-smartglobal.xyz:10003 connect error: all DNS requests failed, first error: dial tcp4 8.8.4.4:853: connect: network is unreachable proxy=Final lAddr=127.0.0.1:58328 rAddr=incoming.telemetry.mozilla.org:443 rule=Match rulePayload=
+09:11:36 WRN [TCP] dial failed error=gzdata1.fc-smartglobal.xyz:10003 connect error: all DNS requests failed, first error: dial tcp4 8.8.4.4:853: connect: network is unreachable proxy=Final lAddr=127.0.0.1:58342 rAddr=firefox.settings.services.mozilla.com:443 rule=Match rulePayload=
+09:11:36 WRN [TCP] dial failed error=gzdata1.fc-smartglobal.xyz:10003 connect error: all DNS requests failed, first error: dial tcp4 8.8.4.4:853: connect: network is unreachable proxy=Final lAddr=127.0.0.1:58346 rAddr=incoming.telemetry.mozilla.org:443 rule=Match rulePayload=
+09:11:36 WRN [TCP] dial failed error=gzdata1.fc-smartglobal.xyz:10003 connect error: all DNS requests failed, first error: dial tcp4 8.8.4.4:853: connect: network is unreachable proxy=Final lAddr=127.0.0.1:58362 rAddr=incoming.telemetry.mozilla.org:443 rule=Match rulePayload=
+09:11:36 WRN [TCP] dial failed error=gzdata1.fc-smartglobal.xyz:10003 connect error: all DNS requests failed, first error: dial tcp4 8.8.4.4:853: connect: network is unreachable proxy=Final lAddr=127.0.0.1:58368 rAddr=incoming.telemetry.mozilla.org:443 rule=Match rulePayload=
+09:11:36 WRN [TCP] dial failed error=gzdata1.fc-smartglobal.xyz:10003 connect error: all DNS requests failed, first error: dial tcp4 8.8.4.4:853: connect: network is unreachable proxy=Final lAddr=127.0.0.1:58378 rAddr=incoming.telemetry.mozilla.org:443 rule=Match rulePayload=
+09:11:36 WRN [TCP] dial failed error=gzdata1.fc-smartglobal.xyz:10003 connect error: all DNS requests failed, first error: Post "https://1.0.0.1/dns-query": dial tcp4 1.0.0.1:443: connect: network is unreachable proxy=Final lAddr=127.0.0.1:58394 rAddr=incoming.telemetry.mozilla.org:443 rule=Match rulePayload=
+09:11:36 WRN [TCP] dial failed error=gzdata1.fc-smartglobal.xyz:10003 connect error: all DNS requests failed, first error: dial tcp4 8.8.4.4:853: connect: network is unreachable proxy=Final lAddr=127.0.0.1:58400 rAddr=incoming.telemetry.mozilla.org:443 rule=Match rulePayload=
+09:11:36 WRN [TCP] dial failed error=gzdata1.fc-smartglobal.xyz:10003 connect error: all DNS requests failed, first error: dial tcp4 8.8.4.4:853: connect: network is unreachable proxy=Final lAddr=127.0.0.1:58402 rAddr=incoming.telemetry.mozilla.org:443 rule=Match rulePayload=
+09:11:36 WRN [TCP] dial failed error=gzdata1.fc-smartglobal.xyz:10003 connect error: all DNS requests failed, first error: dial tcp4 8.8.4.4:853: connect: network is unreachable proxy=Final lAddr=127.0.0.1:58416 rAddr=incoming.telemetry.mozilla.org:443 rule=Match rulePayload=
+09:11:36 WRN [TCP] dial failed error=gzdata1.fc-smartglobal.xyz:10003 connect error: all DNS requests failed, first error: dial tcp4 8.8.4.4:853: connect: network is unreachable proxy=Final lAddr=127.0.0.1:58418 rAddr=incoming.telemetry.mozilla.org:443 rule=Match rulePayload=
+09:11:36 WRN [TCP] dial failed error=gzdata1.fc-smartglobal.xyz:10003 connect error: all DNS requests failed, first error: dial tcp4 8.8.4.4:853: connect: network is unreachable proxy=Final lAddr=127.0.0.1:58432 rAddr=incoming.telemetry.mozilla.org:443 rule=Match rulePayload=
+09:11:36 WRN [TCP] dial failed error=gzdata1.fc-smartglobal.xyz:10003 connect error: all DNS requests failed, first error: dial tcp4 8.8.4.4:853: connect: network is unreachable proxy=Final lAddr=127.0.0.1:58440 rAddr=incoming.telemetry.mozilla.org:443 rule=Match rulePayload=
+09:11:36 WRN [TCP] dial failed error=gzdata1.fc-smartglobal.xyz:10003 connect error: all DNS requests failed, first error: dial tcp4 8.8.4.4:853: connect: network is unreachable proxy=Final lAddr=127.0.0.1:58452 rAddr=incoming.telemetry.mozilla.org:443 rule=Match rulePayload=
+09:11:36 WRN [TCP] dial failed error=gzdata1.fc-smartglobal.xyz:10003 connect error: all DNS requests failed, first error: Post "https://1.0.0.1/dns-query": dial tcp4 1.0.0.1:443: connect: network is unreachable proxy=Final lAddr=127.0.0.1:58462 rAddr=incoming.telemetry.mozilla.org:443 rule=Match rulePayload=
+09:11:36 WRN [TCP] dial failed error=gzdata1.fc-smartglobal.xyz:10003 connect error: all DNS requests failed, first error: dial tcp4 8.8.4.4:853: connect: network is unreachable proxy=Final lAddr=127.0.0.1:58466 rAddr=incoming.telemetry.mozilla.org:443 rule=Match rulePayload=
+09:11:36 WRN [TCP] dial failed error=gzdata1.fc-smartglobal.xyz:10003 connect error: all DNS requests failed, first error: dial tcp4 8.8.4.4:853: connect: network is unreachable proxy=Final lAddr=127.0.0.1:58468 rAddr=incoming.telemetry.mozilla.org:443 rule=Match rulePayload=
+09:11:36 WRN [TCP] dial failed error=gzdata1.fc-smartglobal.xyz:10003 connect error: all DNS requests failed, first error: dial tcp4 8.8.4.4:853: connect: network is unreachable proxy=Final lAddr=127.0.0.1:58484 rAddr=incoming.telemetry.mozilla.org:443 rule=Match rulePayload=
+09:11:36 WRN [TCP] dial failed error=gzdata1.fc-smartglobal.xyz:10003 connect error: all DNS requests failed, first error: dial tcp4 8.8.4.4:853: connect: network is unreachable proxy=Final lAddr=127.0.0.1:58524 rAddr=incoming.telemetry.mozilla.org:443 rule=Match rulePayload=
+09:11:36 WRN [TCP] dial failed error=gzdata1.fc-smartglobal.xyz:10003 connect error: all DNS requests failed, first error: dial tcp4 8.8.4.4:853: connect: network is unreachable proxy=Final lAddr=127.0.0.1:58536 rAddr=detectportal.firefox.com:80 rule=Match rulePayload=
+09:11:36 WRN [TCP] dial failed error=gzdata1.fc-smartglobal.xyz:10003 connect error: all DNS requests failed, first error: dial tcp4 8.8.4.4:853: connect: network is unreachable proxy=Final lAddr=127.0.0.1:58508 rAddr=detectportal.firefox.com:80 rule=Match rulePayload=
+09:11:36 WRN [TCP] dial failed error=gzdata1.fc-smartglobal.xyz:10003 connect error: all DNS requests failed, first error: dial tcp4 8.8.4.4:853: connect: network is unreachable proxy=Final lAddr=127.0.0.1:58500 rAddr=detectportal.firefox.com:80 rule=Match rulePayload=
+09:11:36 WRN [TCP] dial failed error=gzdata1.fc-smartglobal.xyz:10003 connect error: all DNS requests failed, first error: dial tcp4 8.8.4.4:853: connect: network is unreachable proxy=Final lAddr=127.0.0.1:58544 rAddr=detectportal.firefox.com:80 rule=Match rulePayload=
+09:11:36 WRN [TCP] dial failed error=gzdata1.fc-smartglobal.xyz:10003 connect error: all DNS requests failed, first error: dial tcp4 8.8.4.4:853: connect: network is unreachable proxy=Final lAddr=127.0.0.1:58556 rAddr=incoming.telemetry.mozilla.org:443 rule=Match rulePayload=
+09:11:36 WRN [TCP] dial failed error=gzdata1.fc-smartglobal.xyz:10003 connect error: all DNS requests failed, first error: dial tcp4 8.8.4.4:853: connect: network is unreachable proxy=Final lAddr=127.0.0.1:58566 rAddr=incoming.telemetry.mozilla.org:443 rule=Match rulePayload=
+09:11:36 WRN [TCP] dial failed error=gzdata1.fc-smartglobal.xyz:10003 connect error: all DNS requests failed, first error: dial tcp4 8.8.4.4:853: connect: network is unreachable proxy=Final lAddr=127.0.0.1:58570 rAddr=incoming.telemetry.mozilla.org:443 rule=Match rulePayload=
+09:11:36 WRN [TCP] dial failed error=gzdata1.fc-smartglobal.xyz:10003 connect error: all DNS requests failed, first error: dial tcp4 8.8.4.4:853: connect: network is unreachable proxy=Final lAddr=127.0.0.1:58584 rAddr=incoming.telemetry.mozilla.org:443 rule=Match rulePayload=
+09:11:36 WRN [TCP] dial failed error=gzdata1.fc-smartglobal.xyz:10003 connect error: all DNS requests failed, first error: dial tcp4 8.8.4.4:853: connect: network is unreachable proxy=Final lAddr=127.0.0.1:58590 rAddr=incoming.telemetry.mozilla.org:443 rule=Match rulePayload=
+09:11:36 WRN [TCP] dial failed error=gzdata1.fc-smartglobal.xyz:10003 connect error: all DNS requests failed, first error: dial tcp4 8.8.4.4:853: connect: network is unreachable proxy=Final lAddr=127.0.0.1:58602 rAddr=incoming.telemetry.mozilla.org:443 rule=Match rulePayload=
+09:11:36 WRN [TCP] dial failed error=gzdata1.fc-smartglobal.xyz:10003 connect error: all DNS requests failed, first error: Post "https://1.0.0.1/dns-query": dial tcp4 1.0.0.1:443: connect: network is unreachable proxy=Final lAddr=127.0.0.1:58612 rAddr=incoming.telemetry.mozilla.org:443 rule=Match rulePayload=
+09:11:36 WRN [TCP] dial failed error=gzdata1.fc-smartglobal.xyz:10003 connect error: all DNS requests failed, first error: dial tcp4 8.8.4.4:853: connect: network is unreachable proxy=Final lAddr=127.0.0.1:58624 rAddr=incoming.telemetry.mozilla.org:443 rule=Match rulePayload=
+09:11:36 WRN [TCP] dial failed error=gzdata1.fc-smartglobal.xyz:10003 connect error: all DNS requests failed, first error: dial tcp4 8.8.4.4:853: connect: network is unreachable proxy=Final lAddr=127.0.0.1:58634 rAddr=incoming.telemetry.mozilla.org:443 rule=Match rulePayload=
+09:11:36 WRN [TCP] dial failed error=gzdata1.fc-smartglobal.xyz:10003 connect error: all DNS requests failed, first error: dial tcp4 8.8.4.4:853: connect: network is unreachable proxy=Final lAddr=127.0.0.1:58650 rAddr=incoming.telemetry.mozilla.org:443 rule=Match rulePayload=
+09:11:36 WRN [TCP] dial failed error=gzdata1.fc-smartglobal.xyz:10003 connect error: all DNS requests failed, first error: dial tcp4 8.8.4.4:853: connect: network is unreachable proxy=Final lAddr=127.0.0.1:58656 rAddr=incoming.telemetry.mozilla.org:443 rule=Match rulePayload=
+09:11:36 WRN [TCP] dial failed error=gzdata1.fc-smartglobal.xyz:10003 connect error: all DNS requests failed, first error: dial tcp4 8.8.4.4:853: connect: network is unreachable proxy=Final lAddr=127.0.0.1:58658 rAddr=incoming.telemetry.mozilla.org:443 rule=Match rulePayload=
+09:11:37 INF [Config] initial compatible provider name=Apple
+09:11:37 INF [Config] initial compatible provider name=Telegram
+09:11:37 INF [Config] initial compatible provider name=US
+09:11:37 INF [Config] initial compatible provider name=SG
+09:11:37 INF [Config] initial compatible provider name=Netflix
+09:11:37 INF [Config] initial compatible provider name=TW
+09:11:37 INF [Config] initial compatible provider name=YouTube
+09:11:37 INF [Config] initial compatible provider name=Final
+09:11:37 INF [Config] initial compatible provider name=Steam
+09:11:37 INF [Config] initial compatible provider name=Microsoft
+09:11:37 INF [Config] initial compatible provider name=Bahamut
+09:11:37 INF [Config] initial compatible provider name=Spotify
+09:11:37 INF [Config] initial compatible provider name=Proxies
+09:11:37 INF [Config] initial compatible provider name=Disney
+09:11:37 INF [Config] initial compatible provider name=OpenAI
+09:11:37 INF [Config] initial compatible provider name=PayPal
+09:11:37 INF [Config] initial compatible provider name=Bilibili
+09:11:37 INF [Config] initial compatible provider name=JP
+09:11:37 INF [Config] initial compatible provider name=HK
+09:11:37 INF [Config] initial compatible provider name=Google
+09:11:37 INF [TCP] connected lAddr=127.0.0.1:58666 rAddr=api.bitwarden.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:11:37 INF [TCP] connected lAddr=127.0.0.1:58678 rAddr=identity.bitwarden.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:11:38 INF [TCP] connected lAddr=127.0.0.1:58698 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:11:38 INF [TCP] connected lAddr=127.0.0.1:58686 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:11:38 INF [TCP] connected lAddr=127.0.0.1:58684 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:11:38 INF [TCP] connected lAddr=127.0.0.1:58702 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:11:38 INF [TCP] connected lAddr=127.0.0.1:58680 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:11:38 INF [TCP] connected lAddr=127.0.0.1:58718 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:11:38 INF [TCP] connected lAddr=127.0.0.1:58732 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:11:38 INF [TCP] connected lAddr=127.0.0.1:58740 rAddr=api.bitwarden.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:11:39 INF [TCP] connected lAddr=127.0.0.1:58844 rAddr=cdn.sstatic.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:11:39 INF [TCP] connected lAddr=127.0.0.1:58756 rAddr=cdn.sstatic.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:11:39 INF [TCP] connected lAddr=127.0.0.1:58776 rAddr=cdn.sstatic.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:11:39 INF [TCP] connected lAddr=127.0.0.1:58854 rAddr=cdn.sstatic.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:11:39 INF [TCP] connected lAddr=127.0.0.1:58750 rAddr=cdn.sstatic.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:11:39 INF [TCP] connected lAddr=127.0.0.1:58772 rAddr=cdn.sstatic.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:11:39 INF [TCP] connected lAddr=127.0.0.1:58784 rAddr=cdn.sstatic.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:11:39 INF [TCP] connected lAddr=127.0.0.1:58798 rAddr=www.gravatar.com:443 mode=rule rule=DomainSuffix(gravatar.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:11:39 INF [TCP] connected lAddr=127.0.0.1:58840 rAddr=lh3.googleusercontent.com:443 mode=rule rule=DomainSuffix(googleusercontent.com) proxy=Google[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:11:39 INF [TCP] connected lAddr=127.0.0.1:58870 rAddr=www.gravatar.com:443 mode=rule rule=DomainSuffix(gravatar.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:11:39 INF [TCP] connected lAddr=127.0.0.1:58830 rAddr=www.gravatar.com:443 mode=rule rule=DomainSuffix(gravatar.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:11:39 INF [TCP] connected lAddr=127.0.0.1:58804 rAddr=www.gravatar.com:443 mode=rule rule=DomainSuffix(gravatar.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:11:39 INF [TCP] connected lAddr=127.0.0.1:58788 rAddr=www.gravatar.com:443 mode=rule rule=DomainSuffix(gravatar.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:11:39 INF [TCP] connected lAddr=127.0.0.1:58818 rAddr=www.gravatar.com:443 mode=rule rule=DomainSuffix(gravatar.com) proxy=Proxies[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:11:39 INF [TCP] connected lAddr=127.0.0.1:58884 rAddr=cdn.sstatic.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:11:39 INF [TCP] connected lAddr=127.0.0.1:58892 rAddr=cdn.sstatic.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:11:39 INF [TCP] connected lAddr=127.0.0.1:58908 rAddr=cdn.sstatic.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:11:39 INF [TCP] connected lAddr=127.0.0.1:58918 rAddr=cdn.sstatic.net:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:11:39 INF [TCP] connected lAddr=127.0.0.1:58922 rAddr=unix.stackexchange.com:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:11:39 INF [TCP] connected lAddr=127.0.0.1:58926 rAddr=cdn.cookielaw.org:443 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:11:39 INF [TCP] connected lAddr=127.0.0.1:58940 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:11:39 INF [TCP] connected lAddr=127.0.0.1:58944 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:11:39 INF [TCP] connected lAddr=127.0.0.1:58948 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:11:39 INF [TCP] connected lAddr=127.0.0.1:58952 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]
+09:11:39 INF [TCP] connected lAddr=127.0.0.1:58964 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇸🇬 新加坡实验性 IEPL 中继 1]

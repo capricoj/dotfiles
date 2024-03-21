@@ -1,0 +1,14 @@
+2024-03-18 14:57:56.387 [info] update#setState idle
+2024-03-18 14:58:26.339 [info] update#setState checking for updates
+2024-03-18 14:58:26.431 [info] update#setState idle
+2024-03-18 15:58:26.357 [info] update#setState checking for updates
+2024-03-18 15:58:26.631 [info] update#setState idle
+2024-03-18 16:58:26.363 [info] update#setState checking for updates
+2024-03-18 16:58:26.629 [info] update#setState idle
+2024-03-18 17:58:26.366 [info] update#setState checking for updates
+2024-03-18 17:58:26.646 [info] update#setState idle
+2024-03-18 18:50:47.663 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2024-03-18 18:50:47.664 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 601501]: crashed with code 15 and reason 'killed'
+2024-03-18 18:50:47.670 [info] Extension host with pid 627351 exited with code: 15, signal: unknown.
+2024-03-18 18:50:47.670 [error] [UtilityProcess id: 2, type: extensionHost, pid: 627351]: crashed with code 15 and reason 'killed'
+2024-03-18 18:50:47.679 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)

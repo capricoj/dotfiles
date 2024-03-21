@@ -1,46 +1,60 @@
 files:
   - url: ""
-    time: 1680931516322.yml
+    time: 1710736092089.yml
     name: config.yaml
     selected: []
-  - time: 1680931523114.yml
-    name: MESL
-    url: https://in.mesl.cloud/api/v1/client/subscribe?token=06ef8e2a55041d442edd814673cb3d12
-    selected: []
-    interval: 24
-    subInfo: {}
-    homeWeb: ""
-    mode: direct
-  - time: 1680937627037.yml
-    name: FlyingBird_1680937624.yaml
-    url: https://apiv1.v27qae.com/flydsubal/hlxsmibea1vviv6y?clash=1&extend=1
+  - time: 1710736152209.yml
+    name: Flower_SS
+    url: https://api.huacloud.xyz/sub?target=clash&insert=true&emoji=true&udp=true&clash.doh=true&new_name=true&filename=Flower_SS&url=https%3A%2F%2Fapi.flowercloud.xyz%2Fosubscribe.php%3Fsid%3D90164%26token%3Df9adyHXDvuQH%26sip002%3D1
     selected:
+      - name: Apple
+        now: Proxies
+      - name: Bahamut
+        now: Proxies
+      - name: Bilibili
+        now: DIRECT
+      - name: Disney
+        now: Proxies
+      - name: Final
+        now: Proxies
       - name: GLOBAL
         now: DIRECT
+      - name: Google
+        now: Proxies
+      - name: HK
+        now: 🇭🇰 香港实验性 IEPL 中继 1
+      - name: JP
+        now: 🇯🇵 日本实验性 IEPL 中继 1
+      - name: Microsoft
+        now: Proxies
       - name: Netflix
-        now: 国外流量
+        now: Proxies
+      - name: OpenAI
+        now: Proxies
+      - name: PayPal
+        now: Proxies
+      - name: Proxies
+        now: SG
+      - name: SG
+        now: 🇸🇬 新加坡实验性 IEPL 中继 1
+      - name: Spotify
+        now: Proxies
+      - name: Steam
+        now: Proxies
+      - name: TW
+        now: 🇨🇳 台湾高级 IEPL 中继 1
       - name: Telegram
-        now: 国外流量
-      - name: Youtube
-        now: 国外流量
-      - name: 其他流量
-        now: 国外流量
-      - name: 哔哩哔哩
-        now: 直接连接
-      - name: 国外媒体
-        now: 国外流量
-      - name: 国外流量
-        now: Singapore-01
-      - name: 直接连接
-        now: DIRECT
-      - name: 苹果服务
-        now: 直接连接
-    interval: 0
+        now: Proxies
+      - name: US
+        now: 🇺🇸 美国实验性 IEPL 中继 1
+      - name: YouTube
+        now: Proxies
+    interval: 24
     subInfo:
-      upload: 0
-      download: 0
-      total: 107374182400
-      expire: 1688718628
+      upload: 32767195
+      download: 6645745780
+      total: 21474836480
+      expire: 1736265600
     homeWeb: ""
     mode: rule
-index: -1
+index: 1

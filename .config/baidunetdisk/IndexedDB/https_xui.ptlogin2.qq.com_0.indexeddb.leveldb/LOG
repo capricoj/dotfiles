@@ -1,5 +1,0 @@
-2023/04/21-10:44:51.950 4e79c Reusing MANIFEST /home/mathis/.config/baidunetdisk/IndexedDB/https_xui.ptlogin2.qq.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/04/21-10:45:15.311 4e79c Level-0 table #5: started
-2023/04/21-10:45:15.313 4e79c Level-0 table #5: 26825 bytes OK
-2023/04/21-10:45:15.313 4e79c Delete type=0 #3
-2023/04/21-10:45:15.313 4e79c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,470 @@
+05:45:13 INF [Inbound] Mixed(http+socks) listening addr=127.0.0.1:7890
+05:45:13 INF [API] listening addr=127.0.0.1:43277
+05:45:13 INF [Config] initial compatible provider name=Proxies
+05:45:13 INF [Config] initial compatible provider name=Steam
+05:45:13 INF [Config] initial compatible provider name=Apple
+05:45:13 INF [Config] initial compatible provider name=TW
+05:45:13 INF [Config] initial compatible provider name=HK
+05:45:13 INF [Config] initial compatible provider name=Bilibili
+05:45:13 INF [Config] initial compatible provider name=Bahamut
+05:45:13 INF [Config] initial compatible provider name=Disney
+05:45:13 INF [Config] initial compatible provider name=Netflix
+05:45:13 INF [Config] initial compatible provider name=Microsoft
+05:45:13 INF [Config] initial compatible provider name=Final
+05:45:13 INF [Config] initial compatible provider name=Spotify
+05:45:13 INF [Config] initial compatible provider name=YouTube
+05:45:13 INF [Config] initial compatible provider name=PayPal
+05:45:13 INF [Config] initial compatible provider name=US
+05:45:13 INF [Config] initial compatible provider name=SG
+05:45:13 INF [Config] initial compatible provider name=Google
+05:45:13 INF [Config] initial compatible provider name=OpenAI
+05:45:13 INF [Config] initial compatible provider name=JP
+05:45:13 INF [Config] initial compatible provider name=Telegram
+05:45:13 INF [DNS] server listening addr=127.0.0.1:8853
+05:45:24 INF [TCP] connected lAddr=127.0.0.1:37344 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+05:45:24 INF [TCP] connected lAddr=127.0.0.1:37354 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+05:45:24 INF [TCP] connected lAddr=127.0.0.1:37406 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+05:45:24 INF [TCP] connected lAddr=127.0.0.1:37370 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+05:45:24 INF [TCP] connected lAddr=127.0.0.1:37380 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+05:45:24 INF [TCP] connected lAddr=127.0.0.1:37390 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+05:45:24 INF [TCP] connected lAddr=127.0.0.1:37352 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+05:45:24 INF [TCP] connected lAddr=127.0.0.1:37412 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(pki.goog) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+05:45:24 INF [TCP] connected lAddr=127.0.0.1:37428 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(pki.goog) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+05:45:24 INF [TCP] connected lAddr=127.0.0.1:37416 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(pki.goog) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+05:45:25 INF [TCP] connected lAddr=127.0.0.1:37444 rAddr=www.youtube.com:443 mode=rule rule=DomainSuffix(youtube.com) proxy=YouTube[🇭🇰 香港实验性 IEPL 中继 1]
+05:45:25 INF [TCP] connected lAddr=127.0.0.1:37458 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(pki.goog) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+05:45:26 INF [TCP] connected lAddr=127.0.0.1:37472 rAddr=jnn-pa.googleapis.com:443 mode=rule rule=DomainSuffix(googleapis.com) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+05:45:27 INF [TCP] connected lAddr=127.0.0.1:37476 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(pki.goog) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+05:45:28 INF [TCP] connected lAddr=127.0.0.1:34452 rAddr=encrypted-tbn0.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+05:45:28 INF [TCP] connected lAddr=127.0.0.1:34446 rAddr=encrypted-tbn0.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+05:45:29 INF [TCP] connected lAddr=127.0.0.1:34468 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(pki.goog) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+05:45:41 INF [TCP] connected lAddr=127.0.0.1:60702 rAddr=lh5.googleusercontent.com:443 mode=rule rule=DomainSuffix(googleusercontent.com) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+05:45:44 INF [TCP] connected lAddr=127.0.0.1:60728 rAddr=i.ytimg.com:443 mode=rule rule=DomainSuffix(ytimg.com) proxy=YouTube[🇭🇰 香港实验性 IEPL 中继 1]
+05:45:44 INF [TCP] connected lAddr=127.0.0.1:60716 rAddr=i.ytimg.com:443 mode=rule rule=DomainSuffix(ytimg.com) proxy=YouTube[🇭🇰 香港实验性 IEPL 中继 1]
+05:45:44 INF [TCP] connected lAddr=127.0.0.1:60740 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(pki.goog) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+05:45:44 INF [TCP] connected lAddr=127.0.0.1:60746 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(pki.goog) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+05:45:45 INF [TCP] connected lAddr=127.0.0.1:60762 rAddr=wiki.archlinux.org:443 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+05:45:54 INF [TCP] connected lAddr=127.0.0.1:54114 rAddr=incoming.telemetry.mozilla.org:443 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+05:45:54 INF [TCP] connected lAddr=127.0.0.1:54120 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+05:45:54 INF [TCP] connected lAddr=127.0.0.1:54130 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+05:45:56 INF [TCP] connected lAddr=127.0.0.1:54146 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+05:45:56 INF [TCP] connected lAddr=127.0.0.1:54154 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+05:46:40 INF [TCP] connected lAddr=127.0.0.1:40514 rAddr=ublockorigin.pages.dev:443 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+05:46:41 INF [TCP] connected lAddr=127.0.0.1:40518 rAddr=curbengh.github.io:443 mode=rule rule=DomainSuffix(github.io) proxy=Proxies[🇭🇰 香港实验性 IEPL 中继 1]
+05:46:54 INF [TCP] connected lAddr=127.0.0.1:57116 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+05:46:55 INF [TCP] connected lAddr=127.0.0.1:57130 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+05:46:55 INF [TCP] connected lAddr=127.0.0.1:57118 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+05:47:04 INF [TCP] connected lAddr=127.0.0.1:41272 rAddr=lh5.googleusercontent.com:443 mode=rule rule=DomainSuffix(googleusercontent.com) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+05:47:26 INF [TCP] connected lAddr=127.0.0.1:57604 rAddr=bbs.archlinux.org:443 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+05:48:31 INF [TCP] connected lAddr=127.0.0.1:51598 rAddr=faq.i3wm.org:443 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+05:48:31 INF [TCP] connected lAddr=127.0.0.1:51610 rAddr=www.gravatar.com:443 mode=rule rule=DomainSuffix(gravatar.com) proxy=Proxies[🇭🇰 香港实验性 IEPL 中继 1]
+05:48:31 INF [TCP] connected lAddr=127.0.0.1:51600 rAddr=www.gravatar.com:443 mode=rule rule=DomainSuffix(gravatar.com) proxy=Proxies[🇭🇰 香港实验性 IEPL 中继 1]
+05:48:31 INF [TCP] connected lAddr=127.0.0.1:51622 rAddr=fonts.googleapis.com:443 mode=rule rule=DomainSuffix(googleapis.com) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+05:48:31 INF [TCP] connected lAddr=127.0.0.1:51636 rAddr=fonts.googleapis.com:443 mode=rule rule=DomainSuffix(googleapis.com) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+05:48:32 INF [TCP] connected lAddr=127.0.0.1:51644 rAddr=fonts.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+05:48:32 INF [TCP] connected lAddr=127.0.0.1:51648 rAddr=apis.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+05:48:32 INF [TCP] connected lAddr=127.0.0.1:51664 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(pki.goog) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+05:48:33 INF [TCP] connected lAddr=127.0.0.1:51666 rAddr=accounts.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+05:48:34 INF [TCP] connected lAddr=127.0.0.1:51682 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(pki.goog) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+05:48:34 INF [TCP] connected lAddr=127.0.0.1:51686 rAddr=ssl.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+05:49:12 INF [TCP] connected lAddr=127.0.0.1:57426 rAddr=www.reddit.com:443 mode=rule rule=DomainSuffix(reddit.com) proxy=Proxies[🇭🇰 香港实验性 IEPL 中继 1]
+05:49:13 INF [TCP] connected lAddr=127.0.0.1:57458 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇭🇰 香港实验性 IEPL 中继 1]
+05:49:13 INF [TCP] connected lAddr=127.0.0.1:57446 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇭🇰 香港实验性 IEPL 中继 1]
+05:49:13 INF [TCP] connected lAddr=127.0.0.1:57472 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇭🇰 香港实验性 IEPL 中继 1]
+05:49:13 INF [TCP] connected lAddr=127.0.0.1:57442 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇭🇰 香港实验性 IEPL 中继 1]
+05:49:13 INF [TCP] connected lAddr=127.0.0.1:57456 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇭🇰 香港实验性 IEPL 中继 1]
+05:49:13 INF [TCP] connected lAddr=127.0.0.1:57460 rAddr=www.redditstatic.com:443 mode=rule rule=DomainSuffix(redditstatic.com) proxy=Proxies[🇭🇰 香港实验性 IEPL 中继 1]
+05:49:14 INF [TCP] connected lAddr=127.0.0.1:57480 rAddr=www.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+05:49:14 INF [TCP] connected lAddr=127.0.0.1:57490 rAddr=styles.redditmedia.com:443 mode=rule rule=DomainSuffix(redditmedia.com) proxy=Proxies[🇭🇰 香港实验性 IEPL 中继 1]
+05:49:14 INF [TCP] connected lAddr=127.0.0.1:57504 rAddr=external-preview.redd.it:443 mode=rule rule=DomainSuffix(redd.it) proxy=Proxies[🇭🇰 香港实验性 IEPL 中继 1]
+05:49:33 INF [TCP] connected lAddr=127.0.0.1:51128 rAddr=incoming.telemetry.mozilla.org:443 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+05:49:56 INF [TCP] connected lAddr=127.0.0.1:36588 rAddr=contile.services.mozilla.com:443 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+05:49:56 INF [TCP] connected lAddr=127.0.0.1:36604 rAddr=r3.o.lencr.org:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+05:50:51 INF [TCP] connected lAddr=127.0.0.1:40008 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+05:50:51 INF [TCP] connected lAddr=127.0.0.1:40014 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(pki.goog) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+05:50:52 INF [TCP] connected lAddr=127.0.0.1:40022 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+05:50:52 INF [TCP] connected lAddr=127.0.0.1:40038 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+05:50:58 INF [TCP] connected lAddr=127.0.0.1:44008 rAddr=encrypted-tbn0.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+05:51:04 INF [TCP] connected lAddr=127.0.0.1:44020 rAddr=zhuanlan.zhihu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:51:04 INF [TCP] connected lAddr=127.0.0.1:44030 rAddr=static.zhihu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:51:04 INF [TCP] connected lAddr=127.0.0.1:44036 rAddr=picx.zhimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:51:04 INF [TCP] connected lAddr=127.0.0.1:44050 rAddr=picx.zhimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:51:04 INF [TCP] connected lAddr=127.0.0.1:44054 rAddr=ocsp.dcocsp.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:51:05 INF [TCP] connected lAddr=127.0.0.1:44056 rAddr=static.zhihu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:51:05 INF [TCP] connected lAddr=127.0.0.1:44070 rAddr=www.zhihu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:51:05 INF [TCP] connected lAddr=127.0.0.1:44080 rAddr=picx.zhimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:51:05 INF [TCP] connected lAddr=127.0.0.1:44084 rAddr=www.zhihu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:51:05 INF [TCP] connected lAddr=127.0.0.1:44112 rAddr=pic4.zhimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:51:05 INF [TCP] connected lAddr=127.0.0.1:44096 rAddr=pic1.zhimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:51:05 INF [TCP] connected lAddr=127.0.0.1:44122 rAddr=118.89.204.198:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:51:05 INF [TCP] connected lAddr=127.0.0.1:44146 rAddr=pic4.zhimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:51:05 INF [TCP] connected lAddr=127.0.0.1:44132 rAddr=pic1.zhimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:51:05 INF [TCP] connected lAddr=127.0.0.1:44148 rAddr=pica.zhimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:51:05 INF [TCP] connected lAddr=127.0.0.1:44162 rAddr=ocsp.trust-provider.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:51:05 INF [TCP] connected lAddr=127.0.0.1:44166 rAddr=mcs.volceapplog.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:51:05 INF [TCP] connected lAddr=127.0.0.1:44182 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+05:51:05 INF [TCP] connected lAddr=127.0.0.1:44198 rAddr=pica.zhimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:51:05 INF [TCP] connected lAddr=127.0.0.1:44200 rAddr=cstaticdun.126.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:51:05 INF [TCP] connected lAddr=127.0.0.1:44214 rAddr=ocsp.trust-provider.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:51:05 INF [TCP] connected lAddr=127.0.0.1:44222 rAddr=picx.zhimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:51:05 INF [TCP] connected lAddr=127.0.0.1:44242 rAddr=picx.zhimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:51:05 INF [TCP] connected lAddr=127.0.0.1:44252 rAddr=picx.zhimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:51:05 INF [TCP] connected lAddr=127.0.0.1:44258 rAddr=picx.zhimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:51:05 INF [TCP] connected lAddr=127.0.0.1:44230 rAddr=captcha.zhihu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:51:05 INF [TCP] connected lAddr=127.0.0.1:44288 rAddr=c.dun.163.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:51:05 INF [TCP] connected lAddr=127.0.0.1:44294 rAddr=ocsp.digicert.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:51:06 INF [TCP] connected lAddr=127.0.0.1:44300 rAddr=cstaticdun.126.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:51:06 INF [TCP] connected lAddr=127.0.0.1:44308 rAddr=cstaticdun.126.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:51:07 INF [TCP] connected lAddr=127.0.0.1:44324 rAddr=pic3.zhimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:51:07 INF [TCP] connected lAddr=127.0.0.1:44330 rAddr=pic3.zhimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:53:06 INF [TCP] connected lAddr=127.0.0.1:43454 rAddr=pic2.zhimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:53:06 INF [TCP] connected lAddr=127.0.0.1:43450 rAddr=pic2.zhimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:53:08 INF [TCP] connected lAddr=127.0.0.1:36602 rAddr=pic2.zhimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:53:08 INF [TCP] connected lAddr=127.0.0.1:36612 rAddr=pic2.zhimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:53:14 INF [TCP] connected lAddr=127.0.0.1:36618 rAddr=pic4.zhimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:53:14 INF [TCP] connected lAddr=127.0.0.1:36632 rAddr=pic4.zhimg.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:53:45 INF [TCP] connected lAddr=127.0.0.1:51650 rAddr=www.kozakemi.top:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:53:46 INF [TCP] connected lAddr=127.0.0.1:51656 rAddr=r3.o.lencr.org:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+05:53:48 INF [TCP] connected lAddr=127.0.0.1:51718 rAddr=kozakemi.oss-cn-beijing.aliyuncs.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:53:48 INF [TCP] connected lAddr=127.0.0.1:51734 rAddr=kozakemi.oss-cn-beijing.aliyuncs.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:53:48 INF [TCP] connected lAddr=127.0.0.1:51738 rAddr=v1.hitokoto.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:53:48 INF [TCP] connected lAddr=127.0.0.1:51750 rAddr=ocsp.globalsign.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:53:48 INF [TCP] connected lAddr=127.0.0.1:51764 rAddr=ocsp2.globalsign.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:53:48 INF [TCP] connected lAddr=127.0.0.1:51774 rAddr=ocsp2.globalsign.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+05:53:49 INF [TCP] connected lAddr=127.0.0.1:51708 rAddr=gravatar.pho.ink:443 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+05:53:49 INF [TCP] connected lAddr=127.0.0.1:51704 rAddr=gravatar.pho.ink:443 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+05:56:22 INF [TCP] connected lAddr=127.0.0.1:42132 rAddr=46.82.174.69:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+06:01:34 INF [TCP] connected lAddr=127.0.0.1:34338 rAddr=identity.bitwarden.com:443 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+06:04:32 INF [TCP] connected lAddr=127.0.0.1:58972 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+06:04:36 INF [TCP] connected lAddr=127.0.0.1:58976 rAddr=github.com:443 mode=rule rule=DomainSuffix(github.com) proxy=Proxies[🇭🇰 香港实验性 IEPL 中继 1]
+06:04:38 INF [TCP] connected lAddr=127.0.0.1:58992 rAddr=ocsp.sectigo.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+06:04:39 INF [TCP] connected lAddr=127.0.0.1:42354 rAddr=incoming.telemetry.mozilla.org:443 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+06:04:39 INF [TCP] connected lAddr=127.0.0.1:42368 rAddr=avatars.githubusercontent.com:443 mode=rule rule=DomainSuffix(githubusercontent.com) proxy=Proxies[🇭🇰 香港实验性 IEPL 中继 1]
+06:04:39 INF [TCP] connected lAddr=127.0.0.1:42382 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+06:04:51 INF [TCP] connected lAddr=127.0.0.1:35598 rAddr=www.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:04:52 INF [TCP] connected lAddr=127.0.0.1:35614 rAddr=ocsp.globalsign.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:04:52 INF [TCP] connected lAddr=127.0.0.1:35630 rAddr=www.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:04:53 INF [TCP] connected lAddr=127.0.0.1:35632 rAddr=www.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:04:53 INF [TCP] connected lAddr=127.0.0.1:35642 rAddr=www.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:04:55 INF [TCP] connected lAddr=127.0.0.1:35644 rAddr=www.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:04:56 INF [TCP] connected lAddr=127.0.0.1:35660 rAddr=ocsp.globalsign.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:04:56 INF [TCP] connected lAddr=127.0.0.1:35686 rAddr=t14.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:04:56 INF [TCP] connected lAddr=127.0.0.1:35710 rAddr=t8.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:04:56 INF [TCP] connected lAddr=127.0.0.1:35718 rAddr=t8.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:04:56 INF [TCP] connected lAddr=127.0.0.1:35672 rAddr=t8.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:04:56 INF [TCP] connected lAddr=127.0.0.1:35696 rAddr=t8.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:04:56 INF [TCP] connected lAddr=127.0.0.1:35714 rAddr=t15.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:04:56 INF [TCP] connected lAddr=127.0.0.1:35730 rAddr=t9.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:04:56 INF [TCP] connected lAddr=127.0.0.1:35752 rAddr=pss.bdstatic.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:04:56 INF [TCP] connected lAddr=127.0.0.1:35754 rAddr=pss.bdstatic.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:04:56 INF [TCP] connected lAddr=127.0.0.1:35746 rAddr=pss.bdstatic.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:04:56 INF [TCP] connected lAddr=127.0.0.1:35766 rAddr=hectorstatic.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:04:56 INF [TCP] connected lAddr=127.0.0.1:35772 rAddr=pss.bdstatic.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:04:56 INF [TCP] connected lAddr=127.0.0.1:35784 rAddr=ug.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:04:56 INF [TCP] connected lAddr=127.0.0.1:35788 rAddr=ug.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:04:56 INF [TCP] connected lAddr=127.0.0.1:35842 rAddr=b.bdstatic.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:04:56 INF [TCP] connected lAddr=127.0.0.1:35826 rAddr=b.bdstatic.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:04:56 INF [TCP] connected lAddr=127.0.0.1:35802 rAddr=b.bdstatic.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:04:56 INF [TCP] connected lAddr=127.0.0.1:35834 rAddr=b.bdstatic.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:04:56 INF [TCP] connected lAddr=127.0.0.1:35812 rAddr=b.bdstatic.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:04:57 INF [TCP] connected lAddr=127.0.0.1:35854 rAddr=psstatic.cdn.bcebos.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:04:57 INF [TCP] connected lAddr=127.0.0.1:35862 rAddr=hector.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:04:59 INF [TCP] connected lAddr=127.0.0.1:34812 rAddr=sp3.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:04:59 INF [TCP] connected lAddr=127.0.0.1:34826 rAddr=contile.services.mozilla.com:443 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+06:05:06 INF [TCP] connected lAddr=127.0.0.1:34832 rAddr=pcrec.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:06 INF [TCP] connected lAddr=127.0.0.1:34836 rAddr=www.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:06 INF [TCP] connected lAddr=127.0.0.1:34846 rAddr=www.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:34852 rAddr=at.alicdn.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:34866 rAddr=res.njxzwh.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:34890 rAddr=res.njxzwh.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:34922 rAddr=res.njxzwh.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:34930 rAddr=res.njxzwh.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:34874 rAddr=res.njxzwh.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:34906 rAddr=res.njxzwh.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:34944 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:34932 rAddr=3coany.yzhy20.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:34960 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:34968 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:34980 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:34976 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:34996 rAddr=downza1.zz314.njxzwh.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35220 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35200 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35182 rAddr=downza1.zz314.njxzwh.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35058 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35244 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35268 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35078 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35140 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35286 rAddr=s.ssl.qhres2.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35090 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35282 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35292 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35008 rAddr=downza1.zz314.njxzwh.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35300 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35232 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35018 rAddr=downza1.zz314.njxzwh.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35248 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35218 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35326 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35190 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35164 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35040 rAddr=downza1.zz314.njxzwh.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35056 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35006 rAddr=downza1.zz314.njxzwh.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35032 rAddr=downza1.zz314.njxzwh.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35390 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35342 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35128 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35256 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35108 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35072 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35408 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35066 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35404 rAddr=downza1.zz314.njxzwh.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35122 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35202 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35414 rAddr=downza1.zz314.njxzwh.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35454 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35444 rAddr=downza1.zz314.njxzwh.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35148 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35310 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35092 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35166 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35330 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35428 rAddr=downza1.zz314.njxzwh.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35378 rAddr=api.oss.downza.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35478 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35352 rAddr=api.oss.downza.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35366 rAddr=api.oss.downza.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35516 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35506 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35468 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35530 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35534 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35550 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35566 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35568 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35570 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35592 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35576 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35608 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35600 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35614 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35492 rAddr=ocsp.crlocsp.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35622 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35656 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35664 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35666 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35640 rAddr=s.union.360.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35680 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35696 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35632 rAddr=bigdata.downza.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35726 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35712 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:07 INF [TCP] connected lAddr=127.0.0.1:35740 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:08 INF [TCP] connected lAddr=127.0.0.1:35768 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:08 INF [TCP] connected lAddr=127.0.0.1:35770 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:08 INF [TCP] connected lAddr=127.0.0.1:35756 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:08 INF [TCP] connected lAddr=127.0.0.1:35786 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:08 INF [TCP] connected lAddr=127.0.0.1:35796 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:08 INF [TCP] connected lAddr=127.0.0.1:35798 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:08 INF [TCP] connected lAddr=127.0.0.1:35804 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:08 INF [TCP] connected lAddr=127.0.0.1:35816 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:08 INF [TCP] connected lAddr=127.0.0.1:35828 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:08 INF [TCP] connected lAddr=127.0.0.1:35830 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:08 INF [TCP] connected lAddr=127.0.0.1:35846 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:08 INF [TCP] connected lAddr=127.0.0.1:35858 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:08 INF [TCP] connected lAddr=127.0.0.1:35860 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:08 INF [TCP] connected lAddr=127.0.0.1:35864 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:08 INF [TCP] connected lAddr=127.0.0.1:35872 rAddr=img3.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:08 INF [TCP] connected lAddr=127.0.0.1:35894 rAddr=s.union.360.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:08 INF [TCP] connected lAddr=127.0.0.1:35880 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+06:05:08 INF [TCP] connected lAddr=127.0.0.1:35908 rAddr=e.so.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:08 INF [TCP] connected lAddr=127.0.0.1:35920 rAddr=www.downza.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:08 WRN [TCP] dial failed error=dial tcp4 127.0.0.1:54360: connect: connection refused proxy=DIRECT lAddr=127.0.0.1:53586 rAddr=local.info.g9hc4.cn:54360 rule=IPCIDR rulePayload=127.0.0.0/8
+06:05:08 WRN [TCP] dial failed error=dial tcp4 127.0.0.1:54360: connect: connection refused proxy=DIRECT lAddr=127.0.0.1:53590 rAddr=local.info.g9hc4.cn:54360 rule=IPCIDR rulePayload=127.0.0.0/8
+06:05:08 WRN [TCP] dial failed error=dial tcp4 127.0.0.1:54360: connect: connection refused proxy=DIRECT lAddr=127.0.0.1:53596 rAddr=local.info.g9hc4.cn:54360 rule=IPCIDR rulePayload=127.0.0.0/8
+06:05:08 WRN [TCP] dial failed error=dial tcp4 127.0.0.1:54360: connect: connection refused proxy=DIRECT lAddr=127.0.0.1:53602 rAddr=local.info.g9hc4.cn:54360 rule=IPCIDR rulePayload=127.0.0.0/8
+06:05:08 WRN [TCP] dial failed error=dial tcp4 127.0.0.1:54360: connect: connection refused proxy=DIRECT lAddr=127.0.0.1:53614 rAddr=local.info.g9hc4.cn:54360 rule=IPCIDR rulePayload=127.0.0.0/8
+06:05:08 WRN [TCP] dial failed error=dial tcp4 127.0.0.1:54360: connect: connection refused proxy=DIRECT lAddr=127.0.0.1:53618 rAddr=local.info.g9hc4.cn:54360 rule=IPCIDR rulePayload=127.0.0.0/8
+06:05:08 WRN [TCP] dial failed error=dial tcp4 127.0.0.1:54360: connect: connection refused proxy=DIRECT lAddr=127.0.0.1:53634 rAddr=local.info.g9hc4.cn:54360 rule=IPCIDR rulePayload=127.0.0.0/8
+06:05:09 WRN [TCP] dial failed error=dial tcp4 127.0.0.1:54360: connect: connection refused proxy=DIRECT lAddr=127.0.0.1:53650 rAddr=local.info.g9hc4.cn:54360 rule=IPCIDR rulePayload=127.0.0.0/8
+06:05:09 WRN [TCP] dial failed error=dial tcp4 127.0.0.1:54360: connect: connection refused proxy=DIRECT lAddr=127.0.0.1:53654 rAddr=local.info.g9hc4.cn:54360 rule=IPCIDR rulePayload=127.0.0.0/8
+06:05:09 WRN [TCP] dial failed error=dial tcp4 127.0.0.1:54360: connect: connection refused proxy=DIRECT lAddr=127.0.0.1:53666 rAddr=local.info.g9hc4.cn:54360 rule=IPCIDR rulePayload=127.0.0.0/8
+06:05:09 WRN [TCP] dial failed error=dial tcp4 127.0.0.1:51360: connect: connection refused proxy=DIRECT lAddr=127.0.0.1:53672 rAddr=local.info.g9hc4.cn:51360 rule=IPCIDR rulePayload=127.0.0.0/8
+06:05:09 WRN [TCP] dial failed error=dial tcp4 127.0.0.1:51360: connect: connection refused proxy=DIRECT lAddr=127.0.0.1:53676 rAddr=local.info.g9hc4.cn:51360 rule=IPCIDR rulePayload=127.0.0.0/8
+06:05:09 WRN [TCP] dial failed error=dial tcp4 127.0.0.1:51360: connect: connection refused proxy=DIRECT lAddr=127.0.0.1:53688 rAddr=local.info.g9hc4.cn:51360 rule=IPCIDR rulePayload=127.0.0.0/8
+06:05:09 WRN [TCP] dial failed error=dial tcp4 127.0.0.1:51360: connect: connection refused proxy=DIRECT lAddr=127.0.0.1:53700 rAddr=local.info.g9hc4.cn:51360 rule=IPCIDR rulePayload=127.0.0.0/8
+06:05:09 WRN [TCP] dial failed error=dial tcp4 127.0.0.1:51360: connect: connection refused proxy=DIRECT lAddr=127.0.0.1:53716 rAddr=local.info.g9hc4.cn:51360 rule=IPCIDR rulePayload=127.0.0.0/8
+06:05:09 WRN [TCP] dial failed error=dial tcp4 127.0.0.1:51360: connect: connection refused proxy=DIRECT lAddr=127.0.0.1:53726 rAddr=local.info.g9hc4.cn:51360 rule=IPCIDR rulePayload=127.0.0.0/8
+06:05:09 WRN [TCP] dial failed error=dial tcp4 127.0.0.1:51360: connect: connection refused proxy=DIRECT lAddr=127.0.0.1:53730 rAddr=local.info.g9hc4.cn:51360 rule=IPCIDR rulePayload=127.0.0.0/8
+06:05:09 WRN [TCP] dial failed error=dial tcp4 127.0.0.1:51360: connect: connection refused proxy=DIRECT lAddr=127.0.0.1:53740 rAddr=local.info.g9hc4.cn:51360 rule=IPCIDR rulePayload=127.0.0.0/8
+06:05:09 WRN [TCP] dial failed error=dial tcp4 127.0.0.1:51360: connect: connection refused proxy=DIRECT lAddr=127.0.0.1:53750 rAddr=local.info.g9hc4.cn:51360 rule=IPCIDR rulePayload=127.0.0.0/8
+06:05:09 WRN [TCP] dial failed error=dial tcp4 127.0.0.1:51360: connect: connection refused proxy=DIRECT lAddr=127.0.0.1:53758 rAddr=local.info.g9hc4.cn:51360 rule=IPCIDR rulePayload=127.0.0.0/8
+06:05:13 INF [TCP] connected lAddr=127.0.0.1:53774 rAddr=download.downza.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:13 INF [TCP] connected lAddr=127.0.0.1:53784 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+06:05:13 INF [TCP] connected lAddr=127.0.0.1:53800 rAddr=r3e21qrdewsaw.yzhy23.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:13 INF [TCP] connected lAddr=127.0.0.1:53814 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+06:05:14 INF [TCP] connected lAddr=127.0.0.1:53824 rAddr=4gqqbl.yzhy20.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:14 INF [TCP] connected lAddr=127.0.0.1:53836 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+06:05:30 INF [TCP] connected lAddr=127.0.0.1:54166 rAddr=www.mianfeiziti.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:30 INF [TCP] connected lAddr=127.0.0.1:54182 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+06:05:31 INF [TCP] connected lAddr=127.0.0.1:54198 rAddr=res.wx.qq.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:31 INF [TCP] connected lAddr=127.0.0.1:54200 rAddr=ocsp.digicert.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:31 INF [TCP] connected lAddr=127.0.0.1:54206 rAddr=img.mianfeiziti.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:31 INF [TCP] connected lAddr=127.0.0.1:54276 rAddr=img.mianfeiziti.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:31 INF [TCP] connected lAddr=127.0.0.1:54250 rAddr=img.mianfeiziti.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:31 INF [TCP] connected lAddr=127.0.0.1:54236 rAddr=img.mianfeiziti.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:31 INF [TCP] connected lAddr=127.0.0.1:54264 rAddr=img.mianfeiziti.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:31 INF [TCP] connected lAddr=127.0.0.1:54220 rAddr=img.mianfeiziti.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:31 INF [TCP] connected lAddr=127.0.0.1:54288 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+06:05:31 INF [TCP] connected lAddr=127.0.0.1:54300 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+06:05:31 INF [TCP] connected lAddr=127.0.0.1:54298 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+06:05:31 INF [TCP] connected lAddr=127.0.0.1:54302 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+06:05:32 INF [TCP] connected lAddr=127.0.0.1:54328 rAddr=lf1-cdn-tos.bytegoofy.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:32 INF [TCP] connected lAddr=127.0.0.1:54314 rAddr=sf1-scmcdn-tos.pstatp.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:32 INF [TCP] connected lAddr=127.0.0.1:54336 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+06:05:32 INF [TCP] connected lAddr=127.0.0.1:54340 rAddr=ocsp.globalsign.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:48 INF [TCP] connected lAddr=127.0.0.1:39818 rAddr=www.jianshu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:48 INF [TCP] connected lAddr=127.0.0.1:39826 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+06:05:49 INF [TCP] connected lAddr=127.0.0.1:39842 rAddr=cdn2.jianshu.io:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:49 INF [TCP] connected lAddr=127.0.0.1:39888 rAddr=cdn2.jianshu.io:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:49 INF [TCP] connected lAddr=127.0.0.1:39880 rAddr=cdn2.jianshu.io:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:49 INF [TCP] connected lAddr=127.0.0.1:39864 rAddr=cdn2.jianshu.io:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:49 INF [TCP] connected lAddr=127.0.0.1:39882 rAddr=cdn2.jianshu.io:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:49 INF [TCP] connected lAddr=127.0.0.1:39858 rAddr=cdn2.jianshu.io:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:49 INF [TCP] connected lAddr=127.0.0.1:39918 rAddr=upload.jianshu.io:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:49 INF [TCP] connected lAddr=127.0.0.1:39914 rAddr=upload.jianshu.io:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:49 INF [TCP] connected lAddr=127.0.0.1:39896 rAddr=upload.jianshu.io:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:49 INF [TCP] connected lAddr=127.0.0.1:39892 rAddr=upload.jianshu.io:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:49 INF [TCP] connected lAddr=127.0.0.1:39912 rAddr=upload.jianshu.io:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:49 INF [TCP] connected lAddr=127.0.0.1:39904 rAddr=upload.jianshu.io:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:49 INF [TCP] connected lAddr=127.0.0.1:39936 rAddr=brssp.ibreader.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:49 INF [TCP] connected lAddr=127.0.0.1:39924 rAddr=brssp.ibreader.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:49 INF [TCP] connected lAddr=127.0.0.1:39938 rAddr=brssp.ibreader.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:49 INF [TCP] connected lAddr=127.0.0.1:39950 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+06:05:49 INF [TCP] connected lAddr=127.0.0.1:39944 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+06:05:49 INF [TCP] connected lAddr=127.0.0.1:39962 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+06:05:53 INF [TCP] connected lAddr=127.0.0.1:39966 rAddr=link.jianshu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:54 INF [TCP] connected lAddr=127.0.0.1:39982 rAddr=links.jianshu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:55 INF [TCP] connected lAddr=127.0.0.1:39994 rAddr=at.alicdn.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:55 INF [TCP] connected lAddr=127.0.0.1:40010 rAddr=ocsp2.globalsign.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:56 INF [TCP] connected lAddr=127.0.0.1:40022 rAddr=download.csdn.net:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:56 INF [TCP] connected lAddr=127.0.0.1:40038 rAddr=download.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:56 INF [TCP] connected lAddr=127.0.0.1:40052 rAddr=ocsp.dcocsp.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:56 INF [TCP] connected lAddr=127.0.0.1:40064 rAddr=aeu.alicdn.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:56 INF [TCP] connected lAddr=127.0.0.1:40066 rAddr=aeu.alicdn.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:56 INF [TCP] connected lAddr=127.0.0.1:40110 rAddr=g.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:56 INF [TCP] connected lAddr=127.0.0.1:40078 rAddr=g.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:56 INF [TCP] connected lAddr=127.0.0.1:40134 rAddr=csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:56 INF [TCP] connected lAddr=127.0.0.1:40124 rAddr=g.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:56 INF [TCP] connected lAddr=127.0.0.1:40070 rAddr=g.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:56 INF [TCP] connected lAddr=127.0.0.1:40088 rAddr=g.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:56 INF [TCP] connected lAddr=127.0.0.1:40130 rAddr=csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:56 INF [TCP] connected lAddr=127.0.0.1:40094 rAddr=g.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:56 INF [TCP] connected lAddr=127.0.0.1:40154 rAddr=kunpeng-sc.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:56 INF [TCP] connected lAddr=127.0.0.1:40140 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+06:05:56 INF [TCP] connected lAddr=127.0.0.1:40162 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+06:05:56 INF [TCP] connected lAddr=127.0.0.1:40166 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+06:05:56 INF [TCP] connected lAddr=127.0.0.1:40174 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+06:05:56 INF [TCP] connected lAddr=127.0.0.1:40178 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+06:05:56 INF [TCP] connected lAddr=127.0.0.1:40186 rAddr=img-blog.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:57 INF [TCP] connected lAddr=127.0.0.1:40194 rAddr=eva2.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:57 INF [TCP] connected lAddr=127.0.0.1:40206 rAddr=g.alicdn.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:57 INF [TCP] connected lAddr=127.0.0.1:40210 rAddr=img-home.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:57 INF [TCP] connected lAddr=127.0.0.1:40218 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+06:05:57 INF [TCP] connected lAddr=127.0.0.1:40234 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:57 INF [TCP] connected lAddr=127.0.0.1:40226 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:57 INF [TCP] connected lAddr=127.0.0.1:40246 rAddr=img-home.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:57 INF [TCP] connected lAddr=127.0.0.1:40286 rAddr=img-home.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:57 INF [TCP] connected lAddr=127.0.0.1:40272 rAddr=img-home.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:57 INF [TCP] connected lAddr=127.0.0.1:40310 rAddr=img-home.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:57 INF [TCP] connected lAddr=127.0.0.1:40328 rAddr=msg.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:57 INF [TCP] connected lAddr=127.0.0.1:40264 rAddr=silkroad.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:57 INF [TCP] connected lAddr=127.0.0.1:40258 rAddr=kunpeng.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:57 INF [TCP] connected lAddr=127.0.0.1:40316 rAddr=statistic.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:57 INF [TCP] connected lAddr=127.0.0.1:40368 rAddr=mp-luckydraw1.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:57 INF [TCP] connected lAddr=127.0.0.1:40354 rAddr=silkroad.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:57 INF [TCP] connected lAddr=127.0.0.1:40344 rAddr=mp-activity.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:57 INF [TCP] connected lAddr=127.0.0.1:40370 rAddr=msg.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:58 INF [TCP] connected lAddr=127.0.0.1:40378 rAddr=mp-luckydraw1.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:58 INF [TCP] connected lAddr=127.0.0.1:40384 rAddr=mp-activity.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:58 INF [TCP] connected lAddr=127.0.0.1:40388 rAddr=profile-avatar.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:05:58 INF [TCP] connected lAddr=127.0.0.1:40394 rAddr=gsp0.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:06:02 INF [TCP] connected lAddr=127.0.0.1:41456 rAddr=eva2.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:06:02 INF [TCP] connected lAddr=127.0.0.1:41466 rAddr=img-home.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:06:02 INF [TCP] connected lAddr=127.0.0.1:41498 rAddr=profile-avatar.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:06:02 INF [TCP] connected lAddr=127.0.0.1:41480 rAddr=img-home.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:06:02 INF [TCP] connected lAddr=127.0.0.1:41502 rAddr=img-home.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:06:02 INF [TCP] connected lAddr=127.0.0.1:41462 rAddr=img-home.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:06:02 INF [TCP] connected lAddr=127.0.0.1:41488 rAddr=img-home.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:06:02 INF [TCP] connected lAddr=127.0.0.1:41516 rAddr=img-home.csdnimg.cn:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:06:03 INF [TCP] connected lAddr=127.0.0.1:41524 rAddr=s3a.pstatp.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:06:03 INF [TCP] connected lAddr=127.0.0.1:41536 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+06:06:03 INF [TCP] connected lAddr=127.0.0.1:41538 rAddr=download.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:06:03 INF [TCP] connected lAddr=127.0.0.1:41568 rAddr=download.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:06:03 INF [TCP] connected lAddr=127.0.0.1:41570 rAddr=download.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:06:03 INF [TCP] connected lAddr=127.0.0.1:41560 rAddr=download.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:06:03 INF [TCP] connected lAddr=127.0.0.1:41546 rAddr=download.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:06:12 INF [TCP] connected lAddr=127.0.0.1:42186 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:06:12 INF [TCP] connected lAddr=127.0.0.1:42188 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:06:13 INF [TCP] connected lAddr=127.0.0.1:42200 rAddr=devpress-api.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:06:13 INF [TCP] connected lAddr=127.0.0.1:42212 rAddr=zhannei-dm.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:06:16 INF [TCP] connected lAddr=127.0.0.1:42216 rAddr=g-api.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:06:17 INF [TCP] connected lAddr=127.0.0.1:42226 rAddr=mall.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:08:19 INF [TCP] connected lAddr=127.0.0.1:53146 rAddr=www.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:08:21 INF [TCP] connected lAddr=127.0.0.1:53156 rAddr=www.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:08:34 INF [TCP] connected lAddr=127.0.0.1:39070 rAddr=www.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:08:36 INF [TCP] connected lAddr=127.0.0.1:39080 rAddr=t9.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:08:36 INF [TCP] connected lAddr=127.0.0.1:39084 rAddr=hectorstatic.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:08:36 INF [TCP] connected lAddr=127.0.0.1:39088 rAddr=ug.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:08:36 INF [TCP] connected lAddr=127.0.0.1:39090 rAddr=hectorstatic.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:08:36 INF [TCP] connected lAddr=127.0.0.1:39100 rAddr=ug.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:08:37 INF [TCP] connected lAddr=127.0.0.1:39110 rAddr=pcrec.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:08:37 INF [TCP] connected lAddr=127.0.0.1:39122 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:08:38 INF [TCP] connected lAddr=127.0.0.1:39136 rAddr=s3a.pstatp.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:08:38 INF [TCP] connected lAddr=127.0.0.1:39152 rAddr=eva2.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:08:38 INF [TCP] connected lAddr=127.0.0.1:39162 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:08:38 INF [TCP] connected lAddr=127.0.0.1:46120 rAddr=blog.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:08:38 INF [TCP] connected lAddr=127.0.0.1:46134 rAddr=eva2.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:08:38 INF [TCP] connected lAddr=127.0.0.1:46146 rAddr=mp-activity.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:08:38 INF [TCP] connected lAddr=127.0.0.1:46150 rAddr=redisdatarecall.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:08:39 INF [TCP] connected lAddr=127.0.0.1:46152 rAddr=sp3.baidu.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:08:55 WRN [TCP] dial failed error=dial tcp4 142.250.189.234:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:47784 rAddr=safebrowsing.googleapis.com:443 rule=Domain rulePayload=safebrowsing.googleapis.com
+06:09:00 WRN [TCP] dial failed error=dial tcp4 142.250.189.234:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:47796 rAddr=safebrowsing.googleapis.com:443 rule=Domain rulePayload=safebrowsing.googleapis.com
+06:09:05 WRN [TCP] dial failed error=dial tcp4 142.250.189.234:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:55500 rAddr=safebrowsing.googleapis.com:443 rule=Domain rulePayload=safebrowsing.googleapis.com
+06:09:08 INF [TCP] connected lAddr=127.0.0.1:35054 rAddr=bizapi.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:09:08 INF [TCP] connected lAddr=127.0.0.1:35058 rAddr=bizapi.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:09:10 WRN [TCP] dial failed error=dial tcp4 142.250.189.234:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:55516 rAddr=safebrowsing.googleapis.com:443 rule=Domain rulePayload=safebrowsing.googleapis.com
+06:09:15 WRN [TCP] dial failed error=dial tcp4 142.250.189.234:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:35068 rAddr=safebrowsing.googleapis.com:443 rule=Domain rulePayload=safebrowsing.googleapis.com
+06:09:20 WRN [TCP] dial failed error=dial tcp4 142.250.189.234:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:35078 rAddr=safebrowsing.googleapis.com:443 rule=Domain rulePayload=safebrowsing.googleapis.com
+06:09:20 INF [TCP] connected lAddr=127.0.0.1:33674 rAddr=shavar.services.mozilla.com:443 mode=rule rule=IPCIDR(52.0.0.0/8) proxy=Netflix[🇭🇰 香港实验性 IEPL 中继 1]
+06:09:22 INF [TCP] connected lAddr=127.0.0.1:33682 rAddr=r3.o.lencr.org:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+06:10:00 INF [TCP] connected lAddr=127.0.0.1:42482 rAddr=218.159.243.120:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+06:10:39 INF [TCP] connected lAddr=127.0.0.1:42602 rAddr=web.archive.org:443 mode=rule rule=DomainSuffix(archive.org) proxy=Proxies[🇭🇰 香港实验性 IEPL 中继 1]
+06:11:05 INF [TCP] connected lAddr=127.0.0.1:44326 rAddr=eva2.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:13:34 INF [TCP] connected lAddr=127.0.0.1:41978 rAddr=eva2.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:16:45 INF [TCP] connected lAddr=127.0.0.1:49944 rAddr=eva2.csdn.net:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:16:49 INF [TCP] connected lAddr=127.0.0.1:48896 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+06:16:49 INF [TCP] connected lAddr=127.0.0.1:48908 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+06:16:50 INF [TCP] connected lAddr=127.0.0.1:48916 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+06:17:01 INF [TCP] connected lAddr=127.0.0.1:48966 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[🇭🇰 香港实验性 IEPL 中继 1]
+06:17:02 INF [TCP] connected lAddr=127.0.0.1:48972 rAddr=filehelper.weixin.qq.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:17:02 INF [TCP] connected lAddr=127.0.0.1:48980 rAddr=ocsp.digicert.cn:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:17:04 INF [TCP] connected lAddr=127.0.0.1:49026 rAddr=login.wx.qq.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:17:04 INF [TCP] connected lAddr=127.0.0.1:49036 rAddr=res.wx.qq.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:17:04 INF [TCP] connected lAddr=127.0.0.1:49042 rAddr=login.weixin.qq.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:17:12 INF [TCP] connected lAddr=127.0.0.1:41288 rAddr=filehelper.weixin.qq.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:17:14 INF [TCP] connected lAddr=127.0.0.1:41290 rAddr=res.wx.qq.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:17:14 INF [TCP] connected lAddr=127.0.0.1:41296 rAddr=res.wx.qq.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:17:20 INF [TCP] connected lAddr=127.0.0.1:58038 rAddr=res.wx.qq.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:17:31 INF [TCP] connected lAddr=127.0.0.1:60748 rAddr=filehelper.weixin.qq.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:17:31 INF [TCP] connected lAddr=127.0.0.1:60770 rAddr=login.wx.qq.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:17:31 INF [TCP] connected lAddr=127.0.0.1:60790 rAddr=login.wx.qq.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:17:31 INF [TCP] connected lAddr=127.0.0.1:60758 rAddr=login.wx.qq.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:17:31 INF [TCP] connected lAddr=127.0.0.1:60800 rAddr=filehelper.weixin.qq.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:17:31 INF [TCP] connected lAddr=127.0.0.1:60794 rAddr=filehelper.weixin.qq.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:17:31 INF [TCP] connected lAddr=127.0.0.1:60774 rAddr=login.wx.qq.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:17:31 INF [TCP] connected lAddr=127.0.0.1:60784 rAddr=login.wx.qq.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+06:20:03 INF [TCP] connected lAddr=127.0.0.1:41302 rAddr=contile.services.mozilla.com:443 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]

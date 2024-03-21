@@ -1,0 +1,58 @@
+05:02:10 INF [API] listening addr=127.0.0.1:45419
+05:02:10 INF [Inbound] Mixed(http+socks) listening addr=127.0.0.1:7890
+05:02:11 INF [Config] initial compatible provider name=YouTube
+05:02:11 INF [Config] initial compatible provider name=JP
+05:02:11 INF [Config] initial compatible provider name=Proxies
+05:02:11 INF [Config] initial compatible provider name=Spotify
+05:02:11 INF [Config] initial compatible provider name=Final
+05:02:11 INF [Config] initial compatible provider name=Bahamut
+05:02:11 INF [Config] initial compatible provider name=Google
+05:02:11 INF [Config] initial compatible provider name=Disney
+05:02:11 INF [Config] initial compatible provider name=Steam
+05:02:11 INF [Config] initial compatible provider name=Bilibili
+05:02:11 INF [Config] initial compatible provider name=TW
+05:02:11 INF [Config] initial compatible provider name=SG
+05:02:11 INF [Config] initial compatible provider name=HK
+05:02:11 INF [Config] initial compatible provider name=OpenAI
+05:02:11 INF [Config] initial compatible provider name=PayPal
+05:02:11 INF [Config] initial compatible provider name=US
+05:02:11 INF [Config] initial compatible provider name=Telegram
+05:02:11 INF [Config] initial compatible provider name=Netflix
+05:02:11 INF [Config] initial compatible provider name=Microsoft
+05:02:11 INF [Config] initial compatible provider name=Apple
+05:02:11 INF [DNS] server listening addr=127.0.0.1:8853
+05:02:15 INF [Config] initial compatible provider name=Google
+05:02:15 INF [Config] initial compatible provider name=Final
+05:02:15 INF [Config] initial compatible provider name=Steam
+05:02:15 INF [Config] initial compatible provider name=HK
+05:02:15 INF [Config] initial compatible provider name=Proxies
+05:02:15 INF [Config] initial compatible provider name=Bahamut
+05:02:15 INF [Config] initial compatible provider name=Microsoft
+05:02:15 INF [Config] initial compatible provider name=Telegram
+05:02:15 INF [Config] initial compatible provider name=Spotify
+05:02:15 INF [Config] initial compatible provider name=Disney
+05:02:15 INF [Config] initial compatible provider name=PayPal
+05:02:15 INF [Config] initial compatible provider name=Bilibili
+05:02:15 INF [Config] initial compatible provider name=OpenAI
+05:02:15 INF [Config] initial compatible provider name=US
+05:02:15 INF [Config] initial compatible provider name=TW
+05:02:15 INF [Config] initial compatible provider name=SG
+05:02:15 INF [Config] initial compatible provider name=JP
+05:02:15 INF [Config] initial compatible provider name=YouTube
+05:02:15 INF [Config] initial compatible provider name=Apple
+05:02:15 INF [Config] initial compatible provider name=Netflix
+05:02:22 INF [TCP] connected lAddr=127.0.0.1:51746 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+05:02:24 INF [TCP] connected lAddr=127.0.0.1:51756 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+05:02:24 INF [TCP] connected lAddr=127.0.0.1:51766 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+05:02:43 INF [TCP] connected lAddr=127.0.0.1:55632 rAddr=normandy.cdn.mozilla.net:443 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+05:02:43 INF [TCP] connected lAddr=127.0.0.1:55646 rAddr=r3.o.lencr.org:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+05:02:43 INF [TCP] connected lAddr=127.0.0.1:55654 rAddr=classify-client.services.mozilla.com:443 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+05:02:43 INF [TCP] connected lAddr=127.0.0.1:55656 rAddr=r3.o.lencr.org:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+05:02:43 INF [TCP] connected lAddr=127.0.0.1:55666 rAddr=content-signature-2.cdn.mozilla.net:443 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+05:03:27 INF [TCP] connected lAddr=127.0.0.1:59872 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+05:03:28 INF [TCP] connected lAddr=127.0.0.1:59882 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+05:03:28 INF [TCP] connected lAddr=127.0.0.1:59888 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+05:04:14 INF [TCP] connected lAddr=127.0.0.1:36488 rAddr=identity.bitwarden.com:443 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+05:04:22 INF [TCP] connected lAddr=127.0.0.1:37038 rAddr=contile.services.mozilla.com:443 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+05:04:22 INF [TCP] connected lAddr=127.0.0.1:37044 rAddr=r3.o.lencr.org:80 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
+05:04:22 INF [TCP] connected lAddr=127.0.0.1:37056 rAddr=api.bitwarden.com:443 mode=rule rule=Match() proxy=Final[🇭🇰 香港实验性 IEPL 中继 1]
